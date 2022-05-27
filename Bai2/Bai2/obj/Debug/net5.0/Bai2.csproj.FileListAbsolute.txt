@@ -1,0 +1,32 @@
+C:\Users\NHKhang\source\repos\Bai2\Bai2\bin\Debug\net5.0\Bai2.exe
+C:\Users\NHKhang\source\repos\Bai2\Bai2\bin\Debug\net5.0\Bai2.deps.json
+C:\Users\NHKhang\source\repos\Bai2\Bai2\bin\Debug\net5.0\Bai2.runtimeconfig.json
+C:\Users\NHKhang\source\repos\Bai2\Bai2\bin\Debug\net5.0\Bai2.runtimeconfig.dev.json
+C:\Users\NHKhang\source\repos\Bai2\Bai2\bin\Debug\net5.0\Bai2.dll
+C:\Users\NHKhang\source\repos\Bai2\Bai2\bin\Debug\net5.0\ref\Bai2.dll
+C:\Users\NHKhang\source\repos\Bai2\Bai2\bin\Debug\net5.0\Bai2.pdb
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\Bai2.csproj.AssemblyReference.cache
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\Bai2.AssemblyInfoInputs.cache
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\Bai2.AssemblyInfo.cs
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\Bai2.dll
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\ref\Bai2.dll
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\Bai2.pdb
+C:\Users\NHKhang\source\repos\Bai2\Bai2\obj\Debug\net5.0\Bai2.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\bin\Debug\net5.0\Bai2.exe
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\bin\Debug\net5.0\Bai2.deps.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\bin\Debug\net5.0\Bai2.runtimeconfig.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\bin\Debug\net5.0\Bai2.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\bin\Debug\net5.0\Bai2.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\bin\Debug\net5.0\ref\Bai2.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\bin\Debug\net5.0\Bai2.pdb
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\Bai2.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\Bai2.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\Bai2.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\Bai2.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\ref\Bai2.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\Bai2.pdb
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\Bai2\Bai2\obj\Debug\net5.0\Bai2.genruntimeconfig.cache

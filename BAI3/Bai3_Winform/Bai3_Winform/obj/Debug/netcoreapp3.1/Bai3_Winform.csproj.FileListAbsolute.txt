@@ -1,0 +1,51 @@
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.exe
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.deps.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.runtimeconfig.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.pdb
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.pdb
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\New folder\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.exe
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.deps.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.runtimeconfig.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.pdb
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.pdb
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.exe
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.deps.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.runtimeconfig.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\bin\Debug\netcoreapp3.1\Bai3_Winform.pdb
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.dll
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.pdb
+C:\Users\PC\OneDrive\Máy tính\CTDL&GT\FINAL_PROJECT\CTDL_CuoiKi\BAI3\Bai3_Winform\Bai3_Winform\obj\Debug\netcoreapp3.1\Bai3_Winform.genruntimeconfig.cache

@@ -1,0 +1,3564 @@
+﻿about_0_Adverb(Trạng từ)_khoảng
+about _0_Preposition(Giới từ)_về
+attractive_0_Adjective(Tính từ)_hút, thu hút, có duyên, lôi cuốn
+audience_0_Noun(Danh từ)_thính, khan giả
+August_0_Noun(Danh từ)_tháng Tám
+aunt_0_Noun(Danh từ)_cô, dì
+author_0_Noun(Danh từ)_tác giả
+authority_0_Noun(Danh từ)_uy quyền, quyền lực
+automatic_0_Adjective(Tính từ)_tự động
+automatically_0_Adverb(Trạng từ)_một cách tự động
+autumn_0_Noun(Danh từ)_mùa thu (US: mùa thu là fall)
+available_0_Adjective(Tính từ)_có thể dùng được, có giá trị, hiệu lực
+average_0_Adjective(Tính từ)_trung bình
+average_0_Noun(Danh từ)_số trung bình, mức trung bình
+avoid_0_Verb(Động từ)_tránh, tránh xa
+awake_0_Adjective(Tính từ)_đánh thức, làm thức dậy
+award_0_Noun(Danh từ)_phần thưởng
+attorney_0_Noun(Danh từ)_người được ủy quyền
+attract_0_Verb(Động từ)_hút; thu hút, hấp dẫn
+attraction_0_Noun(Danh từ)_sự hút, sức hút
+attractive_0_Adjective(Tính từ)_hút, thu hút, có duyên, lôi cuốn
+audience_0_Noun(Danh từ)_thính, khan giả
+arrival_0_Noun(Danh từ)_sự đến, sự tới nơi
+arrive_0_Verb(Động từ)_đến, tới nơi
+arrow_0_Noun(Danh từ)_tên, mũi tên
+art_0_Noun(Danh từ)_nghệ thuật, mỹ thuật
+article_0_Noun(Danh từ)_bài báo, đề mục
+artificial_0_Adjective(Tính từ)_nhân tạo
+artificially_0_Adverb(Trạng từ)_nhân tạo
+artist_0_Noun(Danh từ)_nghệ sĩ
+artistic_0_Adjective(Tính từ)_thuộc nghệ thuật, thuộc mỹ thuật
+as_0_Preposition(Giới từ)_ như (as you know...)
+begin_0_Verb(Động từ)_bắt đầu, khởi đầu
+beginning_0_Noun(Danh từ)_phần đầu, lúc bắt đầu, lúc khởi đầu
+behalf_0_Noun(Danh từ)_sự thay mặt
+on behalf of sb thay mặt cho ai, nhân danh ai
+behave_0_Verb(Động từ)_đối xử, ăn ở, cư xử
+behaviour_0_Noun(Danh từ)_hành vi, thói quen.
+behind_0_Preposition(Giới từ)_sau
+behind_0_Adverb(Trạng từ)_ở đằng sau
+belief_0_Noun(Danh từ)_lòng tin, đức tin, sự tin tưởng
+believe_0_Verb(Động từ)_tin, tin tưởng
+bell_0_Noun(Danh từ)_cái chuông, tiếng chuông
+belong_0_Verb(Động từ)_thuộc về, của, thuộc quyền sở hữu
+below_0_Preposition(Giới từ)_ở dưới
+below_0_Adverb(Trạng từ)_dưới thấp, phía dưới
+belt_0_Noun(Danh từ)_dây lưng, thắt lưng
+bend_0_Verb(Động từ)_cuỗi xuống, uốn cong
+bend_0_Noun(Danh từ)_cúi xuống, uốn cong
+bent_0_Adjective(Tính từ)_khiếu, sở thích, khuynh hướng
+beneath_0_Preposition(Giới từ)_ở dưới
+beneath_0_Adverb(Trạng từ)_dưới thấp
+benefit_0_Noun(Danh từ)_lợi, lợi ích
+benefit_0_Verb(Động từ)_giúp ích, làm lợi cho
+beside_0_Preposition(Giới từ)_bên cạnh, so với
+bet_0_Verb(Động từ)_đánh cuộc, cá cược
+bet_0_Noun(Danh từ)_sự đánh cuộc
+betting_0_Noun(Danh từ)_sự đánh cuộc
+better_0_Adjective(Tính từ)_tốt hơn, tốt nhất
+good_0_Adjective(Tính từ)_tốt, khỏe
+between_0_Preposition(Giới từ)_giữa
+between_0_Adverb(Trạng từ)_ở giữa
+beyond_0_Preposition(Giới từ)_ở xa
+beyond_0_Adverb(Trạng từ)_phía bên kia
+bicycle (also bike)_0_Noun(Danh từ)_xe đạp
+bid_0_Verb(Động từ)_đặt giá, trả giá
+bid_0_Noun(Danh từ)_sự đặt giá, sự trả giá
+big_0_Adjective(Tính từ)_to, lớn
+bill_0_Noun(Danh từ)_hóa đơn, giấy bạc
+bin_0_Noun(Danh từ)_thùng, thùng đựng rượu
+biology_0_Noun(Danh từ)_sinh vật học
+bird_0_Noun(Danh từ)_chim
+birth_0_Noun(Danh từ)_sự ra đời, sự sinh đẻ
+birthday_0_Noun(Danh từ)_ngày sinh, sinh nhật
+biscuit_0_Noun(Danh từ)_bánh quy
+bit_0_Noun(Danh từ)_miếng, mảnh
+bite_Verb(Động từ)_cắn, ngoạm
+bite_0_Noun(Danh từ)_sự cắn, sự ngoạm
+bitter_0_Adjective(Tính từ)_đắng
+bitter_0_Adjective(Tính từ)_đắng cay, chua xót
+bitterly_0_Adverb(Trạng từ)_đắng, đắng cay, chua xót
+black_0_Adjective(Tính từ_đen
+black_0_Noun(Danh từ)_màu đen
+blade_0_Noun(Danh từ)_lưỡi (dao, kiếm) 
+blade_0_Noun(Danh từ)_lá (cỏ, cây)
+cent_0_Noun(Danh từ)_đồng xu (bằng 1/100 đô la)
+cabinet_0_Noun(Danh từ)_tủ có nhiều ngăn đựng đồ
+cable_0_Noun(Danh từ)_dây cáp
+cake_0_Noun(Danh từ)_bánh ngọt
+calculate_0_Verb(Động từ)_tính toán
+calculation_0_Noun(Danh từ)_sự tính toán
+call_0_Verb(Động từ)_gọi
+call_0_Noun(Danh từ)_tiếng kêu, tiếng gọi
+called được gọi, bị gọi
+calm_0_Adjective(Tính từ)_yên lặng, yên ắng
+calm_0_Verb(Động từ)_làm dịu đi
+calm_0_Noun(Danh từ)_sự yên lặng, sự êm ả
+calmly_0_Adverb(Trạng từ)_yên lặng, êm ả
+calmly_0_adverb(Trạng từ)_bình tĩnh, điềm tĩnh
+camera_0_Noun(Danh từ)_máy ảnh
+camp_0_Noun(Danh từ)_trại, chỗ cắm sạc
+camp_0_Verb(Động từ)_cắm trại, hạ trại
+camping_0_Noun(Danh từ)_sự cắm trại
+campaign_0_Noun(Danh từ)_chiến dịch, cuộc vận động
+cancel_0_Verb(Động từ)_hủy bỏ, xóa bỏ
+cancer_0_Noun(Danh từ)_bệnh ung thư
+candidate_0_Noun(Danh từ)_người ứng cử, thí sinh, người dự thi
+candy_0_Noun(Danh từ)_kẹo
+cap_0_Noun(Danh từ)_mũ lưỡi trai, mũ vải
+capable_0_Adjective(Tính từ)_có tài, có năng lực
+capable_0_Adjective(Tính từ)_có khả năng, cả gan
+capacity_0_Noun(Danh từ)_năng lực, khả năng tiếp thu, năng suất
+capital_0_Noun(Danh từ)_thủ đô, tiền vốn
+capital_0_Adjective(Tính từ)_chủ yếu, chính yếu, cơ bản
+captain_0_Noun(Danh từ)_người cầm đầu, người chỉ huy, thủ lĩnh
+capture_0_Verb(Động từ_bắt giữa, bắt
+capture_0_Noun(Danh từ)_sự bắt giữ, sự bị bắt
+car_0_Noun(Danh từ)_xe hơi
+card_0_Noun(Danh từ)_thẻ, thiếp
+cardboard_0_Noun(Danh từ)_bìa cứng, các tông
+care_0_Noun(Danh từ)_sự chăm sóc, chăm nom
+care_0_Verb(Động từ)_chăm sóc
+dad_0_Noun(Danh từ)_bố, cha
+daily_0_Adjective(Tính từ)_hàng ngày
+damage_0_Noun(Danh từ)_mối hạn, điều hại, sự thiệt hại
+damage_0_Verb(Động từ)_làm hư hại, làm hỏng, gây thiệt hại
+damp_0_Adjective(Tính từ)_ẩm, ẩm ướt, ẩm thấp
+dance_0_Noun(Danh từ)_sự nhảy múa, sự khiêu vũ
+dance_0_Verb(Động từ)_nhảy múa, khiêu vũ
+dancing_0_Noun(Danh từ)_sự nhảy múa, sự khiêu vũ
+dancer_0_Noun(Danh từ)_diễn viên múa, người nhảy múa
+danger_0_Noun(Danh từ)_sự nguy hiểm, mối hiểm nghèo
+danger_0_Noun(Danh từ)_nguy cơ, mối đe dọa
+dangerous_0_Adjective(Tính từ)_nguy hiểm
+dare_0_Verb(Động từ)_dám, dám đương đầu với; thách
+dark_0_Adjective(Tính từ)_tối, tối tăm
+dark_0_Noun(Danh từ)_bóng tối, ám muội
+data_0_Noun(Danh từ)_số liệu, dữ liệu
+date_0_Noun(Danh từ)_ngày, kỳ, kỳ hạn, thời kỳ, thời đại
+date_0_Verb(Động từ)_đề ngày tháng, ghi niên hiệu
+daughter_0_Noun(Danh từ)_con gái
+day_0_Noun(Danh từ)_ngày, ban ngày
+dead_0_Adjective(Tính từ)_chết, tắt
+deaf_0_Adjective(Tính từ)_điếc, làm thinh, làm ngơ
+deal_0_Verb(Động từ)_phân phát, phân phối
+deal_0_Noun(Danh từ)_sự giao dịch, thỏa thuận mua bán
+dear_0_Adjective(Tính từ)_thân, thân yêu, thân mến; kính thưa, thưa
+death_0_Noun(Danh từ)_sự chết, cái chết
+debate_0_Noun(Danh từ)_cuộc tranh luận, cuộc tranh cãi
+debate_0_Verb(Động từ)_tranh luận, bàn cãi
+debt_0_Noun(Danh từ)_nợ
+decade_0_Noun(Danh từ)_thập kỷ, bộ mười, nhóm mười
+decay_0_Noun(Danh từ)_ tình trạng suy tàn, suy sụp
+decay_0_Verb(Động từ)_đổ nát, tiêu tan
+December_0_Noun(Danh từ)_tháng mười hai, tháng Chạp
+decide_0_Verb(Động từ)_quyết định, giải quyết, phân xử
+decision_0_Noun(Danh từ)_sự quyết định, sự giải quyết, sự phân xử
+declare_0_Verb(Động từ)_tuyên bố, công bố
+decline_0_Noun(Danh từ)_sự suy tàn, sự suy sụp
+decline_0_Verb(Động từ)_suy sụp, suy tàn
+decorate_0_Verb(Động từ)_trang hoàng, trang trí
+decoration_0_Noun(Danh từ)_sự trang hoàng, đồ trang hoàng, trang trí
+decorative_0_Adjective(Tính từ)_để trang hoàng, để trang trí, để làm cảnh
+decrease_0_Verb(Động từ)_giảm bớt, làm suy giảm,
+decrease_0_Noun(Danh từ)_sự giảm đi, sự giảm sút
+deep_0_Adjective(Tính từ)_ sâu
+deep_0_Adverb(Trạng từ)_khó lường, bí ẩn
+deeply_0_Adverb(Trạng từ)_sâu, sâu xa, sâu sắc
+defeat_0_Verb(Động từ)_đánh thắng, đánh bại
+defeat_0_Noun(Danh từ)_sự thất bại (1 kế hoạch), sự tiêu tan (hy vọng..)
+defence_0_Noun(Danh từ)_cái để bảo vệ, vật để chống đỡ, sự che chở
+defend_0_Verb(Động từ)_che chở, bảo vệ, bào chữa
+define_0_Verb(Động từ)_định nghĩa
+definite_0_Adjective(Tính từ)_xác định, định rõ, rõ ràng
+definitely_0_Adverb(Trạng từ)_rạch ròi, dứt khoát
+definition_0_Noun(Danh từ)_sự định nghĩa, lời định nghĩa
+degree_0_Noun(Danh từ)_mức độ, trình độ
+degree_0_Noun(Danh từ)_bằng cấp; độ
+delay_0_Noun(Danh từ)_sự chậm trễ, sự trì hoãn, sự cản trở
+delay_0_Verb(Động từ)_làm chậm trễ
+deliberate_0_Adjective(Tính từ)_thận trọng, có tính toán, chủ tâm, có suy nghĩ cân nhắc
+deliberately_0_Adverb(Trạng từ)_thận trọng, có suy nghĩ cân nhắc
+delicate_0_Adjective(Tính từ)_thanh nhã, thanh tú, tế nhị, khó xử
+delight_0_Noun(Danh từ)_sự vui thích, sự vui sướng, điều thích thú
+delight_0_Verb(Động từ)_làm vui thích, làm say mê
+delighted_0_Adjective(Tính từ)_vui mừng, hài lòng
+deliver_0_Verb(Động từ)_cứu khỏi, thoát khỏi, bày tỏ, giãi bày
+delivery_0_Noun(Danh từ)_sự phân phát, sự phân phối, sự giao hàng
+delivery_0_Noun(Danh từ)_sự bày tỏ, phát biếu
+demand_0_Noun(Danh từ)_sự đòi hỏi, sự yêu cầu
+demand_0_Verb(Động từ)_đòi hỏi, yêu cầu
+demonstrate_0_Verb(Động từ)_chứng minh, giải thích
+demonstrate_0_Verb(Động từ)_bày tỏ, biểu lộ
+dentist_0_Noun(Danh từ)_nha sĩ
+deny_0_Verb(Động từ)_từ chối, phản đối, phủ nhận
+department_0_Noun(Danh từ)_cục, sở, ty, ban, khoa
+department_0_Noun(Danh từ)_gian hàng, khu bày hàng
+departure_0_Noun(Danh từ)_sự rời khỏi, sự đi, sự khởi hành
+depend_0_Verb(Động từ)_phụ thuộc, tùy thuộc
+depend_0_Verb(Động từ)_dựa vào, ỷ vào, trông mong vào
+deposit_0_Noun(Danh từ)_vật gửi, tiền gửi, tiền đặt cọc
+deposit_0_Verb(Động từ)_gửi, đặt cọc
+depress_0_Verb(Động từ)_làm chán nản, làm phiền muộn
+depress_0_Verb(Động từ)_làm suy giảm
+depressing_0_Adjective(Tính từ)_làm chán nản làm thát vọng, làm trì trệ
+depressed_0_Adjective(Tính từ)_chán nản, thất vọng, phiền muộn
+depressed_0_Adjective(Tính từ)_suy yếu, đình trệ
+depth_0_Noun(Danh từ)_chiều sâu, độ dày
+derive_0_Verb(Động từ)_nhận được từ, lấy được từ
+derive_0_Verb(Động từ)_xuất phát từ, bắt nguồn, chuyển hóa từ
+describe_0_Verb(Động từ)_diễn tả, miêu tả, mô tả
+description_0_Noun(Danh từ)_sự mô tả, sự tả, sự miêu tả
+desert_0_Noun(Danh từ_sa mạc; công lao, giá trị
+desert_0_Verb(Động từ)_rời bỏ, bỏ trốn
+deserted_0_Adjective(Tính từ)_hoang vắng, không người ở
+deserve_0_Verb(Động từ)_đáng, xứng đáng
+design_0_Noun(Danh từ)_sự thiết kế, kế hoạch, đề cương. phác thảo
+design_0_Verb(Động từ)_phác họa, thiết kế
+desire_0_Noun(Danh từ)_ước muốn
+desire_0_Verb(Động từ)_thèm muốn, ao ước
+desk_0_Noun(Danh từ)_bàn (học sinh, viết, làm việc)
+desperate_0_Adjective(Tính từ)_liều mạng, liều lĩnh
+desperate_0_Adjective(Tính từ)_tuyệt vọng
+desperately_0_Adverb(Trạng từ)_liều lĩnh, liều mạng
+despite_0_Preposition(Giới từ)_dù, mặc dù, bất chấp
+destroy_0_Verb(Động từ)_phá, phá hoại, phá huỷ, tiêu diệt, triệt phá
+destruction_0_Noun(Danh từ)_sự phá hoại, sự phá hủy, sự tiêu diệt
+detail_0_Noun(Danh từ)_chi tiết
+detailed_0_Adjective(Tính từ)_cặn kẽ, tỉ mỉ, nhiều chi tiết
+determination_0_Noun(Danh từ)_sự xác định, sự định rõ; sự quyết định
+determine_0_Verb(Động từ)_xác định, định rõ 
+determine_0_Verb(Động từ)_quyết định
+determined_0_Adjective(Tính từ)_đã được xác định, đã được xác định rõ
+develop_0_Verb(Động từ)_phát triển, mở rộng
+determine_0_Verb(Động từ)_trình bày, bày tỏ
+development_0_Noun(Danh từ)_sự phát triển, sự trình bày, sự bày tỏ
+device_0_Noun(Danh từ)_kế sách; thiết bị, dụng cụ, máy móc
+devote_0_Verb(Động từ)_hiến dâng, dành hết cho
+devoted_0_Adjective(Tính từ)_hiến cho, dâng cho, dành cho
+devoted_0_Adjective(Tính từ)_hết lòng, nhiệt tình
+diagram_0_Noun(Danh từ)_biểu đồ
+diamond_0_Noun(Danh từ)_kim cương
+diary_0_Noun(Danh từ)_sổ nhật ký
+diary_0_Noun(Danh từ)_lịch ghi nhớ
+dictionary_0_Noun(Danh từ)_từ điển
+die_0_Verb(Động từ)_chết, từ trần, hy sinh
+dying_0_Adjective(Tính từ)_sự chết
+diet_0_Noun(Danh từ)_chế độ ăn uống, chế độ ăn kiêng
+difference_0_Noun(Danh từ)_sự khác nhau
+different_0_Adjective(Tính từ)_khác, khác biệt, khác nhau
+differently_0_Adverb(Trạng từ)_khác, khác biệt, khác nhau
+difficult_0_Adjective(Tính từ)_khó, khó khăn, gay go
+difficulty_0_Noun(Danh từ)_sự khó khăn, nỗi khó khăn, điều cản trở
+dig_0_Verb(Động từ)_đào bới, xới
+dinner_0_Noun(Danh từ)_bữa trưa, chiều
+direct_0_Adjective(Tính từ)_trực tiếp, thẳng, thẳng thắn
+direct_0_Verb(Động từ)_gửi, viết cho ai, điều khiển
+directly_0_Adverb(Trạng từ)_trực tiếp, thẳng
+direction_0_Noun(Danh từ)_sự điều khiển, sự chỉ huy
+director_0_Noun(Danh từ)_giám đốc, người điều khiển, chỉ huy
+dirt_0_Noun(Danh từ)_đồ bẩn thỉu, đồ dơ bẩn, vật rác rưởi
+dirty_0_Adjective(Tính từ)_bẩn thỉu, dơ bẩn
+disabled_0_Adjective(Tính từ)_bất lực, không có khă năng
+disadvantage_0_Noun(Danh từ)_sự bất lợi, sự thiệt hại
+disagree_0_Verb(Động từ)_bất đồng, không đồng ý, khác, không giống
+disagree_0_Verb(Động từ)_không hợp
+disagreement_0_Noun(Danh từ)_sự bất đồng, sự không đồng ý, sự khác nhau
+disappear_0_Verb(Động từ)_biến mất, biến đi
+disappoint_0_Verb(Động từ)_không làm thỏa ước nguyện, ý mong đợi
+disappoint_0_Verb(Động từ)_thất ước, làm thất bại
+disappointing_0_Adjective(Tính từ)_làm chán ngán, làm thất vọng
+disappointed_0_Adjective(Tính từ)_thất vọng
+disappointment_0_Noun(Danh từ)_sự chán ngán, sự thất vọng
+disapproval_0_Noun(Danh từ)_sự phản đổi, sự không tán thành
+disapprove_0_Verb(Động từ)_không tán thành, phản đối, chê
+disapproving_0_Adjective(Tính từ)_phản đối
+disaster_0_Noun(Danh từ)_tai họa, thảm họa
+disc_0_Noun(Danh từ)_đĩa
+discipline_0_Noun(Danh từ)_kỷ luật
+discount_0_Noun(Danh từ)_sự bớt giá, sự chiết khấu, tiền bớt, chiết khấu
+discover_0_Verb(Động từ)_khám phá, phát hiện ra, nhận ra
+discovery_0_Noun(Danh từ)_sự khám phá, sự tìm ra, sự phát hiện ra
+discuss_0_Verb(Động từ)_thảo luận, tranh luận
+discussion_0_Noun(Danh từ)_sự thảo luận, sự tranh luận
+disease_0_Noun(Danh từ)_căn bệnh, bệnh tật
+disgust_0_Verb(Động từ)_ làm ghê tởm, làm kinh tởm, làm phẫn nộ
+disgust_0_Noun(Danh từ)_chán ghét, thì ghét
+disgusting_0_Adjective(Tính từ)_làm ghê tởm, kinh tởm
+disgusted_0_Adjective(Tính từ)_chán ghét, phẫn nộ
+dish_0_Noun(Danh từ)_đĩa (đựng thức ăn)
+dishonest_0_Adjective(Tính từ)_bất lương, không thành thật
+dishonestly_0_Adverb(Trạng từ)_bất lương, không lương thiện
+disk_0_Noun(Danh từ)_đĩa, đĩa hát
+dislike_0_Verb(Động từ)_không thích
+dislike _0_Noun(Danh từ)_sự không ưa, sự ghét
+dismiss_0_Verb(Động từ)_giải tán (quân đội, đám đông)
+dismiss_0_Verb(Động từ)_sa thải (người làm)
+display_0_Verb(Động từ)_ bày tỏ, phô trương, trưng bày
+display _0_Noun(Danh từ)_sự bày ra, phô bày, trưng bày
+dissolve_0_Verb(Động từ)_tan rã, phân hủy, giải tán
+distance_0_Noun(Danh từ)_khoảng cách, tầm xa
+distinguish_0_Verb(Động từ)_phân biệt, nhận ra, nghe ra
+distribute_0_Verb(Động từ)_phân bổ, phân phối, sắp xếp, phân loại
+distribution_0_Noun(Danh từ)_sự phân bổ, sự phân phối, phân phát, sự sắp xếp
+district_0_Noun(Danh từ)_huyện, quận
+disturb_0_Verb(Động từ)_làm mất yên tĩnh, làm náo động, quấy rầy
+disturbing_0_Adjective(Tính từ)_xáo trộn
+divide_0_Verb(Động từ)_chia, chia ra, phân ra
+division_0_Noun(Danh từ)_sự chia, sự phân chia, sự phân loại
+divorce_0_Noun(Danh từ)_sự ly dị
+divorce_0_Verb(Động từ)_ly dị
+divorced_0_Adjective(Tính từ)_đã ly dị
+do_0_Verb(Động từ)_làm
+undo_0_Verb(Động từ)_tháo, gỡ
+undo_0_Verb(Động từ)_xóa bỏ, hủy bỏ
+doctor_0_Noun(Danh từ)_bác sĩ y khoa, tiến sĩ
+document_0_Noun(Danh từ)_văn kiện, tài liệu, tư liệu
+dog_0_Noun(Danh từ)_chó
+dollar_0_Noun(Danh từ)_đô la Mỹ
+domestic_0_Adjective(Tính từ)_vật nuôi trong nhà, (thuộc) nội trợ, quốc nội
+dominate_0_Verb(Động từ)_chiếm ưu thế, có ảnh hưởng, chi phối
+dominate_0_Verb(Động từ)_kiềm chế
+door_0_Noun(Danh từ)_cửa, cửa ra vào
+dot_0_Noun(Danh từ)_chấm nhỏ, điểm
+dot_0_Noun(Danh từ)_của hồi môn
+double_0_Adjective(Tính từ)_lượng gấp đôi
+double_0_Determiner(Từ hạn định)_đôi, hai, kép
+double_0_Adverb(Trạng từ)_lượng gấp đôi
+double_0_Noun(Danh từ)_cái gấp đôi
+double_0_Verb(Động từ)_làm gấp đôi
+doubt_0_Noun(Danh từ)_sự nghi ngờ, sự ngờ vực
+doubt_0_Verb(Động từ)_nghi ngờ, ngờ vực
+down_0_Adverb(Trạng từ)_xuống
+down_0_Preposition(Giới từ)_xuống
+downstairs_0_Adverb(Trạng từ)_ở dưới nhà, ở tầng dướ;
+downstairs_0_Adjective(Tính từ)_xuống gác
+downstairs_0_Noun(Danh từ)_tầng dưới
+downwards_0_Adverb(Trạng từ)_xuống, đi xuống
+downward_0_Adjective(Tính từ)_xuống, đi xuống
+dozen_0_Noun(Danh từ)_tá (12)
+dozen_0_Determiner(Từ hạn định)_tá (12)
+draft_0_Noun(Danh từ)_ bản phác thảo, sơ đồ thiết kế
+draft_0_Verb(Động từ)_phác thảo, thiết kế
+drag_0_Verb(Động từ)_lôi kéo, kéo lê
+drama_0_Noun(Danh từ)_kịch, tuồng
+dramatic_0_Adjective(Tính từ)_như kịch, như đóng kịch, thích hợp với sân khấu
+dramatically_0_Adverb(Trạng từ)_đột ngột
+draw_0_Verb(Động từ)_vẽ, kéo
+drawing_0_Noun(Danh từ)_bản vẽ, bức vẽ, sự kéo
+drawer_0_Noun(Danh từ)_người vẽ, người kéo
+dream_0_Noun(Danh từ)_giấc mơ
+dream_0_Verb(Động từ)_mơ
+dress_0_Noun(Danh từ)_quần áo
+dress_0_Verb(Động từ)_mặc (quần áo), ăn mặc
+dressed_0_Adjective(Tính từ)_cách ăn mặc
+drink_0_Noun(Danh từ)_đồ uống
+drink_0_Verb(Động từ)_uống
+drive_Verb(Động từ)_lái , đua xe
+drive_0_Noun(Danh từ)_cuộc đua xe (điều khiển)
+driving_0_Noun(Danh từ)_sự lái xe, cuộc đua xe
+driver_0_Noun(Danh từ)_người lái xe
+drop_0_Verb(Động từ)_chảy nhỏ giọt, rơi, rớt
+drop_0_Noun(Danh từ)_giọt (nước, máu...)
+drug_0_Noun(Danh từ)_thuốc, dược phẩm
+drug_0_Noun(Danh từ)_ma túy
+drugstore_0_Noun(Danh từ)_hiệu thuốc, cửa hàng dược phẩm
+drum_0_Noun(Danh từ)_cái trống, tiếng trống
+drunk_0_Adjective(Tính từ)_say rượu
+dry_0_Adjective(Tính từ)_khô, cạn
+dry_0_Verb(Động từ)_làm khô, sấy khô
+due_0_Adjective(Tính từ)_đến kỳ hạn (trả nợ)
+due_0_Adjective(Tính từ)_xứng đáng, thích đáng
+dull_0_Adjective(Tính từ)_chậm hiểu, ngu đần
+dump_0_Verb(Động từ)_đổ rác
+dump_0_Noun(Danh từ)_đống rác, nơi đổ rác
+during_0_Preposition(Giới từ)_trong lúc, trong thời gian
+dust_0_Noun(Danh từ)_ bụi, rác
+dust_0_Verb(Động từ)_rắc (bụi, phấn), quét bụi, phủi bụi
+duty_0_Noun(Danh từ)_sự tôn kính, kính trọng
+duty_0_Noun(Danh từ)_bồn phận, trách nhiệm
+DVD_0_Noun(Danh từ)_Đầu DVD
+each_0_Determiner(Từ hạn định),_0_Pronoun(Đại từ)_mỗi
+each other (also one another)_0_Pronoun(Đại từ) nhau, lẫn nhau
+ear_0_Noun(Danh từ)_tai
+early_0_Adjective(Tính từ),_0_Adverb(Trạng từ)_sớm
+earn_0_Verb(Động từ)_kiếm (tiền), giành (phần thưởng)
+earth_0_Noun(Danh từ)_đất, trái đất
+ease_0_Noun(Danh từ),_0_Verb(Động từ)_sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm, làm dễ chịu
+east_0_Noun(Danh từ),_0_Adjective(Tính từ),_0_Adverb(Trạng từ)_hướng đông, phía đông, (thuộc) đông, ở phía đông
+eastern_0_Adjective(Tính từ)_đông
+easy_0_Adjective(Tính từ)_dễ dàng, dễ tính, ung dung
+easily_0_Adverb(Trạng từ)_dễ dàng
+eat_0_Verb(Động từ)_ăn
+economic_0_Adjective(Tính từ)_(thuộc) Kinh tế
+economy_0_Noun(Danh từ)_sự tiết kiệm, sự quản lý kinh tế
+edge_0_Noun(Danh từ)_lưỡi, cạnh sắc
+edition_0_Noun(Danh từ)_nhà xuất bản, sự xuất bản
+editor_0_Noun(Danh từ)_người thu thập và xuất bản, chủ bút
+educate_0_Verb(Động từ)_giáo dục, cho ăn học; rèn luyện
+educated_0_Adjective(Tính từ)_được giáo dục, được đào tạo
+education_0_Noun(Danh từ)_sự giáo dục, sự rèn luyện (kỹ năng)
+effect_0_Noun(Danh từ)_hiệu ứng, hiệu quả, kết quả
+effective_0_Adjective(Tính từ)_có kết quả, có hiệu lực
+effectively_0_Adverb(Trạng từ)_có kết quả, có hiệu lực
+efficient_0_Adjective(Tính từ)_có hiệu lực, có hiệu quả
+efficiently_0_Adverb(Trạng từ)_có hiệu quả, hiệu nghiệm
+effort_0_Noun(Danh từ)_sự cố gắng, sự nỗ lực
+egg_0_Noun(Danh từ)_trứng
+either_0_Determiner(Từ hạn định)_mỗi, một
+either_0_Pronoun(Đại từ)_mỗi
+either_0_Adverb(Trạng từ)_cũng phải thế
+elbow_0_Noun(Danh từ)_khuỷu tay
+elderly_0_Adjective(Tính từ)_có tuổi, cao tuổi
+elect_0_Verb(Động từ)_bầu, quyết định
+election_0_Noun(Danh từ)_sự bầu cử, cuộc tuyển cử
+electric_0_Adjective(Tính từ)_(thuộc) điện, có điện, phát điện
+electrical_0_Adjective(Tính từ)_(thuộc) điện
+electricity_0_Noun(Danh từ)_điện, điện lực
+electricity_0_Noun(Danh từ)_điện lực học
+electronic_0_Adjective(Tính từ)_(thuộc) điện tử
+elegant_0_Adjective(Tính từ)_thanh lịch, tao nhã
+element_0_Noun(Danh từ)_yếu tôd, nguyên tố
+elevator_0_Noun(Danh từ)_máy nâng, thang máy
+else_0_Adverb(Trạng từ)_khác, nữa
+else_0_Adverb(Trạng từ)_nếu không
+elsewhere_0_Adverb(Trạng từ)_ở một nơi nào khác
+email_0_Noun(Danh từ)_thư điện tử
+email_0_Verb(Động từ)_gửi thư điện tử
+embarrass_0_Verb(Động từ)_lúng túng, làm ngượng nghịu
+embarrass_0_Verb(Động từ)_làm rắc rối, gây khó khăn
+embarrassing_0_Adjective(Tính từ)_làm lúng túng, ngăn trở
+embarrassed_0_Adjective(Tính từ)_lúng túng, bối rối, ngượng
+embarrassed_0_Adjective(Tính từ)_mang nợ
+embarrassment_0_Noun(Danh từ)_sự lúng túng, sự bối rối
+emerge_0_Verb(Động từ)_nổi lên, hiện ra
+emerge_0_Verb(Động từ)_nổi bật lên
+emergency_0_Noun(Danh từ)_tình trạng khẩn cấp
+emotion_0_Noun(Danh từ)_xự xúc động, sự cảm động, mối xác cảm
+emotional_0_Adjective(Tính từ)_cảm động, xúc động, xúc cảm
+emotional_0_Adjective(Tính từ)_dễ cảm động, dễ xúc cảm
+emotionally_0_Adverb(Trạng từ)_xúc động
+emphasis_0_Noun(Danh từ)_sự nhấn mạnh, tầm quan trọng
+emphasize_0_Verb(Động từ)_nhấn mạnh, làm nổi bật
+empire_0_Noun(Danh từ)_đế chế, đế quốc
+employ_0_Verb(Động từ)_dùng, thuê ai làm gì
+unemployed_0_Adjective(Tính từ)_thất nghiệp
+unemployed_0_Adjective(Tính từ)_không dùng, không sử dụng được
+employee_0_Noun(Danh từ)_người lao động, người làm công
+employer_0_Noun(Danh từ)_chủ, người sử dụng lao động
+employment_0_Noun(Danh từ)_sự thuê mướn
+unemployment_0_Noun(Danh từ)_sự thất nghiệp, nạn thất nghiệp
+empty_0_Adjective(Tính từ)_trống, rỗng
+empty_0_Verb(Động từ)_đổ, dốc
+empty_0_Verb(Động từ)_uống, làm cạn
+enable_0_Verb(Động từ)_làm cho có thể, có khả năng
+enable_0_Verb(Động từ)_cho phép ai làm gì
+encounter_0_Verb(Động từ)_chạm chán, bắt gặp
+encounter_0_Noun(Danh từ)_sự chạm trán, sự bắt gặp
+encourage_0_Verb(Động từ)_động viên, ủng hộ, giúp đỡ, làm can đảm, mạnh dạn
+encouragement_0_Noun(Danh từ)_niềm cổ vũ, động viên, khuyến khích, sự làm can đảm
+end_0_Noun(Danh từ)_giới hạn, sự kết thúc
+end_0_Verb(Động từ)_kết thúc, chấm dứt
+ending_0_Noun(Danh từ)_sự kết thúc, sự chấm dứt
+ending_0_Noun(Danh từ)_phần cuối, kết cục
+enemy_0_Noun(Danh từ)_kẻ thù, quân địch
+energy_0_Noun(Danh từ)_năng lượng, nghị lực, sinh lực
+engage_0_Verb(Động từ)_hứa hẹn, cam kết, đính ước
+engaged_0_Adjective(Tính từ)_đã đính ước, đã hứa hôn
+engaged_0_Adjective(Tính từ)_đã có người
+engine_0_Noun(Danh từ)_máy, động cơ
+engineer_0_Noun(Danh từ)_kỹ sư
+engineering_0_Noun(Danh từ)_nghề kỹ sư, công việc của kỹ sư
+enjoy_0_Verb(Động từ)_thưởng thức, thích thú cái gì, được hưởng, có được
+enjoyable_0_Adjective(Tính từ)_thú vị, thích thú
+enjoyment_0_Noun(Danh từ)_sự thích thú, sự có được, được hưởng
+enormous_0_Adjective(Tính từ)_to lớn, khổng lồ
+enough_0_Determiner(Từ hạn định)_đủ
+enough_0_Pronoun(Đại từ)_đủ
+enough_0_Adverb(Trạng từ)_đủ
+enquiry_0_Noun(Danh từ)_sự điều tra, sự thẩm vấn
+ensure_0_Verb(Động từ)_bảo đảm, chắc chắn
+enter_0_Verb(Động từ)_đi vào, gia nhập
+entertain_0_Verb(Động từ)_giải trí, tiếp đón, chiêu đãi
+entertaining_0_Adjective(Tính từ)_giải trí
+entertainer_0_Noun(Danh từ)_người quản trò, người tiếp đãi, chiêu đãi
+entertainment_0_Noun(Danh từ)_sự giải trí, sự tiếp đãi, chiêu đãi
+enthusiasm_0_Noun(Danh từ)_sự hăng hái, sự nhiệt tình
+enthusiastic_0_Adjective(Tính từ)_hăng hái, say mê, nhiệt tình
+entire_0_Adjective(Tính từ)_toàn thể, toàn bộ
+entirely_0_Adverb(Trạng từ)_toàn vẹn, trọn vẹn, toàn bộ
+entitle_0_Verb(Động từ)_cho tiêu đề, cho tên (sách)
+entitle_0_Verb(Động từ)_cho quyền làm gì
+entrance_0_Noun(Danh từ)_sự đi vào, sự nhậm chức
+entry_0_Noun(Danh từ)_sự ghi vào sổ sách, sự đi vào, sự tiếp nhận (pháp lý)
+envelope_0_Noun(Danh từ)_phong bì
+environment_0_Noun(Danh từ)_môi trường, hoàn cảnh xung quanh
+environmental_0_Adjective(Tính từ)_thuộc về môi trường
+equal_0_Adjective(Tính từ)_ngang, bằng
+equal_0_Noun(Danh từ)_người ngang hàng, ngang tài, sức
+equal_0_Verb(Động từ)_bằng, ngang
+equally_0_Adverb(Trạng từ)_bằng nhau, ngang bằng
+equipment_0_Noun(Danh từ)_trang, thiết bị
+equivalent_0_Adjective(Tính từ)_tương đương
+equivalent_0_Noun(Danh từ)_từ, vật tương đương
+error_0_Noun(Danh từ)_lỗi, sự sai sót, sai lầm
+escape_0_Verb(Động từ)_trốn thoát, thoát khỏi
+escape_0_Noun(Danh từ)_sự trốn thoát, lỗi thoát
+especially_0_Adverb(Trạng từ)_đặc biệt là, nhất là
+essay_0_Noun(Danh từ)_bài tiểu luận
+essential_0_Adjective(Tính từ)_bản chất, thực chất, cốt yếu
+essential_0_Noun(Danh từ)_yếu tố cần thiết
+essentially_0_Adverb(Trạng từ)_về bản chất, về cơ bản
+establish_0_Verb(Động từ)_lập, thành lập
+estate_0_Noun(Danh từ)_tài sản, di sản, bất động sản
+estimate_0_Noun(Danh từ)_sự ước lượng, đánh giá
+estimate_0_Verb(Động từ)_ước lượng, đánh giá
+euro_0_Noun(Danh từ)_đơn vị tiền tệ của liên minh châu Âu
+even_0_Adverb(Trạng từ)_ngay cả, ngay, lại còn
+even_0_Adjective(Tính từ)_bằng phẳng, điềm đạm, ngang bằng
+evening_0_Noun(Danh từ)_buổi chiều, tối
+event_0_Noun(Danh từ)_sự việc, sự kiện
+eventually_0_Adverb(Trạng từ)_cuối cùng
+ever_0_Adverb(Trạng từ)_từng, từ trước tới giờ
+every_0_Determiner(Từ hạn định)_mỗi, mọi
+everyone_0_Pronoun(Đại từ)_mọi người
+everything_0_Pronoun(Đại từ)_mọi vật, mọi thứ
+everywhere_0_Adverb(Trạng từ)_mọi nơi
+evidence_0_Noun(Danh từ)_điều hiển nhiên, điều rõ ràng
+evil_0_Adjective(Tính từ)_xấu, ác
+evil_0_Noun(Danh từ)_điều xấu, điều ác, điều tai hại 
+exact_0_Adjective(Tính từ)_chính xác, đúng
+exactly_0_Adverb(Trạng từ)_chính xác, đúng đắn
+exaggerate_0_Verb(Động từ)_cường điệu, phóng đại
+exaggerated_0_Adjective(Tính từ)_cường điệu, phòng đại
+exam_0_Noun(Danh từ)_viết tắt của Examination (xem nghĩa phía dưới)
+examination_0_Noun(Danh từ)_sự thi cử, kỳ thi
+examine_0_Verb(Động từ)_thẩm tra, khám xét, hỏi han (thí sinh)
+example_0_Noun(Danh từ)_thí dụ, ví dụ
+excellent_0_Adjective(Tính từ)_xuất sắc, xuất chúng
+except_0_Preposition(Giới từ)_trừ ra, không kể
+except_0_Conjunction(Liên từ)_trừ phi
+exception_0_Noun(Danh từ)_sự trừ ra, sự loại ra
+exchange_0_Verb(Động từ)_trao đổi
+exchange_0_Noun(Danh từ)_sự trao đổi
+excite_0_Verb(Động từ)_kích thích, kích động
+exciting_0_Adjective(Tính từ)_hứng thú, thú vị
+excited_0_Adjective(Tính từ)_bị kích thích, bị kích động
+excitement_0_Noun(Danh từ)_sự kích thích, sự kích động
+exclude_0_Verb(Động từ)_ngăn chạn, loại trừ
+excluding_0_Preposition(Giới từ)_ngoài ra, trừ ra
+excuse_0_Noun(Danh từ)_lời xin lỗi, bào chữa
+excuse_0_Verb(Động từ)_xin lỗi, tha thứ, tha lỗi
+executive_0_Noun(Danh từ)_sự thi hành, chấp hành
+executive_0_Adjective(Tính từ)_(thuộc) sự thi hành, chấp hành
+exercise_0_Noun(Danh từ)_bài tập, sự thi hành, sự thực hiện
+exercise_0_Verb(Động từ)_làm, thi hành, thực hiện
+exhibit_0_Verb(Động từ)_ trưng bày, triển lãm
+exhibit_0_Noun(Danh từ)_vật trưng bày, vật triển lãm
+exhibition_0_Noun(Danh từ)_cuộc triển lãm, trưng bày
+exist_0_Verb(Động từ)_tồn tại, sống
+existence_0_Noun(Danh từ)_sự tồn tại, sự sống
+exit_0_Noun(Danh từ)_lỗi ra, sự đi ra, thoát ra
+expand_0_Verb(Động từ)_mở rộng, phát triển, nở, giãn ra
+expect_0_Verb(Động từ)_chờ đợi, mong ngóng
+expect_0_Verb(Động từ)_liệu trước
+expected_0_Adjective(Tính từ)_được chờ đợi, được hy vọng
+unexpected_0_Adjective(Tính từ)_bất ngờ, gây ngạc nhiên
+unexpectedly_0_Adverb(Trạng từ)_bất ngờ, gây ngạc nhiên
+expectation_0_Noun(Danh từ)_sự mong chờ, sự chờ đợi
+expense_0_Noun(Danh từ)_chi phí
+expensive_0_Adjective(Tính từ)_đắt
+experience_0_Noun(Danh từ)_kinh nghiệm
+experience_0_Verb(Động từ)_trải qua, nếm mùi
+experienced_0_Adjective(Tính từ)_có kinh nghiệm, từng trải, giàu kinh nghiệm
+experiment_0_Noun(Danh từ)_cuộc thí nghiệm
+experiment_0_Verb(Động từ)_thí nghiệm
+expert_0_Noun(Danh từ)_chuyên gia
+expert_0_Adjective(Tính từ)_chuyên môn, thành thạo
+explain_0_Verb(Động từ)_giải nghĩa, giải thích
+explanation_0_Noun(Danh từ)_sự giải nghĩa, giải thích
+explode_0_Verb(Động từ)_đập tan (hy vọng...), làm nổ, nổ
+explore_0_Verb(Động từ)_thăm dò, thám hiểm
+explosion_0_Noun(Danh từ)_sự nổ, sự phát triển ồ ạt
+export_0_Verb(Động từ)_xuất khẩu
+export_0_Noun(Danh từ)_hàng xuất khẩu, sự xuất khẩu
+expose_0_Verb(Động từ)_trưng bày, phơi bày
+express_0_Verb(Động từ)_diễn tả, biểu lộ, bày tỏ
+express_0_Adjective(Tính từ)_nhanh, tốc hành
+expression_0_Noun(Danh từ)_sự diễn tả, sự bày tỏ, biểu lộ, sự diễn đạt
+extend_0_Verb(Động từ)_giơ, duỗi ra (tay, chân..)
+extend_0_Verb(Động từ)_kéo dài (thời gian..), dành cho, gửi lời
+extension_0_Noun(Danh từ)_sự giơ, duỗi
+extension_0_Noun(Danh từ)_sự kéo dài, sự dành cho, gửi lời
+extensive_0_Adjective(Tính từ)_rộng rãi, bao quát
+extent_0_Noun(Danh từ) _quy mô, phạm vi
+extra_0_Adjective(Tính từ)_thêm, phụ, ngoại
+extra_0_Noun(Danh từ)_ thứ thêm, phụ
+extra_0_Adverb(Trạng từ)_ thêm, phụ, ngoại
+extraordinary_0_Adjective(Tính từ)_đặc biệt, lạ thường, khác thường
+extreme_0_Adjective(Tính từ)_vô cùng, khắc nghiệt, quá khích, cực đoan
+extreme_0_Noun(Danh từ)_sự quá khích
+extremely_0_Adverb(Trạng từ)_vô cùng, cực độ
+eye_0_Noun(Danh từ)_mắt
+face_0_Noun(Danh từ)_mặt, thể diện
+face_0_Verb(Động từ)_đương đầu, đối phó, đối mặt
+facility_0_Noun(Danh từ)_điều kiện dễ dàng, sự dễ dàng, thuận lợi
+fact_0_Noun(Danh từ)_việc, sự việc, sự kiện
+factor_0_Noun(Danh từ)_nhân tố
+factory_0_Noun(Danh từ)_nhà máy, xí nghiệp, xưởng
+fail_0_Verb(Động từ)_sai, thất bại
+failure_0_Noun(Danh từ)_sự thất bại, người thất bại
+faint_0_Adjective(Tính từ)_nhút nhát, yếu ớt
+faintly_0_Adverb(Trạng từ)_nhút nhát, yếu ớt
+fair_0_Adjective(Tính từ)_hợp lý, công bằng
+fair_0_Adjective(Tính từ)_thuận lợi
+fairly_0_Adverb(Trạng từ)_hợp lý, công bằng
+unfair_0_Adjective(Tính từ)_gian lận, không công bằng
+unfair_0_Adjective(Tính từ)_bất lợi
+unfairly_0_Adverb(Trạng từ)_gian lận, không công bằng
+unfairly_0_Adverb(Trạng từ)_bất lợi
+faith_0_Noun(Danh từ)_sự tin tưởng, tin cậy
+faith_0_Noun(Danh từ)_niềm tin, vật đảm bảo
+faithful_0_Adjective(Tính từ)_trung thành, chung thủy, trung thực
+faithfully_0_Adverb(Trạng từ)_trung thành, chung thủy, trung thực
+fall_0_Verb(Động từ)_rơi, ngã,
+fall_0_Noun(Danh từ)_sự rơi, ngã
+false_0_Adjective(Tính từ)_sai, nhầm, giả dối
+fame_0_Noun(Danh từ)_tên tuổi, danh tiếng
+familiar_0_Adjective(Tính từ)_thân thiết, quen thộc
+family_0_Noun(Danh từ)_ gia đình
+family_0_Adjective(Tính từ)_thuộc gia đình
+famous_0_Adjective(Tính từ)_nổi tiếng
+fan_0_Noun(Danh từ)_người hâm mộ
+fancy_0_Verb(Động từ)_tưởng tượng, cho, nghĩ rằng
+fancy_0_Adjective(Tính từ)_tưởng tượng
+far_0_Adverb(Trạng từ)_xa
+far_0_Adjective(Tính từ)_xa
+further_0_Adjective(Tính từ)_xa hơn nữa
+further_0_Adjective(Tính từ)_thêm nữa
+farm_0_Noun(Danh từ)_trang trại
+farming_0_Noun(Danh từ)_công việc trồng trọt, đồng áng
+farmer_0_Noun(Danh từ)_nông dân, người chủ trại
+fashion_0_Noun(Danh từ)_mốt, thời trang
+fashionable_0_Adjective(Tính từ)_đúng mốt, hợp thời trang
+fast_0_Adjective(Tính từ)_nhanh
+fast_0_Adverb(Trạng từ)_nhanh
+fasten_0_Verb(Động từ)_buộc, trói
+fat_0_Adjective(Tính từ)_béo, béo bở
+fat_0_Noun(Danh từ)_mỡ, chất béo
+father_0_Noun(Danh từ)_cha (bố)
+faucet_0_Noun(Danh từ)_vòi (ở thùng rượu....)
+fault_0_Noun(Danh từ)_sự thiết sót, sai sót
+favour_0_Noun(Danh từ)_thiện ý, sự quý mến
+favour_0_Noun(Danh từ)_sự đồng ý
+favour_0_Noun(Danh từ)_sự chiếu cố
+favourite_0_Adjective(Tính từ)_ được ưa thích
+favourite_0_Noun(Danh từ)_người (vật) được ưa thích
+fear_0_Noun(Danh từ)_sự sợ hãi, e sợ
+fear_0_Verb(Động từ)_sợ, lo ngại
+feather_0_Noun(Danh từ)_lông chim
+feature_0_Noun(Danh từ)_nét đặt biệt, điểm đặc trưng
+feature_0_Verb(Động từ)_mô tả nét đặc biệt, đặc trưng của...
+February_0_Noun(Danh từ)_tháng 2
+federal_0_Adjective(Tính từ)_liên bang
+fee_0_Noun(Danh từ)_tiền thù lao, học phí
+feed_0_Verb(Động từ)_cho ăn, nuôi
+feel_0_Verb(Động từ)_cảm thấy
+feeling_0_Noun(Danh từ)_sự cảm thấy, cảm giác
+fellow_0_Noun(Danh từ)_anh chàng (đang yêu), đồng chí
+female_0_Adjective(Tính từ)_thuộc giống cái
+female_0_Noun(Danh từ)_giống cái
+fence_0_Noun(Danh từ)_hàng rào
+festival_0_Noun(Danh từ)_lễ hội, đại hội liên hoan
+fetch_0_Verb(Động từ)_tìm về, đem về
+fetch_0_Verb(Động từ)_làm bực mình
+fetch_0_Verb(Động từ)_làm say mê, quyến rũ
+fever_0_Noun(Danh từ)_cơn sốt, bệnh sốt
+few_0_Determiner(Từ hạn định)_ít, vài
+few_0_Adjective(Tính từ)_số ít
+few_0_Pronoun(Đại từ)_một ít, một vài
+field_0_Noun(Danh từ)_cánh đồng, bãi chiến trường
+fight_0_Verb(Động từ)_đấu tranh, chiến đấu
+fight_0_Noun(Danh từ)_sự đấu tranh, cuộc chiến đấu
+fighting_0_Noun(Danh từ)_sự chiến đấu, sự đấu tranh
+figure_0_Noun(Danh từ)_hình dáng, nhân vật
+figure_0_Verb(Động từ)_hình dung, miêu tả
+file_0_Noun(Danh từ)_hồ sơ, tài liệu
+fill_0_Verb(Động từ)_làm đấy, lấp kín
+film_0_Noun(Danh từ)_phim
+film_0_Verb(Động từ)_được dựng thành phim
+final_0_Adjective(Tính từ)_cuối cùng
+final_0_Noun(Danh từ)_cuộc đấu chung kết
+finally_0_Adverb(Trạng từ)_cuối cùng, sau cùng
+finance_0_Noun(Danh từ)_tài chính
+finance_0_Verb(Động từ)_tài trợ, cấp vốn
+financial_0_Adjective(Tính từ)_thuộc (tài chính)
+find_0_Verb(Động từ)_tìm, tìm thấy 
+fine_0_Adjective(Tính từ)_tốt, giỏi
+finely_0_Adverb(Trạng từ)_đẹp đẽ, tế nhị, cao thượng
+finger_0_Noun(Danh từ)_ngón tay
+finish_0_Verb(Động từ)_kết thúc, hoàn thành
+finish_0_Noun(Danh từ)_sự kết thúc, phần cuối
+finished_0_Adjective(Tính từ)_hoàn tất, hoàn thành
+fire_0_Noun(Danh từ)_lửa
+fire_0_Verb(Động từ)_đốt cháy
+firm_0_Noun(Danh từ)_hãng, công ty
+firm_0_Adjective(Tính từ)_chắc, kiên quyết
+firm_0_Adverb(Trạng từ)_vững vàng, mạnh mẽ
+firmly_0_Adverb(Trạng từ)_vững chắc, kiên quyết
+first_0_Determiner(Từ hạn định)_thứ nhất, đầu tiên 
+first_0_Adverb(Trạng từ)_trước hết
+first_0_Noun(Danh từ)_người, vật đầu tiên, thứ nhất
+fish_0_Noun(Danh từ)_cá, món cá
+fish_0_Verb(Động từ)_câu cá, bắt cá
+fishing_0_Noun(Danh từ)_sự câu cá, sự đánh cá
+fit_0_Verb(Động từ)_hợp, vừa
+fit_0_Adjective(Tính từ)_thích hợp, xứng đáng
+fix_0_Verb(Động từ)_đóng, gắn, lắp
+fix_0_Verb(Động từ)_sửa chữa, sửa sang
+fixed_0_Adjective(Tính từ) đứng yên, bất động
+flag_0_Noun(Danh từ)_quốc kỳ
+flame_0_Noun(Danh từ)_ngọn lửa
+flash_0_Verb(Động từ)_loé sáng, vụt sáng
+flash_0_Noun(Danh từ)_ánh sáng lóe lên, đèn nháy
+flat_0_Adjective(Tính từ)_bằng phẳng, bẹt, nhẵn
+flat_0_Noun(Danh từ)_dãy phòng, căn phòng, mặt phẳng
+flavour_0_Noun(Danh từ)_vị, mùi
+flavour_0_Verb(Động từ)_cho gia vị, làm tăng thêm mùi vị
+flesh_0_Noun(Danh từ)_thịt
+flight_0_Noun(Danh từ)_sự bỏ chạy, rút chạy
+flight_0_Noun(Danh từ)_sự bay, chuyến bay
+float_0_Verb(Động từ)_nổi, trôi, lơ lửng
+flood_0_Noun(Danh từ)_ lụt, lũ lụt
+flood_0_Verb(Động từ)_tràn đầy, tràn ngập
+floor_0_Noun(Danh từ)_sàn, tầng (nhà)
+flour_0_Noun(Danh từ)_bột, bột mỳ
+flow_0_Noun(Danh từ)_sự chảy
+flow_0_Verb(Động từ)_chảy
+flower_0_Noun(Danh từ)_hoa, bông, đóa, cây hoa
+flu_0_Noun(Danh từ)_bệnh cúm
+fly_0_Verb(Động từ)_bay
+fly_0_Noun(Danh từ)_sự bay, quãng đường bay
+flying_0_Adjective(Tính từ)_biết bay
+flying_0_Noun(Danh từ)_sự bay, chuyến bay
+focus_0_Verb(Động từ)_tập trung
+focus_0_Noun(Danh từ)_trung tâm, trọng tâm (n.bóng)
+fold_0_Verb(Động từ)_gấp, vén, xắn
+fold_0_Noun(Danh từ)_nếp gấp
+folding_0_Adjective(Tính từ)_gấp lại được
+follow_0_Verb(Động từ)_đi theo sau, theo, tiếp theo
+following_0_Adjective(Tính từ)_tiếp theo
+following_0_Noun(Danh từ)_theo sau, sau đây.
+following_0_Preposition(Giới từ)_sau, tiếp theo
+food_0_Noun(Danh từ)_đồ ăn, thức, món ăn
+foot_0_Noun(Danh từ)_chân, bàn chân
+football_0_Noun(Danh từ)_bóng đá
+for_0_Preposition(Giới từ)_cho, dành cho...
+force_0_Noun(Danh từ)_sức mạnh
+force_0_Verb(Động từ)_ép buộc, cưỡng ép
+forecast_0_Noun(Danh từ)_sự dự đoán, dự báo
+forecast_0_Verb(Động từ)_dự đoán, dự báo
+foreign_0_Adjective(Tính từ)_(thuộc) nước ngoài, từ nước ngoài, ở nước ngoài
+forest_0_Noun(Danh từ)_rừng
+forever_0_Adverb(Trạng từ)_mãi mãi
+forget_0_Verb(Động từ)_quên
+forgive_0_Verb(Động từ)_tha, tha thứ
+fork_0_Noun(Danh từ)_cái nĩa
+form_0_Noun(Danh từ)_hình thể, hình dạng, hình thức
+form_0_Verb(Động từ)_làm thành, được tạo thành
+formal_0_Adjective(Tính từ)_hình thức
+formally_0_Adverb(Trạng từ)_chính thức
+former_0_Adjective(Tính từ)_trước, cũ, xưa, nguyên
+formerly_0_Adverb(Trạng từ)_trước đây, thuở xưa
+formula_0_Noun(Danh từ)_công thức, thể thức, cách thức
+fortune_0_Noun(Danh từ)_sự giàu có, sự thịnh vượng
+forward_0_Adverb(Trạng từ)_về tương lai, sau này ở phía trước, tiến về phía trước
+forward_0_Adjective(Tính từ)_ở phía trước, tiến về phía trước
+found_0_Verb(Động từ)_tìm, tìm thấy
+foundation_0_Noun(Danh từ)_sự thành lập, sự sáng lập
+foundation_0_Noun(Danh từ)_tổ chức
+frame_0_Noun(Danh từ)_cấu trúc, hệ thống
+frame_0_Verb(Động từ)_dàn xếp, bố trí
+free_0_Adjective(Tính từ)_miễn phí, tự do
+free_0_Verb(Động từ)_giải phóng, trả tự do
+free_0_Adverb(Trạng từ)_miễn phí, tự do
+freely_0_Adverb(Trạng từ)_tự do, thoải mái
+freedom_0_Noun(Danh từ)_sự tự do
+freedom_0_Noun(Danh từ)_nền tự do
+freeze_0_Verb(Động từ)_đóng băng, đông lạnh
+frozen_0_Adjective(Tính từ)_lạnh giá
+frequent_0_Adjective(Tính từ)_thường xuyên
+frequently_0_Adverb(Trạng từ)_thường xuyên
+fresh_0_Adjective(Tính từ)_tươi, tươi tắn
+freshly_0_Adverb(Trạng từ)_tươi mát, khỏe khoắn
+Friday_0_Noun(Danh từ)_thứ Sáu
+fridge_0_Noun(Danh từ)_tủ lạnh
+friend_0_Noun(Danh từ)_người bạn
+friendly_0_Adjective(Tính từ)_thân thiện, thân mật
+unfriendly_0_Adjective(Tính từ)_không thân thiện, không có thiện cảm
+friendship_0_Noun(Danh từ)_tình bạn, tình hữu nghị
+frighten_0_Verb(Động từ)_làm sợ, làm hoảng sợ
+frightening_0_Adjective(Tính từ)_kinh khủng, khủng khiếp
+frightened_0_Adjective(Tính từ)_hoảng sợ, khiếp sợ
+from_0_Preposition(Giới từ)_từ
+front_0_Noun(Danh từ)_mặt
+front_0_Adjective(Tính từ)_đằng trước, về phía trước
+freeze_0_Noun(Danh từ)_sự đông lạnh, sự giá lạnh
+freeze_0_Verb(Động từ)_làm đông, làm đóng băng
+fruit_0_Noun(Danh từ)_quả, trái cây
+fry_0_Verb(Động từ)_rán, chiên
+fry_0_Noun(Danh từ)_thịt rán
+fuel_0_Noun(Danh từ)_chất đốt, nhiên liệu
+full_0_Adjective(Tính từ)_đầy, đầy đủ
+fully_0_Adverb(Trạng từ)_đầy đủ, hoàn toàn
+fun_0_Noun(Danh từ)_sự vui đùa, sự vui thích
+fun_0_Adjective(Tính từ)_hài hước
+function_0_Noun(Danh từ)_chức năng
+function_0_Verb(Động từ)_họat động, chạy (máy)
+fund_0_Noun(Danh từ)_kho, quỹ
+fund_0_Verb(Động từ)_tài trợ, tiền bạc, để tiền vào công quỹ
+fundamental_0_Adjective(Tính từ)_cơ bản, cơ sở, chủ yếu
+funeral_0_Noun(Danh từ)_lễ tang, đám tang
+funny_0_Adjective(Tính từ)_buồn cười, khôi hài
+fur_0_Noun(Danh từ)_bộ da lông thú
+furniture_0_Noun(Danh từ)_đồ đạc (trong nhà)
+future_0_Noun(Danh từ)_tương lai
+future_0_Adjective(Tính từ)_tương lai
+gain_0_Verb(Động từ)_lợi, lợi ích
+gain_0_Noun(Danh từ)_giành được, kiếm được, đạt tới
+gallon_0_Noun(Danh từ)_Galông 1gl = 4, 54 lít ở Anh, 3, 78 lít ở Mỹ
+gamble_0_Verb(Động từ)_đánh bạc
+gamble_0_Noun(Danh từ)_cuộc đánh bạc
+gambling_0_Noun(Danh từ)_trò cờ bạc
+game_0_Noun(Danh từ)_trò chơi
+gap_0_Noun(Danh từ)_đèo, lỗ hổng, kẽ hở
+gap_0_Noun(Danh từ)_chỗ trống
+garage_0_Noun(Danh từ)_nhà để ô tô
+garbage_0_Noun(Danh từ)_lòng, ruột (thú)
+garden_0_Noun(Danh từ)_vườn
+gas_0_Noun(Danh từ)_khí, hơi đốt
+gasoline_0_Noun(Danh từ)_dầu lửa, dầu hỏa, xăng
+gate_0_Noun(Danh từ)_cổng
+gather_0_Verb(Động từ)_tập hợp
+gather_0_Verb(Động từ)_hái, lượm, thu thập
+gear_0_Noun(Danh từ)_cơ cấu, thiết bị, dụng cụ
+general_0_Adjective(Tính từ)_chung, chung chung
+general_0_Adjective(Tính từ)_tổng
+generally_0_Adverb(Trạng từ)_nói chung, đại thể
+generate_0_Verb(Động từ)_sinh, đẻ ra
+generation_0_Noun(Danh từ)_sự sinh ra, sự phát sinh ra
+general_0_Adjective(Tính từ)_thế hệ, đời
+generous_0_Adjective(Tính từ)_rộng lượng, khoan hồng, hào phóng
+generously_0_Adverb(Trạng từ)_rộng lượng, hào phóng
+gentle_0_Adjective(Tính từ)_hiền lành, dịu dàng, nhẹ nhàng
+gently_0_Adverb(Trạng từ)_nhẹ nhàng, êm ái, dịu dàng
+gentleman_0_Noun(Danh từ)_người quý phái, người thượng lưu
+genuine_0_Adjective(Tính từ)_thành thật, chân thật
+genuine_0_Adjective(Tính từ)_xác thực
+genuinely_0_Adverb(Trạng từ)_thành thật, chân thật
+geography_0_Noun(Danh từ)_địa lý, khoa địa lý
+get_0_Verb(Động từ)_được, có được
+giant_0_Noun(Danh từ)_người khổng lồ, người phi thường
+giant_0_Adjective(Tính từ)_khổng lồ, phi thường
+gift_0_Noun(Danh từ)_quà tặng
+girl_0_Noun(Danh từ)_con gái
+girlfriend_0_Noun(Danh từ)_bạn gái, người yêu
+give_0_Verb(Động từ)_cho, biếu, tặng
+glad_0_Adjective(Tính từ)_vui lòng, sung sướng
+glass_0_Noun(Danh từ)_kính, thủy tinh, cái cốc, ly
+glasses_0_Noun(Danh từ) kính đeo mắt
+global_0_Adjective(Tính từ)_toàn cầu, toàn thể, toàn bộ
+glove_0_Noun(Danh từ)_bao tay, găng tay
+glue_0_Noun(Danh từ)_keo, hồ
+glue_0_Verb(Động từ)_gắn lại, dán bằng keo, hồ
+gram_0_Noun(Danh từ)_đậu xanh
+go_0_Verb(Động từ)_đi
+goal_0_Noun(Danh từ)_thần, Chúa
+gold_0_Noun(Danh từ)_vàng
+gold_0_Adjective(Tính từ)_bằng vàng
+good_0_Adjective(Tính từ)_tốt, hay, tuyệt
+good_0_Noun(Danh từ)_điều tốt, điều thiện
+goodbye_0_Noun(Danh từ)_tạm biệt
+goodbye_0_Noun(Danh từ)_lời chào tạm biệt
+goods_0_Noun(Danh từ)_của cải, tài sản, hàng hóa
+govern_0_Verb(Động từ)_cai trị, thống trị, cầm quyền
+government_0_Noun(Danh từ)_chính phủ, nội các
+government_0_Noun(Danh từ)_sự cai trị
+governor_0_Noun(Danh từ)_thủ lĩnh, chủ
+governor_0_Noun(Danh từ)_kẻ thống trị
+grab_0_Verb(Động từ)_túm lấy, vồ, chộp lấy
+grade_0_Noun(Danh từ)_điểm, điểm số
+grade_0_Verb(Động từ)_phân loại, xếp loại
+gradual_0_Adjective(Tính từ)_dần dần, từng bước một
+gradually_0_Adverb(Trạng từ)_dần dần, từ từ
+grain_0_Noun(Danh từ)_thóc lúa, hạt, hột
+grain_0_Noun(Danh từ)_tính chất, bản chất
+gram_0_Noun(Danh từ)_ngữ pháp
+grammar_0_Noun(Danh từ)_văn phạm
+grand_0_Adjective(Tính từ)_rộng lớn, vĩ đại
+grandchild_0_Noun(Danh từ)_cháu (của ông bà)
+granddaughter_0_Noun(Danh từ)_cháu gái
+grandfather_0_Noun(Danh từ)_ông
+grandmother_0_Noun(Danh từ)_bà
+grandparent_0_Noun(Danh từ)_ông bà
+grandson_0_Noun(Danh từ)_cháu trai
+grant_0_Verb(Động từ)_cho, ban, cấp
+grant_0_Noun(Danh từ)_sự cho, sự ban, sự cấp
+grass_0_Noun(Danh từ)_cỏ
+grass_0_Noun(Danh từ)_bãi cỏ, đồng cỏ
+grateful_0_Adjective(Tính từ)_biết ơn, dễ chịu, khoan khoái
+grave_0_Noun(Danh từ)_mộ, dấu huyền
+grave_0_Adjective(Tính từ)_trang nghiêm, nghiêm trọng
+great_0_Adjective(Tính từ)_to, lớn, vĩ đại
+greatly_0_Adverb(Trạng từ)_rất, lắm
+greatly_0_Adverb(Trạng từ)_cao thượng, cao cả
+green_0_Adjective(Tính từ)_xanh lá cây
+green_0_Noun(Danh từ)_màu xanh lá cây
+grey_0_Adjective(Tính từ)_xám
+grey_0_Noun(Danh từ)_màu xám
+grocery_0_Noun(Danh từ)_cửa hàng tạp phẩm
+groceries_0_Noun(Danh từ)_hàng tạp hóa
+ground_0_Noun(Danh từ)_mặt đất, đất, bãi đất
+group_0_Noun(Danh từ)_nhóm
+grow_0_Verb(Động từ)_mọc, mọc lên
+growth_0_Noun(Danh từ)_sự lớn lên, sự phát triển
+guarantee_0_Noun(Danh từ)_sự bảo hành, bảo lãnh, người bảo lãnh
+guarantee_0_Verb(Động từ)_cam đoan, bảo đảm
+guard_0_Noun(Danh từ)_cái chắn, người bảo vệ
+guard_0_Verb(Động từ)_bảo vệ, gác, canh giữ
+guess_0_Verb(Động từ)_đoán, phỏng đoán
+guess_0_Noun(Danh từ)_sự đoán, sự ước chừng
+guest_0_Noun(Danh từ)_khách, khách mời
+guide_0_Noun(Danh từ)_điều chỉ dẫn, người hướng dẫn
+guide_0_Verb(Động từ)_dẫn đường, chỉ đường
+guilty_0_Adjective(Tính từ)_có tội, phạm tội, tội lỗi
+gun_0_Noun(Danh từ)_súng
+guy_0_Noun(Danh từ)_bù nhìn, anh chàng, gã
+habit_0_Noun(Danh từ)_thói quen, tập quán
+hair_0_Noun(Danh từ)_tóc
+hairdresser_0_Noun(Danh từ)_thợ làm tóc
+half_0_Noun(Danh từ)_một nửa, phần chia đôi, nửa giờ
+half_0_Determiner(Từ hạn định)_một nửa
+half_0_Pronoun(Đại từ)_phần chia đôi
+half_0_Adverb(Trạng từ)_nửa
+hall_0_Noun(Danh từ)_đại sảnh, tòa (thị chính), hội trường
+hammer_0_Noun(Danh từ)_búa
+hand_0_Noun(Danh từ)_tay, bàn tay
+hand_0_Verb(Động từ)_trao tay, truyền cho
+handle_0_Verb(Động từ)_cầm, sờ mó
+handle_0_Noun(Danh từ)_tay cầm, móc quai
+hang_0_Verb(Động từ)_treo, mắc
+happen_0_Verb(Động từ)_xảy ra, xảy đến
+happiness_0_Noun(Danh từ)_sự sung sướng, hạnh phúc
+unhappiness_0_Noun(Danh từ)_nỗi buồn, sự bất hạnh
+happy_0_Adjective(Tính từ)_vui sướng, hạnh phúc
+happily_0_Adverb(Trạng từ)_sung sướng, hạnh phúc
+unhappy_0_Adjective(Tính từ)_buồn rầu, khốn khổ
+hard_0_Adjective(Tính từ)_cứng, rắn, hà khắc
+hard_0_Adverb(Trạng từ)_hết sức cố gắng, tích cực
+hardly_0_Adverb(Trạng từ)_khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn
+harm_0_Noun(Danh từ)_thiệt hại, tổn hao
+harm_0_Verb(Động từ)_làm hại, gây thiệt hại
+harmful_0_Adjective(Tính từ)_gây tai hại, có hại
+harmless_0_Adjective(Tính từ)_không có hại
+hat_0_Noun(Danh từ)_cái mũ
+hate_0_Verb(Động từ)_ghét
+hate_0_Noun(Danh từ)_lòng căm ghét, thù hận
+hatred_0_Noun(Danh từ)_lòng căm thì, sự căm ghét
+have_0_Verb(Động từ)_có
+he_0_Pronoun(Đại từ)_nó, anh ấy, ông ấy
+head_0_Noun(Danh từ)_cái đầu (người, thú)
+head_0_Verb(Động từ)_chỉ huy, lãnh đại, dẫn đầu
+headache_0_Noun(Danh từ)_chứng nhức đầu
+heal_0_Verb(Động từ)_chữa khỏi, làm lành
+health_0_Noun(Danh từ)_sức khỏe, thể chất, sự lành mạnh
+healthy_0_Adjective(Tính từ)_khỏe mạnh, lành mạnh
+hear_0_Verb(Động từ)_nghe
+hearing_0_Noun(Danh từ)_sự nghe, thính giác
+heart_0_Noun(Danh từ)_tim, trái tim
+heat_0_Noun(Danh từ)_hơi nóng
+heat_0_Verb(Động từ)_sức nóng
+heating_0_Noun(Danh từ)_sự đốt nóng, sự làm nóng
+heaven_0_Noun(Danh từ)_thiên đường
+heavy_0_Adjective(Tính từ)_nặng, nặng nề
+heavily_0_Adverb(Trạng từ)_nặng, nặng nề
+heel_0_Noun(Danh từ)_gót chân
+height_0_Noun(Danh từ)_chiều cao, độ cao
+height_0_Noun(Danh từ)_đỉnh, điểm cao
+hell_0_Noun(Danh từ)_địa ngục
+help_0_Verb(Động từ)_ giúp đỡ
+help_0_Noun(Danh từ)_sự giúp đỡ
+helpful_0_Adjective(Tính từ)_có ích
+helpful_0_Adjective(Tính từ)_giúp đỡ
+hence_0_Adverb(Trạng từ)_sau đây, kể từ đây
+helpful_0_Adjective(Tính từ)_do đó, vì thế
+her_0_Pronoun(Đại từ)_nó, chị ấy, cô ấy, bà ấy
+her_0_Determiner(Từ hạn định)_nó, chị ấy, cô ấy, bà ấy
+hers_0_Pronoun(Đại từ)_cái của nó, cái của cô ấy, cái của chị ấy, cái của bà ấy
+here_0_Adverb(Trạng từ)_đây, ở đây
+hero_0_Noun(Danh từ)_người anh hùng
+herself_0_Pronoun(Đại từ)_chính nó, chính cô ta, chính chị ta, chính bà ta
+hesitate_0_Verb(Động từ)_ngập ngừng, do dự
+hide_0_Verb(Động từ)_trốn, ẩn nấp
+hide_0_Verb(Động từ)_che giấu
+high_0_Adjective(Tính từ)_cao
+high_0_Adverb(Trạng từ)_ở mức độ cao
+highly_0_Adverb(Trạng từ)_tốt, cao
+highly_0_Adverb(Trạng từ)_hết sức, ở mức độ cao
+highlight_0_Verb(Động từ)_làm nổi bật, nêu bật
+highlight_0_Noun(Danh từ)_chỗ nổi bật nhất, đẹp, sáng nhất
+highway_0_Noun(Danh từ)_đường quốc lộ
+hill_0_Noun(Danh từ)_đồi
+him_0_Pronoun(Đại từ)_nó, hắn, ông ấy, anh ấy
+himself_0_Pronoun(Đại từ)_chính nó, chính hắn, chính ông ta, chính anh ta
+hip_0_Noun(Danh từ)_hông
+hire_0_Verb(Động từ)_thuê, cho thuê (nhà...)
+hire_0_Noun(Danh từ)_sự thuê, sự cho thuê
+his_0_Determiner(Từ hạn định)_của nó, của hắn, của ông ấy, của anh ấy
+his_0_Pronoun(Đại từ)_cái của nó, cái của hắn, cái của ông ấy, cái của anh ấy
+historical_0_Adjective(Tính từ)_lịch sử, thuộc lịch sử
+history_0_Noun(Danh từ)_lịch sử, sử học
+hit_0_Verb(Động từ)_đánh, đấm, ném trúng
+hit_0_Noun(Danh từ)_đòn, cú đấm
+hobby_0_Noun(Danh từ)_sở thích riêng
+hold_0_Verb(Động từ)_cầm, nắm, giữ
+hold_0_Noun(Danh từ)_sự cầm, sự nắm giữ
+hole_0_Noun(Danh từ)_lỗ, lỗ trống
+hole_0_Noun(Danh từ)_hang
+holiday_0_Noun(Danh từ)_ngày lễ, ngày nghỉ
+hollow_0_Adjective(Tính từ)_rỗng, trống rỗng
+holy_0_Adjective(Tính từ)_linh thiêng
+holy_0_Adjective(Tính từ)_sùng đạo
+home_0_Noun(Danh từ)_nhà
+home_0_Adverb(Trạng từ)_ở tại nhà, nước mình
+homework_0_Noun(Danh từ)_bài tập về nhà (học sinh), công việc làm ở nhà
+honest_0_Adjective(Tính từ)_lương thiện, trung thực, chân thật
+honestly_0_Adverb(Trạng từ)_lương thiện, trung thực, chân thật
+honour_0_Noun(Danh từ)_danh dự, thanh danh, lòng kính trọng
+hook_0_Noun(Danh từ)_cái móc
+hook_0_Noun(Danh từ)_bản lề
+hook_0_Noun(Danh từ)_lưỡi câu
+hope_0_Verb(Động từ)_hy vọng
+hope_0_Noun(Danh từ)_nguồn hy vọng
+horizontal_0_Adjective(Tính từ)_(thuộc) chân trời, ở chân trời
+horizontal_0_Adjective(Tính từ)_ngang, nằm ngang (trục hoành)
+horn_0_Noun(Danh từ)_sừng (trâu, bò...)
+horror_0_Noun(Danh từ)_điều kinh khủng, sự ghê rợn
+horse_0_Noun(Danh từ)_ngựa
+hospital_0_Noun(Danh từ)_bệnh viện, nhà thương
+host_0_Noun(Danh từ)_chủ nhà, chủ tiệc
+host_0_Verb(Động từ)_dẫn (c.trình), đăng cai tổ chức (hội nghị....)
+hot_0_Adjective(Tính từ)_nóng, nóng bức
+hotel_0_Noun(Danh từ)_khách sạn
+hour_0_Noun(Danh từ)_giờ
+house_0_Noun(Danh từ)_nhà, căn nhà, toàn nhà
+housing_0_Noun(Danh từ)_nơi ăn chốn ở
+household_0_Noun(Danh từ)_hộ, gia đình
+household_0_Adjective(Tính từ)_(thuộc) gia đình
+how_0_Adverb(Trạng từ)_thế nào, như thế nào, làm sao, ra sao
+however_0_Adverb(Trạng từ)_tuy nhiên, tuy vậy, dù thế nào
+huge_0_Adjective(Tính từ)_to lớn, khổng lồ
+human_0_Adjective(Tính từ)_(thuộc) con người
+human_0_Noun(Danh từ)_loài người
+humorous_0_Adjective(Tính từ)_hài hước, hóm hỉnh
+humour_0_Noun(Danh từ)_sự hài hước, sự hóm hỉnh
+hungry_0_Adjective(Tính từ)_đó
+hunt_0_Verb(Động từ)_săn, đi săn
+hunting_0_Noun(Danh từ)_sự đi săn
+hurry_0_Verb(Động từ)_sự vội vàng
+hurry_0_Noun(Danh từ)_sự gấp rút
+hurt_0_Verb(Động từ)_làm bị thương, gây thiệt hại
+husband_0_Noun(Danh từ)_người chồng
+ice_0_Noun(Danh từ)_băng, nước đá
+idea_0_Noun(Danh từ)_ý tưởng, quan niệm
+ideal_0_Adjective(Tính từ)_ (thuộc) quan niệm, tư tưởng
+ideal_0_Noun(Danh từ)_lý tưởng
+ideally_0_Adverb(Trạng từ)_lý tưởng, đúng như lý tưởng
+identify_0_Verb(Động từ)_nhận biết, nhận ra, nhận dạng
+identity_0_Noun(Danh từ)_cá tính, nét nhận dạng
+identity_0_Noun(Danh từ)_tính đồng nhất, giống hệt
+if_0_Conjunction(Liên từ)_nếu, nếu như
+ignore_0_Verb(Động từ)_phớt lờ, tỏ ra không biết đến
+ill_0_Adjective(Tính từ) (especially BrE)_ốm
+illegal_0_Adjective(Tính từ)_trái luật, bất hợp pháp
+illegally_0_Adverb(Trạng từ)_trái luật, bất hợp pháp
+illness_0_Noun(Danh từ)_sự đau yếu, ốm, bệnh tật
+illustrate_0_Verb(Động từ)_minh họa, làm rõ ý
+image_0_Noun(Danh từ)_ảnh, hình ảnh
+imaginary_0_Adjective(Tính từ)_tưởng tượng, ảo
+imagination_0_Noun(Danh từ)_trí tưởng tượng, sự tưởng tượng
+imagine_0_Verb(Động từ)_tưởng tượng, hình dung
+imagine_0_Verb(Động từ)_tưởng rằng, cho rằng
+immediate_0_Adjective(Tính từ)_lập tức, tức thì
+immediately_0_Adverb(Trạng từ)_ngay lập tức
+immoral_0_Adjective(Tính từ)_trái đạo đức, luân lý
+immoral_0_Adjective(Tính từ)_xấu xa
+impact_0_Noun(Danh từ)_sự và chạm, sự tác động, ảnh hưởng
+impatient_0_Adjective(Tính từ)_thiếu kiên nhẫn, nóng vội
+impatiently_0_Adverb(Trạng từ)_nóng lòng, sốt ruột
+implication_0_Noun(Danh từ)_sự lôi kéo, sự liên can, điều gợi ý
+imply_0_Verb(Động từ)_ngụ ý, bao hàm
+import_0_Noun(Danh từ)_sự nhập, sự nhập khẩu
+import _0_Verb(Động từ)_nhập, nhập khẩu
+importance_0_Noun(Danh từ)_sự quan trọng, tầm quan trọng
+important_0_Adjective(Tính từ)_quan trọng, hệ trọng
+importantly_0_Adverb(Trạng từ)_quan trọng, trọng yếu
+unimportant_0_Adjective(Tính từ)_khônh quan trọng, không trọng đại
+impose_0_Verb(Động từ)_đánh (thuế...), bắt gánh vác
+impose_0_Verb(Động từ)_đánh tráo, lợi dụng
+impossible_0_Adjective(Tính từ)_không thể làm được, không thể xảy ra
+impress_0_Verb(Động từ)_ghi, khắc, in sâu vào
+impose_0_Verb(Động từ)_gây ấn tượng, làm cảm động
+impressed_0_Adjective(Tính từ) được ghi, khắc, in sâu vào
+impression_0_Noun(Danh từ)_ấn tượng, cảm giác
+impression_0_Noun(Danh từ)_sự in, đóng dấu
+impressive_0_Adjective(Tính từ)_gấy ấn tượng mạnh
+impressive_0_Adjective(Tính từ)_hùng vĩ, oai vệ
+improve_0_Verb(Động từ)_cải thiện, cái tiến, mở mang
+improvement_0_Noun(Danh từ)_sự cái thiện, sự cải tiến, sự mở mang
+in_0_Preposition(Giới từ)_ở, tại, trong
+in_0_Adverb(Trạng từ)_vào
+inability_0_Noun(Danh từ)_sự bất lực, bất tài
+inch_0_Noun(Danh từ)_insơ (đơn vị đo chiều dài Anh bằng 2, 54 cm)
+incident_0_Noun(Danh từ)_việc xảy ra, việc có liên quan
+include_0_Verb(Động từ)_bao gồm, tính cả
+including_0_Preposition(Giới từ)_bao gồm, kể cả
+income_0_Noun(Danh từ)_lợi tức, thu nhập
+increase_0_Verb(Động từ)_tăng, tăng thêm
+increase_0_Noun(Danh từ)_sự tăng, sự tăng thêm
+increasingly_0_Adverb(Trạng từ)_tăng thêm
+indeed_0_Adverb(Trạng từ)_thật vậy, quả thật
+independence_0_Noun(Danh từ)_sự độc lập, nền độc lập
+independent_0_Adjective(Tính từ)_độc lập
+independently_0_Adverb(Trạng từ)_độc lập
+index_0_Noun(Danh từ)_chỉ số, sự biểu thị
+indicate_0_Verb(Động từ)_chỉ, cho biết
+indicate_0_Verb(Động từ)_biểu thị, trình bày ngắn gọn
+indication_0_Noun(Danh từ)_sự chỉ, sự biểu thị, sự biểu lộ
+indirect_0_Adjective(Tính từ)_gián tiếp
+indirectly_0_Adverb(Trạng từ)_gián tiếp
+individual_0_Adjective(Tính từ)_riêng, riêng biệ;
+individual_0_Noun(Danh từ)_cá nhân
+indoors_0_Adverb(Trạng từ)_ở trong nhà
+indoor_0_Adjective(Tính từ)_trong nhà
+industrial_0_Adjective(Tính từ)_(thuộc) công nghiệp, kỹ nghệ
+industry_0_Noun(Danh từ)_công nghiệp, kỹ nghệ
+inevitable_0_Adjective(Tính từ)_không thể tránh được, chắc chắn xảy ra
+inevitable_0_Adjective(Tính từ)_vẫn thường thấy, nghe
+inevitably_0_Adverb(Trạng từ)_chắc chắn
+infect_0_Verb(Động từ)_nhiễm, tiêm nhiễm, đầu độc, lan truyền
+infected_0_Adjective(Tính từ) bị nhiễm, bị đầu độc
+infection_0_Noun(Danh từ)_sự nhiễm, sự đầu độc
+infectious_0_Adjective(Tính từ)_lây, nhiễm
+influence_0_Noun(Danh từ)_sự ảnh hưởng, sự tác dụng
+influence_0_Verb(Động từ)_ảnh hưởng, tác động
+inform_0_Verb(Động từ)_báo cho biết, cung cấp tin tức
+informal_0_Adjective(Tính từ)_không chính thức, không nghi thức
+information_0_Noun(Danh từ)_tin tức, tài liệu, kiến thức
+ingredient_0_Noun(Danh từ)_phần hợp thành, thành phần
+initial_0_Adjective(Tính từ)_ban đầu, lúc đầu
+initial_0_Noun(Danh từ)_chữ đầu (của 1 tên gọi)
+initially_0_Adverb(Trạng từ)_vào lúc ban đầu, ban đầu
+initiative_0_Noun(Danh từ)_bước đầu, sự khởi đầu
+injure_0_Verb(Động từ)_làm tổn thương, làm hại, xúc phạm
+injured_0_Adjective(Tính từ)_bị tổn thương, bị xúc phạm
+injury_0_Noun(Danh từ)_sự làm tổn thương, làm hại
+injury_0_Noun(Danh từ)_điều hại, điều tổn hại
+ink_0_Noun(Danh từ)_mực
+inner_0_Adjective(Tính từ)_ở trong, nội bộ
+inner_0_Adjective(Tính từ)_thân cận
+innocent_0_Adjective(Tính từ)_vô tội, trong trắng, ngây thơ
+enquiry_0_Noun(Danh từ)_sự điều tra, sự thẩm vấn
+insect_0_Noun(Danh từ)_sâu bọ, côn trùng
+insert_0_Verb(Động từ)_chèn vào, lồng vào
+inside_0_Preposition(Giới từ)_phía trong
+inside_0_Adverb(Trạng từ)_phía trong
+inside_0_Noun(Danh từ)_mặt trong, phần trong
+inside_0_Adjective(Tính từ)_ở trong, nội bộ
+insist_0_Verb(Động từ)_cứ nhất định, cứ khăng khăng
+install_0_Verb(Động từ)_đặt (hệ thống máy móc, thiết bị...)
+instance_0_Noun(Danh từ)_thí dị, ví dụ
+instance_0_Noun(Danh từ)_trường hợp cá biệt
+instead_0_Adverb(Trạng từ)_để thay thế
+institute_0_Noun(Danh từ)_viện, học viện
+institution_0_Noun(Danh từ)_sự thành lập, lập
+institution_0_Noun(Danh từ)_cơ quan, trụ sở
+instruction_0_Noun(Danh từ)_sự dạy, tài liệu cung cấp
+instrument_0_Noun(Danh từ)_dụng cụ âm nhạc khí
+insult_0_Verb(Động từ)_lăng mạ, xỉ nhục
+insult_0_Noun(Danh từ)_lời lăng mạ, sự xỉ nhục
+insulting_0_Adjective(Tính từ)_lăng mạ, xỉ nhục
+insurance_0_Noun(Danh từ)_sự bảo hiểm
+intelligence_0_Noun(Danh từ)_sự hiểu biết, trí thông minh
+intelligent_0_Adjective(Tính từ)_thông minh, sáng trí
+intend_0_Verb(Động từ)_ý định, có ý định
+intended_0_Adjective(Tính từ)_có ý định, có dụng ý
+intention_0_Noun(Danh từ)_ý định, mục đích
+interest_0_Noun(Danh từ)_sự thích thú, sự quan tâm, chú ý
+interest_0_Verb(Động từ)_làm quan tâm, làm chú ý
+interesting_0_Adjective(Tính từ)_làm thích thú, làm quan tâm, làm chú ý
+interested_0_Adjective(Tính từ) có thích thú, có quan tâm, có chú ý
+interior_0_Noun(Danh từ)_phần trong, phía trong
+interior_0_Adjective(Tính từ)_ở trong, ở phía trong
+internal_0_Adjective(Tính từ)_ở trong, bên trong, nội địa
+international_0_Adjective(Tính từ)_quốc tế
+internet_0_Noun(Danh từ)_liên mạng
+interpret_0_Verb(Động từ)_giải thích
+interpretation_0_Noun(Danh từ)_sự giải thích
+interrupt_0_Verb(Động từ)_làm gián đoạn, ngắt lời
+interruption_0_Noun(Danh từ)_sự gián đoạn, sự ngắt lời
+interval_0_Noun(Danh từ)_khoảng (k-t.gian), khoảng cách
+interview_0_Noun(Danh từ)_cuộc phỏng vấn, sự gặp mặt
+interview_0_Verb(Động từ)_phỏng vấn, nói chuyện riêng
+into_0_Preposition(Giới từ)_vào, vào trong
+introduce_0_Verb(Động từ)_giới thiệu
+introduction_0_Noun(Danh từ)_sự giới thiệu, lời giới thiệu
+invent_0_Verb(Động từ)_phát minh, sáng chế
+invention_0_Noun(Danh từ)_sự phát minh, sự sáng chế
+invest_0_Verb(Động từ)_đầu tư
+investigate_0_Verb(Động từ)_điều tra, nghiên cứu
+investigation_0_Noun(Danh từ)_sự điều tra, nghiên cứu
+investment_0_Noun(Danh từ)_sự đầu tư, vốn đầu tư
+invitation_0_Noun(Danh từ)_lời mời, sự mời
+invite_0_Verb(Động từ)_mời
+involve_0_Verb(Động từ)_bao gồm, bao hàm
+involve_0_Verb(Động từ)_thu hút, dồn tâm trí
+involvement_0_Noun(Danh từ)_sự gồm, sự bao hàm
+involvement_0_Noun(Danh từ)_sự để, dồn hết tâm trí vào
+iron_0_Noun(Danh từ)_sắt
+iron_0_Verb(Động từ)_bọc sắt
+irritate_0_Verb(Động từ)_làm phát cáu, chọc tức
+irritating_0_Adjective(Tính từ)_làm phát cáu, chọc tức
+irritated_0_Adjective(Tính từ)_tức giận, cáu tiết
+island_0_Noun(Danh từ)_hòn đảo
+issue_0_Noun(Danh từ)_sự phát ra, sự phát sinh
+issue_0_Verb(Động từ)_phát hành, đưa ra
+it_0_Pronoun(Đại từ)_cái đó, điều đó, con vật đó
+it_0_Determiner(Từ hạn định)_cái đó, điều đó, con vật đó
+its_0_Determiner(Từ hạn định)_của cái đó, của điều đó, của con vật đó
+its_0_Determiner(Từ hạn định)_cái của điều đó, cái của con vật đó
+item_0_Noun(Danh từ)_tin tức
+item_0_Noun(Danh từ)_khoản.., món..., tiết mục
+itself_0_Pronoun(Đại từ)_chính cái đó, chính điều đó, chính con vật đó
+jacket_0_Noun(Danh từ)_áo vét
+jam_0_Noun(Danh từ)_mứt
+January_0_Noun(Danh từ)_tháng giêng
+jealous_0_Adjective(Tính từ)_ghen, ghen tị
+jeans_0_Noun(Danh từ)_quần bò, quần zin
+jelly_0_Noun(Danh từ)_thạch
+jewellery_0_Noun(Danh từ)_nữ trang, kim hoàn
+job_0_Noun(Danh từ)_việc, việc làm
+join_0_Verb(Động từ)_gia nhập, tham gia
+join_0_Verb(Động từ)_nối, chắp, ghép
+joint_0_Adjective(Tính từ)_chung (giữa 2 người hoặc hơn)
+joint_0_Noun(Danh từ)_chỗ nối, đầu nối
+jointly_0_Adverb(Trạng từ)_cùng nhau, cùng chung
+joke_0_Noun(Danh từ)_trò cười, lời nói đùa
+joke_0_Verb(Động từ)_nói đùa, giễu cợt
+journalist_0_Noun(Danh từ)_nhà báo
+journey_0_Noun(Danh từ)_cuộc hành trình (đường bộ)
+journey_0_Noun(Danh từ)_quãng đường, chặng đường đi
+joy_0_Noun(Danh từ)_niềm vui, sự vui mừng
+judge_0_Noun(Danh từ)_xét xử, phân xử
+judge_0_Verb(Động từ)_quan tòa, thẩm phán
+judgement_0_Noun(Danh từ)_sự xét xử
+juice_0_Noun(Danh từ)_nước ép (rau, củ, quả)
+July_0_Noun(Danh từ)_tháng 7
+jump_0_Verb(Động từ)_nhảy
+jump_0_Noun(Danh từ)_sự nhảy, bước nhảy
+June_0_Noun(Danh từ)_tháng 6
+junior_0_Adjective(Tính từ)_trẻ hơn, ít tuổi hơn
+junior_0_Noun(Danh từ)_người ít tuổi hơn
+just_0_Adverb(Trạng từ)_đúng, vừa đủ
+just_0_Adverb(Trạng từ)_vừa mới, chỉ
+justice_0_Noun(Danh từ)_sự công bằng
+justify_0_Verb(Động từ)_bào chữa, biện hộ
+justified_0_Adjective(Tính từ)_hợp lý, được chứng minh là đúng
+keen_0_Adjective(Tính từ)_sắc, bén
+keep_0_Verb(Động từ)_giữ, giữ lại
+key_0_Noun(Danh từ)_chìa khóa, khóa,
+key_0_Adjective(Tính từ)_thuộc (khóa)
+keyboard_0_Noun(Danh từ)_bàn phím
+kick_0_Verb(Động từ)_đá
+kick_0_Noun(Danh từ)_cú đá
+kid_0_Noun(Danh từ)_con dê non
+kill_0_Verb(Động từ)_giết, tiêu diệt
+killing_0_Noun(Danh từ)_sự giết chóc, sự tàn sát
+kilogram_0_Noun(Danh từ)_Kilôgam
+kilometre_0_Noun(Danh từ)_Kilômet
+kind_0_Noun(Danh từ)_loại, giống
+kind_0_Adjective(Tính từ)_tử tế, có lòng tốt
+kindly_0_Adverb(Trạng từ)_tử tế, tốt bụng
+unkind_0_Adjective(Tính từ)_độc ác, tàn nhẫn
+kindness_0_Noun(Danh từ)_sự tử tế, lòng tốt
+king_0_Noun(Danh từ)_vua, quốc vương
+kiss_0_Verb(Động từ)_hôn
+kiss_0_Noun(Danh từ)_cái hôn
+kitchen_0_Noun(Danh từ)_bếp
+kilometre_0_Noun(Danh từ)_Kilômet
+knee_0_Noun(Danh từ)_đầu gối
+knife_0_Noun(Danh từ)_con dao
+knit_0_Verb(Động từ)_đan, thêu
+knitted_0_Adjective(Tính từ)_được đan, được thêu
+knitting_0_Noun(Danh từ)_việc đan
+knitting_0_Noun(Danh từ)_hàng dệt kim
+knock_0_Verb(Động từ)_đánh, đập
+knock_0_Noun(Danh từ)_cú đánh
+knot_0_Noun(Danh từ)_cái nơ
+knot_0_Noun(Danh từ)_điểm nút, điểm trung tâm
+know_0_Verb(Động từ)_biết
+unknown_0_Adjective(Tính từ)_không biết
+knowledge_0_Noun(Danh từ)_sự hiểu biết, tri thức
+litre_0_Noun(Danh từ)_lít
+label_0_Noun(Danh từ)_nhãn, mác
+label_0_Verb(Động từ)_dán nhãn, ghi mác
+laboratory_0_Noun(Danh từ)_phòng thí nghiệm
+labour_0_Noun(Danh từ)_lao động; công việc
+lack_0_Noun(Danh từ)_sự thiếu
+lack_0_Verb(Động từ)_thiếu
+lacking_0_Adjective(Tính từ)_ngu đần, ngây ngô
+lady_0_Noun(Danh từ)_người yêu, vợ, quý bà, tiểu thư
+lake_0_Noun(Danh từ)_hồ
+lamp_0_Noun(Danh từ)_đèn
+land_0_Noun(Danh từ)_đất, đất canh tác, đất đai
+land_0_Verb(Động từ)_đặt chân tới
+landscape_0_Noun(Danh từ)_phong cảnh
+lane_0_Noun(Danh từ)_đường nhỏ (làng, hẻm phố)
+language_0_Noun(Danh từ)_ngôn ngữ
+large_0_Adjective(Tính từ)_rộng, lớn, to
+largely_0_Adverb(Trạng từ)_phong phú, ở mức độ lớn
+last_0_Determiner(Từ hạn định)_lần cuối, sau cùng
+last_0_Adverb(Trạng từ)_lần cuối, sau cùng
+last_0_Noun(Danh từ)_người cuối cùng
+last_0_Noun(Danh từ)_cuối cùng, rốt hết
+last_0_Verb(Động từ)_kéo dài
+late_0_Adjective(Tính từ)_trễ
+late_0_Adverb(Trạng từ)_muộn
+later_0_Adverb(Trạng từ)_chậm hơn
+later_0_Adjective(Tính từ)_chậm hơn
+latest_0_Adjective(Tính từ)_muộn nhất, chậm nhất
+latest_0_Noun(Danh từ)_gần đây nhất
+latter_0_Adjective(Tính từ)_sau cùng
+latter_0_Noun(Danh từ)_gần đây, mới đây
+laugh_0_Verb(Động từ)_cười
+laugh_0_Noun(Danh từ)_tiếng cười
+launch_0_Verb(Động từ)_hạ thủy (tàu), khai trương
+launch_0_Noun(Danh từ)_sự hạ thủy, buổi giới thiệu sản phầm
+law_0_Noun(Danh từ)_luật
+lawyer_0_Noun(Danh từ)_luật sư
+lay_0_Verb(Động từ)_xếp, đặt, bố trí
+layer_0_Noun(Danh từ)_lớp
+lazy_0_Adjective(Tính từ)_lười biếng
+lead_0_Verb(Động từ)_lãnh đạo, dẫn dắt
+lead_0_Noun(Danh từ)_sự lãnh đạo, sự hướng dẫn
+leading_0_Adjective(Tính từ)_lãnh đạo, dẫn đầu
+leader_0_Noun(Danh từ)_người lãnh đạo, lãnh tụ
+leaf_0_Noun(Danh từ)_lá cây, lá (vàng...)
+league_0_Noun(Danh từ)_liên minh, liên hoàn
+lean_0_Verb(Động từ)_nghiêng, dựa, ỷ vào
+learn_0_Verb(Động từ)_học, nghiên cứu
+least_0_Determiner(Từ hạn định)_tối thiểu
+least_0_Pronoun(Đại từ)_số lượng ít nhất
+least_0_Adverb(Trạng từ)_ít nhất
+leather_0_Noun(Danh từ)_da thuộc
+leave_0_Verb(Động từ)_bỏ đi, rời đi, để lại
+lecture_0_Noun(Danh từ)_bài diễn thuyết, bài thuyết trình, bài nói chuyện
+left_0_Adjective(Tính từ)_bên trái
+left_0_Adverb(Trạng từ)_bên trái
+left_0_Noun(Danh từ)_phía trái
+leg_0_Noun(Danh từ)_chân (người, thú, bàn...)
+legal_0_Adjective(Tính từ)_hợp pháp
+legally_0_Adverb(Trạng từ)_hợp pháp
+lemon_0_Noun(Danh từ)_quả chanh
+lend_0_Verb(Động từ)_cho vay, cho mượn
+length_0_Noun(Danh từ)_chiều dài, độ dài
+less_0_Determiner(Từ hạn định)_ít hơn
+less_0_Pronoun(Đại từ)_nhỏ bé, ít hơn
+less_0_Adverb(Trạng từ)_số lượng ít hơn
+lesson_0_Noun(Danh từ)_bài học
+let_0_Verb(Động từ)_cho phép, để cho
+letter_0_Noun(Danh từ)_thư
+letter_0_Noun(Danh từ)_chữ cái, mẫu tự
+level_0_Noun(Danh từ)_trình độ, cấp, vị trí
+level_0_Adjective(Tính từ)_bằng, ngang bằng
+library_0_Noun(Danh từ)_thư viện
+licence_0_Noun(Danh từ)_bằng, chứng chỉ, bằng cử nhân
+licence_0_Noun(Danh từ)_sự cho phép
+license_0_Verb(Động từ)_cấp chứng chỉ, cấp bằng, cho phép
+lid_0_Noun(Danh từ)_nắp, vung (xoong, nồi..)
+lid_0_Noun(Danh từ)_mi mắt (eyelid)
+lie_0_Verb(Động từ)_nói dối
+lie_0_Noun(Danh từ)_lời nói dối, sự dối trá
+life_0_Noun(Danh từ)_đời, sự sống
+lift_0_Verb(Động từ)_giơ lên, nhấc lên
+lift_0_Noun(Danh từ)_sự nâng, sự nhấc lên
+light_0_Noun(Danh từ)_ánh sáng
+light_0_Adjective(Tính từ)_nhẹ, nhẹ nhàng
+light_0_Verb(Động từ)_đốt, thắp sáng
+lightly_0_Adverb(Trạng từ)_nhẹ nhàng
+like_0_Preposition(Giới từ)_giống như
+like_0_Verb(Động từ)_thích
+like_0_Conjunction(Liên từ)_như
+unlike_0_Preposition(Giới từ)_giơ lên, nhấc lên
+unlike_0_Adjective(Tính từ)_khác, không giống
+likely_0_Adjective(Tính từ)_có thể đúng, có thể xảy ra, có khả năng
+likely_0_Adverb(Trạng từ)_có thể, chắc vậy
+unlikely_0_Adjective(Tính từ)_không thể xảy ra, không chắc xảy ra
+limit_0_Noun(Danh từ)_giới hạn, ranh giới
+limit_0_Verb(Động từ)_giới hạn, hạn chế
+limited_0_Adjective(Tính từ)_hạn chế, có giới hạn
+line_0_Noun(Danh từ)_dây, đường, tuyến
+link_0_Noun(Danh từ)_mắt xích, mối liên lạc
+link_0_Verb(Động từ)_liên kết, kết nối
+lip_0_Noun(Danh từ)_môi
+liquid_0_Noun(Danh từ)_chất lỏng
+liquid_0_Adjective(Tính từ)_lỏng, êm ái, du dương, không vững
+list_0_Noun(Danh từ)_danh sách
+list_0_Verb(Động từ)_ghi vào danh sách
+listen_0_Verb(Động từ)_nghe, lắng nghe
+literature_0_Noun(Danh từ)_văn chương, văn học
+litre_0_Noun(Danh từ)_ nhỏ, bé, chút ít
+little_0_Adjective(Tính từ)_ít, không nhều
+little_0_Determiner(Từ hạn định)_ít, một chút
+little_0_Pronoun(Đại từ)_một phần nhỉ
+little_0_Adverb(Trạng từ)_một chút
+live_0_Adjective(Tính từ)_sống, hoạt động
+live_0_Adverb(Trạng từ)_sống, hoạt động
+live_0_Verb(Động từ)_sống
+living_0_Adjective(Tính từ)_sống, đang sống
+lively_0_Adjective(Tính từ)_sống, sinh động
+load_0_Noun(Danh từ)_gánh nặng, vật nặng
+load_0_Verb(Động từ)_chất, chở
+unload_0_Verb(Động từ)_cất gánh nặng, dỡ hàng
+loan_0_Noun(Danh từ)_sự vay mượn
+local_0_Adjective(Tính từ)_địa phương, bộ phận, cục bộ
+locally_0_Adverb(Trạng từ)_có tính chất địa phương, cục bộ
+locate_0_Verb(Động từ)_xác định vị trí, định vị
+located_0_Adjective(Tính từ)_định vị
+location_0_Noun(Danh từ)_vị trí, sự định vị
+lock_0_Verb(Động từ)_khóa
+lock_0_Noun(Danh từ)_khóa
+logic_0_Noun(Danh từ)_lô gic
+logical_0_Adjective(Tính từ)_hợp lý, hợp logic
+lonely_0_Adjective(Tính từ)_cô đơn, bơ vơ
+long_0_Adjective(Tính từ)_dài, xa
+long_0_Adverb(Trạng từ)_lâu
+look_0_Verb(Động từ)_nhìn
+look_0_Noun(Danh từ)_cái nhìn
+loose_0_Adjective(Tính từ)_lỏng, không chặt
+loosely_0_Adverb(Trạng từ)_lỏng lẻo
+lord_0_Noun(Danh từ)_Chúa, vua
+lorry_0_Noun(Danh từ)_xe tải
+lose_0_Verb(Động từ)_mất, thua, lạc
+lost_0_Adjective(Tính từ)_thua, mất
+loss_0_Noun(Danh từ)_sự mất, sự thua
+lot_0_Pronoun(Đại từ)_số lượng lớn
+lot_0_Determiner(Từ hạn định)_rất nhiều
+lot_0_Adverb(Trạng từ)_rất nhiều
+loud_0_Adjective(Tính từ)_to, inh ỏi, ầm ĩ
+loud_0_Adverb(Trạng từ)_to, lớn (nói)
+loudly_0_Adverb(Trạng từ)_ầm ĩ, inh ỏi
+love_0_Noun(Danh từ)_tình yêu, lòng yêu thương
+love_0_Verb(Động từ)_yêu, thích
+lovely_0_Adjective(Tính từ)_đẹp, xinh xắn, có duyên
+lover_0_Noun(Danh từ)_người yêu, người tình
+low_0_Adjective(Tính từ)_thấp, bé
+low_0_Adverb(Trạng từ)_thấp, bé
+loyal_0_Adjective(Tính từ)_trung thành, trung kiên
+luck_0_Noun(Danh từ)_may mắn, vận may
+lucky_0_Adjective(Tính từ)_gặp may, gặp may mắn, hạnh phúc
+unlucky_0_Adjective(Tính từ)_không gặp may, bất hạnh
+luggage_0_Noun(Danh từ)_hành lý
+lump_0_Noun(Danh từ)_cục, tảng, miếng
+lump_0_Noun(Danh từ)_cái bướu
+lunch_0_Noun(Danh từ)_bữa ăn trưa
+lung_0_Noun(Danh từ)_phổi
+machine_0_Noun(Danh từ)_máy, máy móc
+machinery_0_Noun(Danh từ)_máy móc, thiết bị
+mad_0_Adjective(Tính từ)_điên, mất trí
+mad_0_Adjective(Tính từ)_bực điên người
+magazine_0_Noun(Danh từ)_tạp chí
+magic_0_Noun(Danh từ)_ma thuật, ảo thuật
+magic_0_Adjective(Tính từ)_(thuộc) ma thuật, ảo thuật
+mail_0_Noun(Danh từ)_thư từ, bưu kiện
+mail_0_Verb(Động từ)_gửi qua bưu điện
+main_0_Adjective(Tính từ)_chính, chủ yếu, trọng yếu nhất
+mainly_0_Adverb(Trạng từ)_chính, chủ yếu, phần lớn
+maintain_0_Verb(Động từ)_giữ gìn, duy trì, bảo vệ
+major_0_Adjective(Tính từ)_lớn, nhiều hơn, trọng đại, chủ yếu
+majority_0_Noun(Danh từ)_phần lớn, đa số, ưu thế
+make_0_Verb(Động từ)_làm, chế tạo
+make_0_Noun(Danh từ)_sự chế tạo
+make-up_0_Noun(Danh từ)_đồ hóa trang, son phấn
+male_0_Adjective(Tính từ)_trai, trống, đực
+male_0_Noun(Danh từ)_con trai, đàn ông, con trống, đực
+mall_0_Noun(Danh từ)_búa
+man_0_Noun(Danh từ)_con người
+man_0_Noun(Danh từ)_đàn ông
+manage_0_Verb(Động từ)_quản lý, trông nom, điều khiển
+management_0_Noun(Danh từ)_sự quản lý, sự trông nom, sự điều khiển
+manager_0_Noun(Danh từ)_người quản lý, giám đốc
+manner_0_Noun(Danh từ)_cách, lối, kiểu
+man_0_Noun(Danh từ)_dáng, vẻ, thái độ
+manufacture_0_Verb(Động từ)_chế tạo
+manufacture_0_Noun(Danh từ)_sự chế tạo
+manufacturing_0_Noun(Danh từ)_sự sản xuất, sự chế tạo
+manufacturer_0_Noun(Danh từ)_người chế tạo, người sản xuất
+many_0_Determiner(Từ hạn định)_nhiều
+many_0_Pronoun(Đại từ)_nhiều
+map_0_Noun(Danh từ)_bản đồ
+March_0_Noun(Danh từ)_tháng ba
+march_0_Verb(Động từ)_diễu hành, hành quân
+march_0_Noun(Danh từ)_cuộc hành quân, cuộc diễu hành
+mark_0_Noun(Danh từ)_dấu, nhãn, nhãn mác
+mark_0_Verb(Động từ)_đánh dấu, ghi dấu
+market_0_Noun(Danh từ)_chợ, thị trường
+marketing_0_Noun(Danh từ)_ma-kết-tinh
+marriage_0_Noun(Danh từ)_sự cưới xin, sự kết hôn, lễ cưới
+marry_0_Verb(Động từ)_cưới (vợ), lấy (chồng)
+married_0_Adjective(Tính từ)_cưới, kết hôn
+mass_0_Noun(Danh từ)_khối, khối lượng
+mass_0_Adjective(Tính từ)_quần chúng, đại chúng
+massive_0_Adjective(Tính từ)_to lớn, đồ sộ
+master_0_Noun(Danh từ)_chủ, chủ nhân, thầy giáo, thạc sĩ
+match_0_Noun(Danh từ)_trận thi đấu, đối thủ, địch thủ
+match_0_Verb(Động từ)_đối chọi, sánh được
+matching_0_Adjective(Tính từ)_tính địch thù, thi đấu
+mate_0_Noun(Danh từ)_bạn, bạn nghề
+mate_0_Verb(Động từ)_giao phối
+material_0_Noun(Danh từ)¬_nguyên vật liệu
+material_0_Adjective(Tính từ)_vật chất, hữu hình
+mathematics_0_Noun(Danh từ)_toán học, môn toán
+matter_0_Noun(Danh từ),_0_Verb(Động từ)_chất, vật chất; có ý nghĩa, có tính chất quan trọng
+maximum_0_Adjective(Tính từ)_cực độ, tối đa
+maximum_0_Noun(Danh từ)_trị số cực đại, lượng cực đại, cực độ
+may_0_Verb(Động từ)_có thể, có lẽ
+May_0_Noun(Danh từ)_tháng 5
+maybe_0_Adverb(Trạng từ)_có thể, có lẽ
+mayor_0_Noun(Danh từ)_thị trưởng
+me_0_Pronoun(Đại từ)_tôi, tao, tớ
+meal_0_Noun(Danh từ)_bữa ăn
+mean_0_Verb(Động từ)_nghĩa, có nghĩa là
+meaning_0_Noun(Danh từ)_ý, ý nghĩa
+means_0_Noun(Danh từ)_của cải, tài sản, phương tiện
+meanwhile_0_Adverb(Trạng từ)_trong lúc đó, trong lúc ấy
+measure_0_Verb(Động từ)_đo, đo lường
+measure_0_Noun(Danh từ)_sự đo lường, đơn vị đo lường
+measurement_0_Noun(Danh từ)_sự đo lường, phép đo
+meat_0_Noun(Danh từ)_thịt
+media_0_Noun(Danh từ)_phương tiện truyền thông đại chúng
+medical_0_Adjective(Tính từ)_(thuộc) y học
+medicine_0_Noun(Danh từ)_y học, y khoa
+medicine_0_Noun(Danh từ)_thuốc
+medium_0_Adjective(Tính từ)_trung bình, trung, vừa
+medium_0_Noun(Danh từ)_sự trung gian, sự môi giới
+meet_0_Verb(Động từ)_gặp, gặp gỡ
+meeting_0_Noun(Danh từ)_cuộc mít tinh, cuộc biểu tình
+melt_0_Verb(Động từ)_tan ra, chảy ra
+melt_0_Verb(Động từ làm tan chảy ra
+member_0_Noun(Danh từ)_thành viên, hội viên
+membership_0_Noun(Danh từ)_tư cách hội viên, địa vị hội viên
+memory_0_Noun(Danh từ)_bộ nhớ, trí nhớ, kỉ niệm
+mental_0_Adjective(Tính từ)_(thuộc) trí tuệ, trí óc
+mental_0_Adjective(Tính từ)_mất trí
+mentally_0_Adverb(Trạng từ)_về mặt tinh thần
+mention_0_Verb(Động từ)_kể ra, nói đến, đề cập
+menu_0_Noun(Danh từ)_thực đơn
+mere_0_Adjective(Tính từ)_chỉ là
+merely_0_Adverb(Trạng từ)_chỉ, đơn thuần
+mess_0_Noun(Danh từ)_tình trạng bừa bộn, tình trạng lộn xộn
+mess_0_Noun(Danh từ)_người nhếch nhác, bẩn thỉu
+message_0_Noun(Danh từ)_tin nhắn, thư tín, điện thông báo, thông điệp
+metal_0_Noun(Danh từ)_kim loại
+method_0_Noun(Danh từ)_phương pháp, cách thức
+metre_0_Noun(Danh từ)_mét
+midday_0_Noun(Danh từ)_trưa, buổi trưa
+middle_0_Noun(Danh từ)_giũa
+middle_0_Adjective(Tính từ)_ở giữa
+midnight_0_Noun(Danh từ)_nửa đêm, 12h đêm
+might_0_Verb(Động từ)_có thể, có lẽ
+mild_0_Adjective(Tính từ)_nhẹ, êm dịu, ôn hòa
+mile_0_Noun(Danh từ)_dặm (đo lường)
+military_0_Adjective(Tính từ)_(thuộc) quân đội, quân sự
+milk_0_Noun(Danh từ)_sữa
+milligram_0_Noun(Danh từ)_mi-li-gam
+millimetre_0_Noun(Danh từ)_mi-li-met
+mind_0_Noun(Danh từ)_tâm trí, tinh thần, trí tuệ
+mind_0_Verb(Động từ)_chú ý, để ý, chăm sóc, quan tâm
+mine_0_Pronoun(Đại từ)_của tôi
+mine_0_Noun(Danh từ)_của tôi
+mineral_0_Noun(Danh từ)_công nhân, thợ mỏ
+mineral_0_Adjective(Tính từ)_khoáng
+minimum_0_Adjective(Tính từ)_tối thiểu
+minimum_0_Noun(Danh từ)_số lượng tối thiểu, mức tối thiểu
+minister_0_Noun(Danh từ)_bộ trưởng
+ministry_0_Noun(Danh từ)_bộ
+minor_0_Adjective(Tính từ)_nhỏ hơn, thứ yếu, không quan trọng
+minority_0_Noun(Danh từ)_phần ít, thiểu số
+minute_0_Noun(Danh từ)_phút
+mirror_0_Noun(Danh từ)_gương
+miss_0_Verb(Động từ)_lỡ, trượt
+miss_0_Noun(Danh từ)_sự trượt, sự thiếu vắng
+Miss_0_Noun(Danh từ)_cô gái, thiếu nữ
+missing_0_Adjective(Tính từ)_vắng, thiếu, thất lạc
+mistake_0_Noun(Danh từ)_lỗi, sai lầm, lỗi lầm
+mistake_0_Verb(Động từ)_phạm lỗi, phạm sai lầm
+mistaken_0_Adjective(Tính từ)_sai lầm, hiểu lầm
+mix_0_Verb(Động từ)_pha, trộn lẫn
+mix_0_Noun(Danh từ)_sự pha trộn
+mixed_0_Adjective(Tính từ)_lẫn lộn, pha trộn
+mixture_0_Noun(Danh từ)_sự pha trộn, sự hỗn hợp
+mobile_0_Adjective(Tính từ)_chuyển động, di động
+model_0_Noun(Danh từ)_mẫu, kiểu mẫu
+modern_0_Adjective(Tính từ)_hiện đại, tân tiến
+mum_0_Noun(Danh từ)_mẹ
+moment_0_Noun(Danh từ)_chốc, lát
+Monday_0_Noun(Danh từ)_thứ 2
+money_0_Noun(Danh từ)_tiền
+monitor_0_Noun(Danh từ)_lớp trưởng, màn hình máy tính
+monitor_0_Verb(Động từ)_nghe, ghi phát thanh, giám sát
+month_0_Noun(Danh từ)_tháng
+mood_0_Noun(Danh từ)_lối, thức, điệu
+moon_0_Noun(Danh từ)_mặt trăng
+moral_0_Adjective(Tính từ)_(thuộc) đạo đức, luân lý, phẩm hạnh
+moral_0_Adjective(Tính từ)_có đạo đức
+morally_0_Adverb(Trạng từ) có đạo đức
+more_0_Determiner(Từ hạn định)_số lượng nhiều
+more_0_Pronoun(Đại từ)_hơn, nhiều hơn
+more_0_Adverb(Trạng từ)_hơn, nhiều hơn
+moreover_0_Adverb(Trạng từ)_hơn nữa, ngoài ra, vả lại
+morning_0_Noun(Danh từ)_buổi sáng
+most_0_Determiner(Từ hạn định)_số lượn nghiều nhất
+most_0_Pronoun(Đại từ)_lớn nhất, nhiều nhất
+most_0_Adverb(Trạng từ)_nhất, hơn cả
+mostly_0_Adverb(Trạng từ)_hầu hết, chủ yếu là
+mother_0_Noun(Danh từ)_mẹ
+motion_0_Noun(Danh từ)_sự chuyển động, sụ di động
+motor_0_Noun(Danh từ)_động cơ mô tô
+motorcycle_0_Noun(Danh từ)_xe mô tô
+mount_0_Verb(Động từ)_leo, trèo
+mount_0_Noun(Danh từ)_núi
+mountain_0_Noun(Danh từ)_núi
+mouse_0_Noun(Danh từ)_chuột
+mouth_0_Noun(Danh từ)_miệng
+move_0_Verb(Động từ)_di chuyển, chuyển động
+move_0_Noun(Danh từ)_sự di chuyển, sự chuyển động
+moving_0_Adjective(Tính từ)_động, hoạt động
+movement_0_Noun(Danh từ)_sự chuyển động, sự hoạt động
+movement_0_Noun(Danh từ)_cử động, động tác
+movie_0_Noun(Danh từ)_phim xi nê
+much_0_Determiner(Từ hạn định)_số lượng nhiều
+much_0_Pronoun(Đại từ)_nhiều
+much_0_Adverb(Trạng từ)_nhiều, lắm
+mud_0_Noun(Danh từ)_bùn
+multiply_0_Verb(Động từ)_nhân lên, làm tăng lên nhiều lần
+multiply_0_Verb(Động từ)_sinh sôi nảy nở
+mum_0_Noun(Danh từ)_mẹ
+murder_0_Noun(Danh từ)_tội giết người, tội ám sát
+murder_0_Verb(Động từ)_giết người, ám sát
+muscle_0_Noun(Danh từ)_cơ, bắp thịt
+museum_0_Noun(Danh từ)_bảo tàng
+music_0_Noun(Danh từ)_nhạc, âm nhạc
+musical_0_Adjective(Tính từ)_(thuộc) nhạc, âm nhạc
+musical_0_Adjective(Tính từ)_du dương, êm ái
+musician_0_Noun(Danh từ)_nhạc sĩ
+must_0_Verb(Động từ)_phải, cần, nên làm
+my_0_Determiner(Từ hạn định)_của tôi
+myself_0_Pronoun(Đại từ)_tự tôi, chính tôi
+mysterious_0_Adjective(Tính từ)_thần bí, huyền bí, khó hiểu
+mystery_0_Noun(Danh từ)_điều huyền bí, điều thần bí
+nail_0_Noun(Danh từ)_móng (tay, chân) móng vuốt
+naked_0_Adjective(Tính từ)_trần, khỏa thân, trơ trụi
+name_0_Noun(Danh từ)_tên
+name_0_Verb(Động từ)_đặt tên, gọi tên
+narrow_0_Adjective(Tính từ)_hẹp, chật hẹp
+nation_0_Noun(Danh từ)_dân tộc, quốc gia
+national_0_Adjective(Tính từ)_(thuộc) quốc gia, dân tộc
+natural_0_Adjective(Tính từ)_(thuộc) tự nhiên, thiên nhiên
+naturally_0_Adverb(Trạng từ)_vốn, tự nhiên, đương nhiên
+nature_0_Noun(Danh từ)_tự nhiên, thiên nhiên
+navy_0_Noun(Danh từ)_hải quân
+near_0_Adjective(Tính từ)_gần, cận
+near_0_Adverb(Trạng từ)_gần cận
+near_0_Preposition(Giới từ)_ở gần
+nearby_0_Adjective(Tính từ)_gần
+nearby_0_Adverb(Trạng từ)_gần
+nearly_0_Adverb(Trạng từ)_gần, sắp, suýt
+neat_0_Adjective(Tính từ)_sạch, ngăn nắp
+neat_0_Adjective(Tính từ)_rành mạch
+neatly_0_Adverb(Trạng từ)_gọn gàng, ngăn nắp
+necessary_0_Adjective(Tính từ)_cần, cần thiết, thiết yếu
+necessarily_0_Adverb(Trạng từ)_tất yếu, nhất thiết
+unnecessary_0_Adjective(Tính từ)_không cần thiết, không mong muốn
+neck_0_Noun(Danh từ)_cổ
+need_0_Verb(Động từ)_cần, đòi hỏi
+need_0_Noun(Danh từ)_sự cần
+needle_0_Noun(Danh từ)_cái kim, mũi nhọn
+negative_0_Adjective(Tính từ)_phủ định
+neighbour_0_Noun(Danh từ)_hàng xóm
+neighbourhood_0_Noun(Danh từ)_hàng xóm, làng giềng
+neither_0_Determiner(Từ hạn định)_ không này mà cũng không kia
+neither_0_Pronoun(Đại từ)_ không này mà cũng không kia
+neither_0_Adverb(Trạng từ)_không này mà cũng không kia
+nephew_0_Noun(Danh từ)_cháu trai (con anh, chị, em)
+nerve_0_Noun(Danh từ)_khí lực, thần kinh, can đảm
+nervous_0_Adjective(Tính từ)_hoảng sợ, dễ bị kích thích, hay lo lắng
+nervously_0_Adverb(Trạng từ)_bồn chồn, lo lắng
+nest_0_Noun(Danh từ)_tổ, ổ
+nest_0_Verb(Động từ)_làm tổ
+net_0_Noun(Danh từ)_lưới, mạng
+network_0_Noun(Danh từ)_mạng lưới, hệ thống
+never_0_Adverb(Trạng từ)_không bao giờ, không khi nào
+nevertheless_0_Adverb(Trạng từ)_tuy nhiên, tuy thế mà
+new_0_Adjective(Tính từ)_mới, mới mẻ, mới lạ
+newly_0_Adverb(Trạng từ)_mới
+news_0_Noun(Danh từ)_tin, tin tức
+newspaper_0_Noun(Danh từ)_báo
+next_0_Adjective(Tính từ)_sát, gần
+next_0_Adverb(Trạng từ)_bên cạnh, lần sau
+next_0_Noun(Danh từ)_lần sau, tiếp nữa
+nice_0_Adjective(Tính từ)_đẹp, thú vị, dễ chịu
+nicely_0_Adverb(Trạng từ)_thú vị, dễ chịu
+niece_0_Noun(Danh từ)_cháu gái
+night_0_Noun(Danh từ)_đêm, tối
+nobody_0_Pronoun(Đại từ)_không ai, không người nào
+noise_0_Noun(Danh từ)_tiếng ồn, sự huyên náo
+noisy_0_Adjective(Tính từ)_ồn ào, huyên náo
+noisily_0_Adverb(Trạng từ)_ồn ào, huyên náo
+none_0_Pronoun(Đại từ)_không ai, không người, vật gì
+nonsense_0_Noun(Danh từ)_lời nói vô lý, vô nghĩa
+nor_0_Conjunction(Liên từ)_cũng không
+nor_0_Adverb(Trạng từ)_cũng không
+normal_0_Adjective(Tính từ)_thường, bình thường
+normal_0_Noun(Danh từ)_tình trạng bình thường
+normally_0_Adverb(Trạng từ)_thông thường, như thường lệ
+north_0_Noun(Danh từ)_phía bắc, phương bắc
+north_0_Adjective(Tính từ)_phía bắc, phương bắc
+north_0_Adverb(Trạng từ)_phía bắc, phương bắc
+northern_0_Adjective(Tính từ)_Bắc
+nose_0_Noun(Danh từ)_mũi
+not_0_Adverb(Trạng từ)_không
+note_0_Noun(Danh từ)_lời ghi, lời ghi chép
+note_0_Verb(Động từ)_ghi chú, ghi chép
+nothing_0_Pronoun(Đại từ)_không gì, không cái gì
+notice_0_Noun(Danh từ)_thông báo, yết thị
+notice_0_Verb(Động từ)_chú ý, để ý, nhận biết
+noticeable_0_Adjective(Tính từ)_đáng chú ý, đáng để ý
+novel_0_Noun(Danh từ)_tiểu thuyết, truyện
+November_0_Noun(Danh từ)_tháng 11
+now_0_Adverb(Trạng từ)_bây giờ, hiện giờ, hiện nay
+nowhere_0_Adverb(Trạng từ)_không nơi nào, không ở đâu
+nuclear_0_Adjective(Tính từ)_(thuộc) hạt nhân
+number_0_Noun(Danh từ)_số
+nurse_0_Noun(Danh từ)_y tá
+nut_0_Noun(Danh từ)_quả hạch
+nut_0_Noun(Danh từ)_đầu
+obey_0_Verb(Động từ)_vâng lời, tuân theo, tuân lệnh
+object_0_Noun(Danh từ)_vật, vật thể
+object_0_Verb(Động từ)_phản đối, chống lại
+objective_0_Noun(Danh từ)_mục tiêu, mục đích
+objective_0_Adjective(Tính từ)_(thuộc) mục tiêu, khách quan
+observation_0_Noun(Danh từ)_sự quan sát, sự theo dõi
+observe_0_Verb(Động từ)_quan sát, theo dõi
+obtain_0_Verb(Động từ)_đạt được, giành được
+obvious_0_Adjective(Tính từ)_rõ ràng, rành mạch, hiển nhiên
+obviously_0_Adverb(Trạng từ)_một cách rõ ràng, có thể thấy được
+occasion_0_Noun(Danh từ)_dịp, cơ hội
+occasionally_0_Adverb(Trạng từ)_thỉnh thoảng, đôi khi
+occupy_0_Verb(Động từ)_giữ, chiếm lĩnh, chiếm giữ
+occupied_0_Adjective(Tính từ)_đang sử dụng, đầy (người)
+occur_0_Verb(Động từ)_xảy ra, xảy đến, xuất hiện
+ocean_0_Noun(Danh từ)_đại dương
+o’clock_0_Adverb(Trạng từ)_đúng giờ
+October_0_Noun(Danh từ)_tháng 10
+odd_0_Adjective(Tính từ)_kỳ quặc, kỳ cục, lẻ (số)
+oddly_0_Adverb(Trạng từ)_kỳ quặc, kỳ cục, lẻ (số)
+of_0_Preposition(Giới từ)_or_của
+off_0_Adverb(Trạng từ)_tắt
+off_0_Preposition(Giới từ)_khỏi, cách, rời
+offence_0_Noun(Danh từ)_sự vi phạm, sự phạm tội
+offend_0_Verb(Động từ)_xúc phạm, làm bực mình, làm khó chịu
+offensive_0_Adjective(Tính từ)_sự tấn công, cuộc tấn công
+offer_0_Verb(Động từ)_biếu, tặng, cho
+offer_0_Noun(Danh từ)_sự trả giá
+office_0_Noun(Danh từ)_cơ quan, văn phòng, bộ
+officer_0_Noun(Danh từ)_viên chức, cảnh sát, sĩ quan
+official_0_Adjective(Tính từ)_(thuộc) chính quyền, văn phòng
+official_0_Noun(Danh từ)_viên chức, công chức
+officially_0_Adverb(Trạng từ)_một cách trịnh trọng, một cách chính thức
+often_0_Adverb(Trạng từ)_thường, hay, luôn
+OK_0_Adjective(Tính từ)_đồng ý, tán thành
+OK_0_Adverb(Trạng từ)_đồng ý, tán thành
+old_0_Adjective(Tính từ)_già
+old-fashioned_0_Adjective(Tính từ) lỗi thời
+on_0_Preposition(Giới từ)_trên, ở trên
+on_0_Adverb(Trạng từ)_tiếp tục, tiếp diễn
+once_0_Adverb(Trạng từ)_một lần
+once_0_Conjunction(Liên từ)_khi mà, ngay khi, một khi
+one_0_Determiner(Từ hạn định)_một
+one_0_Pronoun(Đại từ)_một người, một vật nào đó
+onion_0_Noun(Danh từ)_củ hành
+only_0_Adjective(Tính từ)_chỉ có 1, duy nhất
+only_0_Adverb(Trạng từ)_chỉ, mới
+onto_0_Preposition(Giới từ)_về phía trên, lên trên
+open_0_Adjective(Tính từ)_mở, ngỏ
+open_0_Verb(Động từ)_mở, bắt đầu, khai mạc
+openly_0_Adverb(Trạng từ)_công khai, thẳng thắn
+opening_0_Noun(Danh từ)_khe hở, lỗ
+opening_0_Noun(Danh từ)_sự bắt đầu, sự khai mạc, lễ khánh thành
+operate_0_Verb(Động từ)_hoạt động, điều khiển
+operation_0_Noun(Danh từ)_sự hoạt động, quá trình hoạt động
+opinion_0_Noun(Danh từ)_ý kiến, quan điểm
+opponent_0_Noun(Danh từ)_địch thủ, đối thủ, kẻ thù
+opportunity_0_Noun(Danh từ)_cơ hội, thời cơ
+oppose_0_Verb(Động từ)_đối kháng, đối chọi, đối lập
+oppose_0_Verb(Động từ)_chống đối, phản đối
+opposing_0_Adjective(Tính từ)_tính đối kháng, đối chọi
+opposite_0_Adjective(Tính từ)_đối nhau, ngược nhau
+opposite_0_Adverb(Trạng từ)_đối nhau, ngược nhau
+opposite_0_Noun(Danh từ)_điều trái ngược
+opposite_0_Preposition(Giới từ)_trước mặt, đối diện 
+opposition_0_Noun(Danh từ)_sự đối lập, sự đối nhau
+opposition_0_Noun(Danh từ)_sự chống lại, sự phản đối
+opposition_0_Noun(Danh từ)_phe đối lập
+option_0_Noun(Danh từ)_sự lựa chọn
+orange_0_Noun(Danh từ)_ quả cam
+orange_0_Adjective(Tính từ)_có màu da cam
+order_0_Noun(Danh từ)_thứ, bậc
+order_0_Verb(Động từ)_ra lệnh
+ordinary_0_Adjective(Tính từ)_thường, thông thường
+organ_0_Noun(Danh từ)_đàn óoc gan
+organization_0_Noun(Danh từ)_tổ chức, cơ quan
+organization_0_Noun(Danh từ)_sự tổ chức
+organize_0_Verb(Động từ)_tổ chức, thiết lập
+organized_0_Adjective(Tính từ)_có trật tự, ngăn nắp, được sắp xếp, được tổ chức
+origin_0_Noun(Danh từ)_gốc, nguồn gốc, căn nguyên
+original_0_Adjective(Tính từ)_(thuộc) gốc, nguồn gốc, căn nguyên
+original_0_Noun(Danh từ)_nguyên bản
+originally_0_Adverb(Trạng từ)_một cách sáng tạo, mới mẻ, độc đáo
+originally_0_Adverb(Trạng từ)_khởi đầu, đầu tiên
+other_0_Adjective(Tính từ)_khác
+other_0_Pronoun(Đại từ)_khác
+otherwise_0_Adverb(Trạng từ)_khác, cách khác
+otherwise_0_Adverb(Trạng từ)_nếu không thì...
+otherwise_0_Adverb(Trạng từ)_mặt khác
+our_0_Determiner(Từ hạn định)_của chúng ta, thuộc chúng ta, của chúng tôi, của chúng mình
+ours_0_Pronoun(Đại từ)_của chúng ta, thuộc chúng ta, của chúng tôi, của chúng mình
+ourselves_0_Pronoun(Đại từ)_bản thân chúng ta, bản thân chúng tôi, bản thân chúng mình
+ourselves_0_Pronoun(Đại từ)_tự chúng mình
+out_0_Adverb(Trạng từ)_ngoài, ở ngoài
+out_0_Preposition(Giới từ)_ngoài, ở ngoài, ra ngoài
+outdoors_0_Adverb(Trạng từ)_ở ngoài trời, ở ngoài nhà
+outdoor_0_Adjective(Tính từ)_ngoài trời, ở ngoài
+outer_0_Adjective(Tính từ) outer ở phía ngoài, ở xa hơn
+outline_0_Verb(Động từ)_vẽ, phác tảo
+outline_0_Noun(Danh từ)_đường nét, hình dáng, nét ngoài
+output_0_Noun(Danh từ)_sự sản xuất
+output_0_Noun(Danh từ)_sản phẩm, sản lượng
+outside_0_Noun(Danh từ)_bề ngoài, bên ngoài
+outside_0_Adjective(Tính từ)_ở ngoài
+outside_0_Preposition(Giới từ)_ở ngoài
+outside_0_Adverb(Trạng từ)_ngoài
+outstanding_0_Adjective(Tính từ)_nổi bật, đáng chú ý
+outstanding_0_Adjective(Tính từ)_còn tồn lại
+oven_0_Noun(Danh từ)_lò (nướng)
+over_0_Adverb(Trạng từ)_bên trên, vượt qua
+over_0_Preposition(Giới từ)_lên, lên trên
+overall_0_Adjective(Tính từ)_toàn bộ, toàn thể
+overall_0_Adverb(Trạng từ)_tất cả, bao gồm
+overcome_0_Verb(Động từ)_thắng, chiến thắng, khắc phục, đánh bại (khó khăn)
+owe_0_Verb(Động từ)_nợ, hàm ơn
+owe_0_Verb(Động từ)_có được (cái gì)
+own_0_Adjective(Tính từ)_của chính mình, tự mình
+own_0_Pronoun(Đại từ)_ của chính mình, tự mình
+own_0_Verb(Động từ)_nhận, nhìn nhận
+owner_0_Noun(Danh từ)_người chủ, chủ nhân
+pace_0_Noun(Danh từ)_bước chân, bước
+pack_0_Verb(Động từ)_ gói, bọc
+pack_0_Noun(Danh từ)_bó, gói
+package_0_Noun(Danh từ)_gói đồ, bưu kiện
+package_0_Verb(Động từ)_đóng gói, đóng kiện
+packaging_0_Noun(Danh từ)_bao bì
+packet_0_Noun(Danh từ)_gói nhỏ
+page_0_Noun(Danh từ)_trang (sách)
+pain_0_Noun(Danh từ)_sự đau đớn, sự đau khổ
+painful_0_Adjective(Tính từ)_đau đớn, đau khổ
+paint_0_Noun(Danh từ)_sơn, vôi màu
+paint_0_Verb(Động từ)_sơn, quét sơn
+painting_0_Noun(Danh từ)_sự sơn
+painting_0_Noun(Danh từ)_bức họa, bức tranh
+painter_0_Noun(Danh từ)_họa sĩ
+pair_0_Noun(Danh từ)_đôi, cặp
+palace_0_Noun(Danh từ)_cung điện, lâu đài
+pale_0_Adjective(Tính từ)_taí, nhợt
+pan_0_Noun(Danh từ)_xoong, chảo
+panel_0_Noun(Danh từ)_ván ô (cửa, tường), pa nô
+pants_0_Noun(Danh từ)_quần lót, đùi
+paper_0_Noun(Danh từ)_giấy
+parallel_0_Adjective(Tính từ)_song song, tương đương
+parent_0_Noun(Danh từ)_cha, mẹ
+park_0_Noun(Danh từ)_công viên, vườn hoa
+park_0_Verb(Động từ)_khoanh vùng thành công viên
+parliament_0_Noun(Danh từ)_nghi viện, quốc hội
+part_0_Noun(Danh từ)_phần, bộ phận
+particular_0_Adjective(Tính từ)_riêng biệt, cá biệt
+particularly_0_Adverb(Trạng từ)_một cách đặc biệt, cá biệt, riêng biệt
+partly_0_Adverb(Trạng từ)_đến chừng mực nào đó, phần nào đó
+partner_0_Noun(Danh từ)_đối tác, cộng sự
+partnership_0_Noun(Danh từ)_sự chung phần, sự cộng tác
+party_0_Noun(Danh từ)_tiệc, buổi liên hoan
+party_0_Noun(Danh từ)_đảng
+pass_0_Verb(Động từ)_qua, vượt qua, ngang qua
+passing_0_Noun(Danh từ)_sự đi qua, sự trôi qua
+passing_0_Adjective(Tính từ)_thoáng qua, ngắn ngủi
+passage_0_Noun(Danh từ)_sự đi qua, sự trôi qua
+passage_0_Noun(Danh từ)_hành lang
+passenger_0_Noun(Danh từ)_hành khách
+passport_0_Noun(Danh từ)_hộ chiếu
+past_0_Adjective(Tính từ)_ quá khứ
+past_0_Noun(Danh từ)_quá khữ, dĩ vãng
+past_0_Preposition(Giới từ)_ở quá khũ
+past_0_Adverb(Trạng từ)_quá, qua
+path_0_Noun(Danh từ)_đường mòn
+path_0_Noun(Danh từ)_hướng đi
+patience_0_Noun(Danh từ)_tính kiên nhẫn, nhẫn nại, kiên trì, sự chịu đựng
+patient_0_Noun(Danh từ)_bệnh nhân
+patient_0_Adjective(Tính từ)_kiên nhẫn, nhẫn nại, bền chí
+pattern_0_Noun(Danh từ)_mẫu, khuôn mẫu
+pause_O_Verb(Động từ)_tạm nghỉ, dừng
+pause_0_Noun(Danh từ)_sự tạm nghỉ, sự tạm ngừng
+pay_0_Verb(Động từ)_trả, thanh toán, nộp
+pay_0_Noun(Danh từ)_tiền lương
+payment_0_Noun(Danh từ)_sự trả tiền, số tiền trả, tiền bồi thường
+peace_0_Noun(Danh từ)_hòa bình, sự hòa thuận
+peaceful_0_Adjective(Tính từ)_hòa bình, thái bình, yên tĩnh
+peak_0_Noun(Danh từ)_lưỡi trai
+peak_0_Noun(Danh từ)_đỉnh, chóp
+pen_0_Noun(Danh từ)_bút
+pence_0_Noun(Danh từ)_đồng xu
+pencil_0_Noun(Danh từ)_bút chì
+penny_0_Noun(Danh từ)_số tiền
+pension_0_Noun(Danh từ)_tiền trợ cấp, lương hưu
+people_0_Noun(Danh từ)_dân tộc, dòng giống
+people_0_Noun(Danh từ)_người
+pepper_0_Noun(Danh từ)_hạt tiêu, cây ớt
+per_0_Preposition(Giới từ)_cho mỗi
+percent_0_Noun(Danh từ)_phần trăm
+percent_0_Adjective(Tính từ)_phần trăm
+percent_0_Adverb(Trạng từ)_phần trăm
+perfect_0_Adjective(Tính từ)_hoàn hảo
+perfectly_0_Adverb(Trạng từ)_một cách hoàn hảo
+perform_0_Verb(Động từ)_biểu diễn
+perform_0_Verb(Động từ)_làm, thực hiện
+performance_0_Noun(Danh từ)_sự làm, sự thực hiện, sự thi hành, sự biểu diễn
+performer_0_Noun(Danh từ)_người biểu diễn, người trình diễn
+perhaps_0_Adverb(Trạng từ)_có thể, có lẽ
+period_0_Noun(Danh từ)_kỳ, thời kỳ, thời gian
+period_0_Noun(Danh từ)_thời đại
+permanent_0_Adjective(Tính từ)_lâu dài, vĩnh cửu, thường xuyên
+permanently_0_Adverb(Trạng từ)_cách thường xuyên, vĩnh cửu
+permission_0_Noun(Danh từ)_sự cho phép, giấy phép
+permit_0_Verb(Động từ)_cho phép, cho cơ hội
+person_0_Noun(Danh từ)_con người, người
+personal_0_Adjective(Tính từ)_cá nhân, tư, riêng tư
+personally_0_Adverb(Trạng từ)_đích thân, bản thân, về phần rôi, đối với tôi
+personality_0_Noun(Danh từ)_nhân cách, tính cách
+personality_0_Noun(Danh từ)_nhân phẩm, cá tính
+persuade_0_Verb(Động từ)_thuyết phục
+pet_0_Noun(Danh từ)_cơn nóng giận
+pet_0_Noun(Danh từ)_vật cưng, người được yêu thích
+petrol_0_Noun(Danh từ)_xăng dầu
+phase_0_Noun(Danh từ)_tuần trăng
+pet_0_Noun(Danh từ)_giai đoạn, thời kỳ
+philosophy_0_Noun(Danh từ)_triết học, triết lý
+photocopy_0_Noun(Danh từ)_bản sao chụp
+photocopt_0_Verb(Động từ)_sao chụp
+photograph_0_Noun(Danh từ)_ảnh, bức ảnh
+photograph_0_Verb(Động từ)_chụp ảnh
+photographer_0_Noun(Danh từ)_thợ chụp ảnh, nhà nhiếp ảnh
+photography_0_Noun(Danh từ)_thuật chụp ảnh, nghề nhiếp ảnh
+phrase_0_Noun(Danh từ)_câu
+phrase_0_Noun(Danh từ)_thành ngữ, cụm từ
+physical_0_Adjective(Tính từ)_vật chất
+physical_0_Adjective(Tính từ)_ (thuộc) cơ thể, thân thể
+physically_0_Adverb(Trạng từ)_về thân thể, theo luật tự nhiên
+physics_0_Noun(Danh từ)_vật lý học
+piano_0_Noun(Danh từ)_đàn pianô, dương cầm
+pick_0_Verb(Động từ)_cuốc (đất)
+pick_0_Verb(Động từ)_đào, khoét (lỗ)
+picture_0_Noun(Danh từ)_bức vẽ, bức họa
+piece_0_Noun(Danh từ)_mảnh, mẩu
+piece_0_Noun(Danh từ)_đồng tiền
+pig_0_Noun(Danh từ)_con lợn
+pile_0_Noun(Danh từ)_cọc, chồng, đống, pin
+pile_0_Verb(Động từ)_đóng cọc, chất chồng
+pill_0_Noun(Danh từ)_viên thuốc
+pilot_0_Noun(Danh từ)_phi công
+pin_0_Noun(Danh từ)_đinh ghim
+pin_0_Verb(Động từ)_ghim., kẹp
+pink_0_Adjective(Tính từ)_màu hồng
+pink_0_Noun(Danh từ)_hoa cẩm chướng, tình trạng tốt, hoàn hảo
+pint_0_Noun(Danh từ)_Panh (đơn vị (đo lường) ở Anh bằng 0, 58 lít; ở Mỹ bằng 0,473 lít)
+pint_0_Noun(Danh từ)_panh, lít (bia, sữa) a pint of beer + một panh bia
+pipe_0_Noun(Danh từ)_ống dẫn (khí, nước...)
+pitch_0_Noun(Danh từ)_sân (chơi các môn thể thao)
+pitch_0_Noun(Danh từ)_đầu hắc ín
+pity_0_Noun(Danh từ)_lòng thương hại, điều đáng tiếc, đáng thương
+place_0_Noun(Danh từ)_nơi, địa điểm
+place_0_Verb(Động từ)_quảng trường
+plain_0_Adjective(Tính từ)_ngay thẳng, đơn giản, chất phác
+plan_0_Noun(Danh từ)_bản đồ, kế hoạch
+plan_0_Verb(Động từ)_vẽ bản đồ, lập kế hoạch, dự kiến
+planning_0_Noun(Danh từ)_sự lập kế hoạch, sự quy hoạch
+plane_0_Noun(Danh từ)_mặt phẳng, mặt bằng
+planet_0_Noun(Danh từ)_hành tinh
+plant_0_Noun(Danh từ)_thực vật, sự mọc lên
+plant_0_Verb(Động từ)_trồng, gieo
+plastic_0_Noun(Danh từ)_chất dẻo
+plastic_0_Adjective(Tính từ)_làm bằng chất dẻo
+plate_0_Noun(Danh từ)_bản, tấm kim loại
+platform_0_Noun(Danh từ)_nền, bục, bệ
+platform_0_Noun(Danh từ)_thềm, sân ga
+play_0_Verb(Động từ)_chơi, đánh
+play_0_Noun(Danh từ)_sự vui chơi, trò chơi, trận đấu
+player_0_Noun(Danh từ)_người chơi 1 trò chơi nào đó (nhạc cụ)
+pleasant_0_Adjective(Tính từ)_vui vẻ, dễ thương
+pleasant_0_Adjective(Tính từ)_dịu dàng, thân mật
+pleasantly_0_Adverb(Trạng từ)_vui vẻ, dễ thương
+pleasantly_0_Adverb(Trạng từ)_thân mật
+unpleasant_0_Adjective(Tính từ)_không dễ chịu, khó chịu, khó ưa
+please_0_Verb(Động từ)_làm vui lòng, vừa lòng, mong... vui lòng, xin mời
+pleasing_0_Adjective(Tính từ)_mang lại niềm vui thích
+pleasing_0_Adjective(Tính từ)_dễ chịu
+pleased_0_Adjective(Tính từ)_hài lòng
+pleasure_0_Noun(Danh từ)_niềm vui thích, điều thích thú, điều thú vị
+pleasure_0_Noun(Danh từ)_ý muốn, ý thích
+plenty_0_Pronoun(Đại từ)_nhiều (s.k.lượng)
+plenty_0_Adverb(Trạng từ)_nhiều
+plenty_0_Noun(Danh từ)_chỉ sự thừa
+plenty_0_Determiner(Từ hạn định)_sự sung túc, sự p.phú
+plot_0_Noun(Danh từ)_mảnh đất nhở, sơ đồ, đồ thị, đồ án
+plot_0_Verb(Động từ)_vẽ sơ đồ, dựng đồ án
+plug_0_Noun(Danh từ)_nút (thùng, chậu, bồn...)
+plus_0_Preposition(Giới từ)_cộng với (số, người...)
+plus_0_Noun(Danh từ)_dấu cộng
+plus_0_Adjective(Tính từ)_cộng
+plus_0_Conjunction(Liên từ)_thêm vào
+pocket_0_Noun(Danh từ)_túi (quần áo, trong xe hơi), túi tiền
+poem_0_Noun(Danh từ)_bài thơ
+poetry_0_Noun(Danh từ)_thi ca
+poetry_0_Noun(Danh từ)_chất thơ
+point_0_Noun(Danh từ)_point mũi nhọn, điểm
+point_0_Verb(Động từ)_vót, làm nhọn, chấm (câu..)
+pointed_0_Adjective(Tính từ)_nhọn, có đầu nhọn
+poison_0_Noun(Danh từ)_chất độc, thuốc độc
+poison_0_Verb(Động từ)_đánh thuốc độc, tẩm thuốc độc
+poisonous_0_Adjective(Tính từ)_độc, có chất độc, gây chết, bệnh
+pole_0_Noun(Danh từ)_người Ba Lan
+pole_0_Noun(Danh từ)_cực (nam châm, trái đất...)
+police_0_Noun(Danh từ)_cảnh sát, công an
+policy_0_Noun(Danh từ)_chính sách
+polish_0_Noun(Danh từ)_nước bóng, nước láng
+polish_0_Verb(Động từ)_đánh bóng, làm cho láng
+polite_0_Adjective(Tính từ)_lễ phép, lịch sự
+politely_0_Adverb(Trạng từ)_lễ phép, lịch sự
+political_0_Adjective(Tính từ)_về chính trị, về chính phủ, có tính chính trị
+politically_0_Adverb(Trạng từ)_về mặt chính trị
+politically_0_Adverb(Trạng từ)_khôn ngoan, thận trọng
+politically_0_Adverb(Trạng từ)_sảo quyệt
+politician_0_Noun(Danh từ)_nhà chính trị, chính khách
+politics_0_Noun(Danh từ)_họat động chính trị, đời sống chính trị, quan điểm chính trị
+pollution_0_Noun(Danh từ)_sự ô nhiễm
+pool_0_Noun(Danh từ)_vũng nước
+pool_0_Noun(Danh từ)_vũng nướcbể bơi, hồ bơi
+poor_0_Adjective(Tính từ)_nghèo
+pop_0_Noun(Danh từ)_tiếp bốp, phong cách dân gian hiện đại
+pop_0_Verb(Động từ)_nổ bốp
+popular_0_Adjective(Tính từ)_có tính đại chúng, (thuộc) nhân dân
+popular_0_Adjective(Tính từ)_được nhiều người ưa chuộng
+population_0_Noun(Danh từ)_dân cư, dân số
+population_0_Noun(Danh từ)_mật độ dân số
+port_0_Noun(Danh từ)_cảng
+pose_0_Verb(Động từ)_đưa ra, đề ra, đặt
+pose_0_Noun(Danh từ)_sự đặt, đề ra
+position_0_Noun(Danh từ)_vị trí, chỗ
+positive_0_Adjective(Tính từ)_xác thực, rõ ràng, tích cực, lạc quan
+possess_0_Verb(Động từ)_có, chiếm hữu
+possession_0_Noun(Danh từ)_quyền sở hữu, vật sở hữu
+possibility_0_Noun(Danh từ)_khă năng, triển vọng
+possible_0_Adjective(Tính từ)_có thể, có thể thực hiện
+possibly_0_Adverb(Trạng từ)_có lẽ, có thể, có thể chấp nhận được
+post_0_Noun(Danh từ)_thư, bưu kiện
+post_0_Verb(Động từ)_gửi thư
+pot_0_Noun(Danh từ)_can, bình, lọ...
+potato_0_Noun(Danh từ)_khoai tây
+potential_0_Adjective(Tính từ)_tiềm năng
+potential_0_Noun(Danh từ)_khả năng, tiềm lực
+potentially_0_Adverb(Trạng từ)_tiềm năng, tiềm ẩn
+pound_0_Noun(Danh từ)_pao - đơn vị đo lường
+pour_0_Verb(Động từ)_rót, đổ, giội
+powder_0_Noun(Danh từ)_bột, bụi
+power_0_Noun(Danh từ)_khả năng, tài năng, năng lực
+power_0_Noun(Danh từ)_sức mạnh, nội lực
+power_0_Noun(Danh từ)_quyền lực
+powerful_0_Adjective(Tính từ)_hùng mạnh, hùng cường
+practical_0_Adjective(Tính từ)_thực hành
+practical_0_Adjective(Tính từ)_thực tế
+practically_0_Adverb(Trạng từ)_về mặt thực hành
+practically_0_Adverb(Trạng từ)_thực tế
+practice_0_Noun(Danh từ)_thực tiễn
+practice_0_Verb(Động từ)_thực hành
+practise_0_Verb(Động từ)_thực hành, tập luyện
+praise_0_Noun(Danh từ)_sự ca ngợi, sự tán dương, lòng tôn kính, tôn thờ
+praise_0_Verb(Động từ)_khen ngợi, tán dương
+prayer_0_Noun(Danh từ)_sự cầu nguyện
+precise_0_Adjective(Tính từ)_rõ ràng, chính xác
+precise_0_Adjective(Tính từ)_tỉ mỉ, kỹ tính
+precisely_0_Adverb(Trạng từ)_đúng, chính xác, cần thận
+predict_0_Verb(Động từ)_báo trước, tiên đoán, dự báo
+prefer_0_Verb(Động từ)_thích hơn
+preference_0_Noun(Danh từ)_sự thích hơn, sự ưa hơn
+preference_0_Noun(Danh từ)_cái được ưa thích hơn
+pregnant_0_Adjective(Tính từ)_mang thai
+pregnant_0_Adjective(Tính từ)_giàu trí tưởng tượng, sáng tạo
+premises_0_Noun(Danh từ)_biệt thự
+preparation_0_Noun(Danh từ)_sự sửa soạn, sự chuẩn bị
+prepare_0_Verb(Động từ)_sửa soạn, chuẩn bị
+prepared_0_Adjective(Tính từ)_đã được chuẩn bị
+presence_0_Noun(Danh từ)_sự hiện diện, sự có mặt
+presence_0_Noun(Danh từ)_người, vât hiện diện
+present_0_Adjective(Tính từ)_có mặt, hiện diện
+present_0_Noun(Danh từ)_hiện nay
+present_0_Verb(Động từ)_hiện thời, bày tỏ, giới thiệu, trình bày
+presentation_0_Noun(Danh từ)_bài thuyết trình, sự trình diện, sự giới thiệu
+preserve_0_Verb(Động từ)_bảo quản, giữ gìn
+president_0_Noun(Danh từ)_hiệu trưởng, chủ tịnh, tổng thống
+press_0_Noun(Danh từ)_sự ép, sự nén, sự ấn
+press_0_Verb(Động từ)_ép, nén, bóp, ấn
+pressure_0_Noun(Danh từ)_sức ép, áp lực, áp suất
+presumably_0_Adverb(Trạng từ)_có thể được, có lẽ
+pretend_0_Verb(Động từ)_giả vờ, giả bộ, làm ra vẻ
+pretty_0_Adverb(Trạng từ)_khá, vừa phải
+pretty_0_Adjective(Tính từ)_xinh, xinh xắn, đẹp
+prevent_0_Verb(Động từ)_ngăn cản, ngăn chặn, ngăn ngừa
+previous_0_Adjective(Tính từ)_vội vàng, hấp tấp
+previous_0_Adjective(Tính từ)_trước (vd. ngày hôm trước), ưu tiên
+previously_0_Adverb(Trạng từ)_trước, trước đây
+price_0_Noun(Danh từ)_giá
+pride_0_Noun(Danh từ)_sự kiêu hãnh, sự hãnh diện
+pride_0_Noun(Danh từ)_tính kiêu căng, tự phụ
+priest_0_Noun(Danh từ)_linh mục, thầy tu
+primary_0_Adjective(Tính từ)_nguyên thủy, đầu tiên
+primary_0_Adjective(Tính từ)_thời cổ đại, nguyên sinh
+primary_0_Adjective(Tính từ)_sơ cấp, tiểu học
+primarily_0_Adverb(Trạng từ)_trước hết, đầu tiên
+prime minister_0_Noun(Danh từ)_thủ tướng
+prince_0_Noun(Danh từ)_hoành tử
+princess_0_Noun(Danh từ)_công chúa
+principle_0_Noun(Danh từ)_cơ bản, chủ yếu
+principle_0_Noun(Danh từ)_nguyên lý, nguyên tắc
+print_0_Verb(Động từ)_in, xuất bản
+print_0_Noun(Danh từ)_sự in ra
+printing_0_Noun(Danh từ)_sự in, thuật in, kỹ sảo in
+printer_0_Noun(Danh từ)_máy in, thợ in
+prior_0_Adjective(Tính từ)_trước, ưu tiên
+priority_0_Noun(Danh từ)_sự ưu tế, quyền ưu tiên
+prison_0_Noun(Danh từ)_nhà tù
+prisoner_0_Noun(Danh từ)_tù nhân
+private_0_Adjective(Tính từ)_cá nhân, riêng
+privately_0_Adverb(Trạng từ)_riêng tư, cá nhân
+prize_0_Noun(Danh từ)_giải, giải thưởng
+probable_0_Adjective(Tính từ)_có thể, có khả năng
+probably_0_Adverb(Trạng từ)_hầu như chắc chắn
+problem_0_Noun(Danh từ)_vấn đề, điều khó giải quyết
+procedure_0_Noun(Danh từ)_thủ tục
+proceed_0_Verb(Động từ)_tiến lên, theo duổi, tiếp diễn
+process_0_Noun(Danh từ)_quá trình, sự tiến triển, quy trình
+process_0_Verb(Động từ)_chế biến, gia công, xử lý
+produce_0_Verb(Động từ)_sản xuất, chế tạo
+producer_0_Noun(Danh từ)_nhà sản xuất
+product_0_Noun(Danh từ)_sản phẩm
+production_0_Noun(Danh từ)_sự sản xuất, chế tạo
+profession_0_Noun(Danh từ)_nghề, nghề nghiệp
+professional_0_Adjective(Tính từ)_(thuộc) nghề, nghề nghiệp
+professional_0_Noun(Danh từ)_chuyên nghiệp
+professor_0_Noun(Danh từ)_giáo sư, giảng viên
+profit_0_Noun(Danh từ)_thuận lợi, lợi ích, lợi nhuận
+program_0_Noun(Danh từ)_chương trình
+program_0_Verb(Động từ)_lên chương trình
+programme_0_Noun(Danh từ)_chương trình
+progress_0_Noun(Danh từ)_sự tiến tới, sự tiến triển
+progress_0_Verb(Động từ)_tiến bộ, tiến triển, phát triển
+project_0_Noun(Danh từ)_đề án, dự án, kế hoạch
+project_0_Verb(Động từ)_dự kiến, kế hoạch
+promise_0_Verb(Động từ)_hứa
+promise_0_Noun(Danh từ)_lời hứa
+promote_0_Verb(Động từ)_thăng chức, thăng cấp
+promotion_0_Noun(Danh từ)_sự thăng chức, sự thăng cấp
+prompt_0_Adjective(Tính từ)_mau lẹ, nhanh chóng
+pompt_0_Verb(Động từ)_xúi, giục, nhắc nhở
+promptly_0_Adverb(Trạng từ)_mau lẹ, ngay lập tức
+pronounce_0_Verb(Động từ)_tuyên bố, thông báo, phát âm
+pronunciation_0_Noun(Danh từ)_sự phát âm
+proof_0_Noun(Danh từ)_chứng, chứng cớ, bằng chứng
+proof_0_Noun(Danh từ)_sự kiểm chứng
+proper_0_Adjective(Tính từ)_đúng, thích đáng, thích hợp
+properly_0_Adverb(Trạng từ)_một cách đúng đắn, một cách thích đáng
+property_0_Noun(Danh từ)_tài sản, của cải
+property_0_Noun(Danh từ)_đất đai, nhà cửa, bất động sản
+proportion_0_Noun(Danh từ)_sự cân xứng, sự cân đối
+proposal_0_Noun(Danh từ)_sự đề nghị, đề xuất
+propose_0_Verb(Động từ)_đề nghị, đề xuất, đưa ra
+prospect_0_Noun(Danh từ)_viễn cảnh, toàn cảnh
+prospect_0_Noun(Danh từ)_triển vọng, mong chờ
+protect_0_Verb(Động từ)_bảo vệ, che chở
+protection_0_Noun(Danh từ)_sự bảo vệ, sự che chở
+protest_0_Noun(Danh từ)_sự phản đối, sự phản kháng
+protest_0_Verb(Động từ)_phản đối, phản kháng
+proud_0_Adjective(Tính từ)_tự hào, kiêu hãnh
+proudly_0_Adverb(Trạng từ)_một cách tự hào, một cách hãnh diện
+prove_0_Verb(Động từ)_chứng tỏ, chứng minh
+provide_0_Verb(Động từ)_chuẩn bị đầy đủ, dự phòng
+provide_0_Verb(Động từ)_cung cấp, chu cấp
+provided_0_Conjunction(Liên từ)_với điều kiện là, miễn là
+pub_0_Noun(Danh từ)_quán rượu, tiệm rượu
+public_0_Adjective(Tính từ)_chung, công cộng
+public_0_Noun(Danh từ)_công chúng, nhân dân
+publicly_0_Adverb(Trạng từ)_công khai, công cộng
+publication_0_Noun(Danh từ)_sự công bố
+publication_0_Noun(Danh từ)_sự xuất bản
+publicity_0_Noun(Danh từ)_sự công khai, sự quảng cáo
+publish_0_Verb(Động từ)_công bố, ban bố
+publish_0_Verb(Động từ)_xuất bản
+publishing_0_Noun(Danh từ)_công việc, nghề xuất bản
+pull_0_Verb(Động từ)_lôi, kéo, giật
+pull_0_Noun(Danh từ)_sự lôi kéo, sự giật
+punch_0_Verb(Động từ)_đấm, thụi
+punch_0_Noun(Danh từ)_quả đấm, cú thụi
+punish_0_Verb(Động từ)_phạt, trừng phạt
+punishment_0_Noun(Danh từ)_sự trừng phạt, sự trừng trị
+pupil_0_Noun(Danh từ)_học sinh
+purchase_0_Noun(Danh từ)_sự mua, sự tậu
+purchase_0_Verb(Động từ)_mua, sắm, tậu
+pure_0_Adjective(Tính từ)_nguyên chất, tinh khiết, trong lành
+purely_0_Adverb(Trạng từ)_hoàn toàn, chỉ là
+purple_0_Adjective(Tính từ)_tía, có màu tía
+purple_0_Noun(Danh từ)_màu tía
+purpose_0_Noun(Danh từ)_mục đích, ý định
+pursue_0_Verb(Động từ)_đuổi theo, đuổi bắt
+push_0_Verb(Động từ)_xô đẩy
+push_0_Noun(Danh từ)_sự xô đẩy
+put_0_Verb(Động từ)_đặt, để, cho vào
+qualification_0_Noun(Danh từ)_phẩm chất, năng lực
+qualification_0_Noun(Danh từ)_khả năng chuyên môn
+qualify_0_Verb(Động từ)_đủ khả năng, đủ tư cách, điều kiện
+qualified_0_Adjective(Tính từ)_đủ tư cách, điều kiện, khả năng
+quality_0_Noun(Danh từ)_chất lượng, phẩm chất
+quantity_0_Noun(Danh từ)_lượng, số lượng
+quarter_0_Noun(Danh từ)_1/4, 15 phút
+queen_0_Noun(Danh từ)_nữ hoàng
+question_0_Noun(Danh từ)_câu hỏi
+question_0_Verb(Động từ)_hỏi, chất vấn
+quick_0_Adjective(Tính từ)_nhanh
+quickly_0_Adverb(Trạng từ)_nhanh
+quiet_0_Adjective(Tính từ)_lặng, yên lặng, yên tĩnh
+quietly_0_Adverb(Trạng từ)_lặng, yên lặng, yên tĩnh
+quit_0_Verb(Động từ)_thoát, thoát ra
+quite_0_Adverb(Trạng từ)_hoàn toàn, hầu hết
+quote_0_Verb(Động từ)_trích dẫn
+race_0_Noun(Danh từ)_loài, chủng, giống
+race_0_Noun(Danh từ)_cuộc đua
+race_0_Verb(Động từ)_đua
+racing_0_Noun(Danh từ)_cuộc đua
+radio_0_Noun(Danh từ)_sóng vô tuyến, radio
+rail_0_Noun(Danh từ)_đường ray
+railway_0_Noun(Danh từ)_đường sắt
+rain_0_Noun(Danh từ)_mưa, cơn mưa
+rain_0_Verb(Động từ)_mưa
+raise_0_Verb(Động từ)_nâng lên, đưa lên, ngẩng lên
+range_0_Noun(Danh từ)_dãy, hàng, loại
+range_0_Noun(Danh từ)_phạm vi, trình độ
+rank_0_Noun(Danh từ)_hàng, dãy
+rank_0_Verb(Động từ)_sắp xếp thành hàng, dãy
+rapid_0_Adjective(Tính từ)_nhanh, nhanh chóng
+rapidly_0_Adverb(Trạng từ)_nhanh, nhanh chóng
+rare_0_Adjective(Tính từ)_hiếm, ít
+rarely_0_Adverb(Trạng từ)_hiếm khi, ít khi
+rate_0_Noun(Danh từ)_tỷ lệ
+rate_0_Verb(Động từ)_tốc độ
+rather_0_Adverb(Trạng từ)_thà.. còn hơn, thích... hơn
+raw_0_Adjective(Tính từ)_sống (# chín), thô, còn nguyên chất
+reach_0_Verb(Động từ)_đến, đi đến, tới
+react_0_Verb(Động từ)_tác động trở lại, phản ứng
+reaction_0_Noun(Danh từ)_sự phản ứng
+reaction_0_Noun(Danh từ)_sự phản tác dụng
+read_0_Verb(Động từ)_đọc
+reading_0_Noun(Danh từ)_sự đọc
+reader_0_Noun(Danh từ)_người đọc, độc giả
+ready_0_Adjective(Tính từ)_sẵn sàng
+real_0_Adjective(Tính từ)_thực, thực tế, có thật
+really_0_Adverb(Trạng từ)_thực, thực ra, thực sự
+realistic_0_Adjective(Tính từ)_hiện thực
+reality_0_Noun(Danh từ)_sự thật, thực tế, thực tại
+realize_0_Verb(Động từ)_thực hiện, thực hành
+rear_0_Noun(Danh từ)_phía sau
+rear_0_Adjective(Tính từ)_ở đằng sau, ở đằng sau
+reason_0_Noun(Danh từ)_lý do, lý lẽ
+reasonable_0_Adjective(Tính từ)_có lý, hợp lý
+reasonably_0_Adverb(Trạng từ)_hợp lý
+unreasonable_0_Adjective(Tính từ)_vô lý
+recall_0_Verb(Động từ)_gọi về, triệu hồi
+recall_0_Verb(Động từ)_nhặc lại, gợi lại
+receipt_0_Noun(Danh từ)_công thức
+receipt_0_Noun(Danh từ)_đơn thuốc
+receive_0_Verb(Động từ)_nhận, lĩnh, thu
+recent_0_Adjective(Tính từ)_gần đây, mới đây
+recently_0_Adverb(Trạng từ)_gần đây, mới đây
+reception_0_Noun(Danh từ)_sự nhận, sự tiếp nhận, sự đón tiếp
+reckon_0_Verb(Động từ)_tính, đếm
+recognition_0_Noun(Danh từ)_sự công nhận, sự thừa nhận
+recognize_0_Verb(Động từ)_nhận ra, nhận diện
+recognize_0_Verb(Động từ)_công nhận, thừa nhận
+recommend_0_Verb(Động từ)_giới thiệu, tiến cử
+recommend_0_Verb(Động từ)_đề nghị, khuyên bảo
+record_0_Noun(Danh từ)_bản ghi, sự ghi, bản thu, sự thu
+record_0_Verb(Động từ)_thu, ghi chép
+recording_0_Noun(Danh từ)_sự ghi, sự thu âm
+recover_0_Verb(Động từ)_lấy lại, giành lại
+red_0_Adjective(Tính từ)_đỏ
+red_0_Noun(Danh từ)_màu đỏ
+reduce_0_Verb(Động từ)_giảm, giảm bớt
+reduction_0_Noun(Danh từ)_sự giảm giá, sự hạ giá
+refer_0_Verb(Động từ)_xem, tham khảo
+refer_0_Verb(Động từ)_ám chỉ, nhắc đến
+reference_0_Noun(Danh từ)_sự tham khảo, hỏi ýe kiến
+reflect_0_Verb(Động từ)_phản chiếu, phản hồi, phản ánh
+reform_0_Verb(Động từ)_cải cách, cải thiện, cải tạo
+reform_0_Noun(Danh từ)_sự cải cách, sự cải thiện, cải tạo
+refrigerator_0_Noun(Danh từ)_tủ lạnh
+refusal_0_Noun(Danh từ)_sự từ chối, sự khước từ
+refuse_0_Verb(Động từ)_từ chối, khước từ
+regard_0_Verb(Động từ)_nhìn, đánh giá
+regard_0_Noun(Danh từ)_cái nhìn, sự quan tâm, sự chú ý (lời chúc tụng cuối thư)
+regarding_0_Preposition(Giới từ)_về, về việc, đối với (vấn đề...)
+region_0_Noun(Danh từ)_vùng, miền
+regional_0_Adjective(Tính từ)_vùng, địa phương
+register_0_Verb(Động từ)_đăng ký, ghi vào sổ
+register_0_Noun(Danh từ)_sổ, sổ sách, máy ghi
+regret_0_Verb(Động từ)_đáng tiếc, hối tiếc
+regret_0_Noun(Danh từ)_lòng thương tiếc, sự hối tiếc
+regular_0_Adjective(Tính từ)_thường xuyên, đều đặn
+regularly_0_Adverb(Trạng từ)_đều đặn, thường xuyên
+regulation_0_Noun(Danh từ)_sự điều chỉnh, điều lệ, quy tắc
+reject_0_Verb(Động từ)_không chấp nhận, loại bỏ, bác bỏ
+relate_0_Verb(Động từ)_kể lại, thuật lại
+relate_0_Verb(Động từ)_liên hệ, liên quan
+related_0_Adjective(Tính từ)_có liên quan, có quan hệ với ai, cái gì
+relation_0_Noun(Danh từ)_mối quan hệ, sự liên quan, liên lạc
+relationship_0_Noun(Danh từ)_mối quan hệ, mối liên lạc
+relative_0_Adjective(Tính từ)_có liên quan đến
+relative_0_Noun(Danh từ)_người có họ, đại từ quan hệ
+relatively_0_Adverb(Trạng từ)_có liên quan, có quan hệ
+relax_0_Verb(Động từ)_giải trí, nghỉ ngơi
+relaxed_0_Adjective(Tính từ)_thanh thản, thoải mái
+relaxing_0_Adjective(Tính từ)_làm giảm, bớt căng thẳng
+release_0_Verb(Động từ)_làm nhẹ, bớt, thả, phóng thích, phát hành
+release_0_Noun(Danh từ)_sự giải thoát, thoát
+relevant_0_Adjective(Tính từ)_thích hợp, có liên quan
+relief_0_Noun(Danh từ)_sự giảm nhẹ, sự làm cho khuây khỏa
+relief_0_Noun(Danh từ)_sự trợ cấp
+relief_0_Noun(Danh từ)_sự đền bù
+religion_0_Noun(Danh từ)_tôn giáo
+religious_0_Adjective(Tính từ)_(thuộc) tôn giáo
+rely on_0_Verb(Động từ)_tin vào, tin cậy, tin tưởng vào
+remain_0_Verb(Động từ)_còn lại, vẫn còn như cũ
+remaining_0_Adjective(Tính từ)_còn lại
+remains_0_Noun(Danh từ)_đồ thừa, cái còn lại
+remark_0_Noun(Danh từ)_sự nhận xét, phê bình, sự để ý, chú ý
+remark_0_Verb(Động từ)_nhận xét, phê bình, để ý, chú ý
+remarkable_0_Adjective(Tính từ)_đáng chú ý, đáng để ý
+remarkable_0_Adjective(Tính từ)_khác thường
+remarkably_0_Adverb(Trạng từ)_đáng chú ý, đáng để ý
+remarkably_0_Adverb(Trạng từ)_khác thường
+remember_0_Verb(Động từ)_nhớ, nhớ lại
+remind_0_Verb(Động từ)_nhắc nhở, gợi nhớ
+remote_0_Adjective(Tính từ)_xa, xa xôi, xa cách
+removal_0_Noun(Danh từ)_viêc di chuyển, việc dọn nhà, dời đi
+remove_0_Verb(Động từ)_dời đi, di chuyển
+rent_0_Noun(Danh từ)_sự thuê mướn
+rent_0_Verb(Động từ)_cho thuê, thuê
+rented_0_Adjective(Tính từ)_được thuê, được mướn
+repair_0_Verb(Động từ)_sửa chữa, chỉnh tu
+repair_0_Noun(Danh từ)_sự sửa chữa, sự chỉnh tu
+repeat_0_Verb(Động từ)_nhắc lại, lặp lại
+repeated_0_Adjective(Tính từ)_được nhắc lại, được lặp lại
+repeatedly_0_Adverb(Trạng từ)_lặp đi lặp lại nhiều lần
+replace_0_Verb(Động từ)_thay thế
+reply_0_Noun(Danh từ)_sự trả lời, sự hồi âm
+reply_0_Verb(Động từ)_trả lời, hồi âm
+report_0_Verb(Động từ)_báo cáo, tường trình
+report_0_Noun(Danh từ)_bản báo cáo, bản tường trình
+represent_0_Verb(Động từ)_miêu tả, hình dung
+represent_0_Verb(Động từ)_đại diện, thay mặt
+representative_0_Noun(Danh từ)_điều tiêu biểu, tượng trưng, mẫu
+representative_0_Adjective(Tính từ)_miêu tả, biểu hiện, đại diện, tượng trưng
+reproduce_0_Verb(Động từ)_tái sản xuất
+reputation_0_Noun(Danh từ)_sự nổi tiếng, nổi danh
+request_0_Noun(Danh từ)_lời thỉnh cầu, lời đề nghị, yêu cầu
+request_0_Verb(Động từ)_thỉnh cầu, đề nghị, yêu cầu
+require_0_Verb(Động từ)_đòi hỏi, yêu cầu, quy định
+requirement_0_Noun(Danh từ)_nhu cầu, sự đòi hỏi
+requirement_0_Noun(Danh từ)_luật lệ, thủ tục
+rescue_0_Verb(Động từ)_giải thoát, cứu nguy
+rescue_0_Noun(Danh từ)_sự giải thoát, sự cứu nguy
+research_0_Noun(Danh từ)_sự nghiên cứu
+reservation_0_Noun(Danh từ)_sự hạn chế, điều kiện hạn chế
+reserve_0_Verb(Động từ)_dự trữ, để dành, đặt trước, đăng ký trước
+reserve_0_Noun(Danh từ)_sự dự trữ, sự để dành, sự đặt trước, sự đăng ký trước
+resident_0_Noun(Danh từ)_người sinh sống, trú ngụ, khách trọ
+resident_0_Adjective(Tính từ)_có nhà ở, cư trú, thường trú
+resist_0_Verb(Động từ)_chống lại, phản đổi, kháng cự
+resistance_0_Noun(Danh từ)_sự chống lại, sự phản đối, sự kháng cự
+resolve_0_Verb(Động từ)_quyết định, kiên quyết (làm gì)
+resolve_0_Verb(Động từ)_giải quyết (vấn đề, khó khăn..)
+resort_0_Noun(Danh từ)_kế sách, phương kế
+resource_0_Noun(Danh từ)_tài nguyên
+resource_0_Noun(Danh từ)_kế sách, thủ đoạn
+respect_0_Noun(Danh từ)_sự kính trọng, sự lễ phép
+respect_0_Verb(Động từ)_tôn trọng, kính trọng, khâm phục
+respond_0_Verb(Động từ)_hưởng ứng, phản ứng lại, trả lời
+response_0_Noun(Danh từ)_sự trả lời, câu trả lời, sự hưởng ứng, sự đáp lại
+responsibility_0_Noun(Danh từ)_trách nhiệm, sự chịu trách nhiệm
+responsible_0_Adjective(Tính từ)_chịu trách nhiệm về, chịu trách nhiệm trước ai, gì
+rest_0_Noun(Danh từ)_sự nghỉ ngơi, lúc nghỉ
+rest_0_Verb(Động từ)_nghỉ, nghỉ ngơi
+restaurant_0_Noun(Danh từ)_nhà hàng ăn, hiệu ăn
+restore_0_Verb(Động từ)_hoàn lại, trả lại
+restore_0_Verb(Động từ)_sửa chữa lại, phục hồi lại
+restrict_0_Verb(Động từ)_hạn chế, giới hạn
+restricted_0_Adjective(Tính từ)_bị hạn chế, có giới hạn
+restricted_0_Adjective(Tính từ)_vùng cấm
+restriction_0_Noun(Danh từ)_sự hạn chế, sự giới hạn
+result_0_Noun(Danh từ)_kết quả
+result_0_Verb(Động từ)_bởi, do.. mà ra, kết quả là...
+retain_0_Verb(Động từ)_giữ lại, nhớ được
+retire_0_Verb(Động từ)_rời bỏ, rút về
+retire_0_Verb(Động từ)_thôi, nghỉ việc, về hưu
+retired_0_Adjective(Tính từ)_ẩn dật, hẻo lánh, đã về hưu, đã nghỉ việc
+retirement_0_Noun(Danh từ)_sự ẩn dật, nơi hẻo lánh, sự về hưu, sự nghỉ việc
+return_0_Verb(Động từ)_trở lại, trở về
+return_0_Noun(Danh từ)_sự trở lại, sự trở về
+reveal_0_Verb(Động từ)_bộc lộ, biểu lộ, tiết lộ
+reveal_0_Verb(Động từ)_phát hiện, khám phá
+reverse_0_Verb(Động từ)_đảo, ngược lại
+reverse_0_Noun(Danh từ)_điều trái ngược, mặt trái
+review_0_Noun(Danh từ)_sự xem lại, sự xét lại
+review_0_Verb(Động từ)_làm lại, xem xét lại
+revise_0_Verb(Động từ)_đọc lại, xem lại, sửa lại, ôn lại
+revision_0_Noun(Danh từ)_sự xem lại, sự đọc lại, sự sửa lại, sự ôn lại
+revolution_0_Noun(Danh từ)_cuộc cách mạng
+reward_0_Noun(Danh từ)_sự thưởng, phần thưởng
+reward_0_Verb(Động từ)_thưởng, thưởng công
+rhythm_0_Noun(Danh từ)_nhịp điệu
+rice_0_Noun(Danh từ)_gạo, thóc, cơm
+rice_0_Noun(Danh từ)_cây lúa
+rich_0_Adjective(Tính từ)_giàu, giàu có
+rid_0_Verb(Động từ)_giải thoát
+ride_0_Verb(Động từ)_đi, cưỡi (ngựa)
+ride_0_Noun(Danh từ)_sự đi, đường đi
+riding_0_Noun(Danh từ)_môn thể thao cưỡi ngựa, sự đi xe (bus, điện, xe đạp)
+rider_0_Noun(Danh từ)_người cưỡi ngựa, người đi xe đạp
+ridiculous_0_Adjective(Tính từ)_buồn cười, lố bịch, lố lăng
+right_0_Adjective(Tính từ)_thẳng, phải, tốt
+right_0_Adverb(Trạng từ)_ngay, đúng
+right_0_Noun(Danh từ)_điều thiện, điều phải, tốt, bên phải
+rightly_0_Adverb(Trạng từ)_đúng, phải, có lý
+ring_0_Noun(Danh từ)_chiếc nhẫn
+ring_0_Verb(Động từ)_đeo nhẫn cho ai
+rise_0_Noun(Danh từ)_sự lên, sự tăng lương, thăng cấp
+rise_0_Verb(Động từ)_dậy, đứng lên, mọc (mặt trời), thành đạt
+risk_0_Noun(Danh từ)_sự liều, mạo hiểm
+risk_0_Verb(Động từ)_liều
+rival_0_Noun(Danh từ)_đối thủ, địch thủ
+rival_0_Adjective(Tính từ)_đối địch, cạnh tranh
+river_0_Noun(Danh từ)_sông
+road_0_Noun(Danh từ)_con đường, đường phố
+rob_0_Verb(Động từ)_cướp, lấy trộm
+rock_0_Noun(Danh từ)_đá
+role_0_Noun(Danh từ)_vai (diễn), vai trò
+roll_0_Noun(Danh từ)_cuốn, cuộn, sự lăn tròn
+roll_0_Verb(Động từ)_lăn, cuốn, quấn, cuộn
+romantic_0_Adjective(Tính từ)_lãng mạn
+roof_0_Noun(Danh từ)_mái nhà, nóc
+room_0_Noun(Danh từ)_phòng, buồng
+root_0_Noun(Danh từ)_gốc, rễ
+rope_0_Noun(Danh từ)_dây cáp, dây thừng, xâu, chuỗi
+rough_0_Adjective(Tính từ)_gồ ghề, lởm chởm
+roughly_0_Adverb(Trạng từ)_gồ ghề, lởm chởm
+round_0_Adjective(Tính từ)_tròn
+round_0_Adverb(Trạng từ)_xung quanh
+round_0_Preposition(Giới từ)_xung quanh
+round_0_Noun(Danh từ)_vòng tròn
+rounded_0_Adjective(Tính từ)_bị làm thành tròn
+rounded_0_Adjective(Tính từ)_phát triển đầy đủ
+route_0_Noun(Danh từ)_đường đi, lộ trình, tuyến đường
+routine_0_Noun(Danh từ)_thói thường, lệ thường, thủ tục
+routine_0_Adjective(Tính từ)_thường lệ, thông thường
+row_0_Noun(Danh từ)_hàng, dãy
+royal_0_Adjective(Tính từ)_(thuộc) vua, nữ hoàng, hoàng gia
+rub_0_Verb(Động từ)_cọ xát, xoa bóp, nghiền, tán
+rubber_0_Noun(Danh từ)_cao su
+rubbish_0_Noun(Danh từ)_vật vô giá trị, bỏ đi, rác rưởi
+rude_0_Adjective(Tính từ)_bất lịch sự, thô lỗ
+rude_0_Adjective(Tính từ)_thô sơ, đơn giản
+rudely_0_Adverb(Trạng từ)_bất lịch sự, thô lỗ
+rudely_0_Adverb(Trạng từ)_thô sơ, đơn giản
+ruin_0_Verb(Động từ)_làm hỏng, làm đổ nát, làm phá sản
+ruin_0_Noun(Danh từ)_sự hỏng, sự đổ nát, sự phá sản
+ruined_0_Adjective(Tính từ)_bị hỏng, bị đổ nát, bị phá sản
+rule_0_Noun(Danh từ)_quy tắc, điều lệ, luật lệ
+rule_0_Verb(Động từ)_cai trị, chỉ huy, điều khiển
+ruler_0_Noun(Danh từ)_người cai trị, người trị vì
+ruler_0_Noun(Danh từ)_thước kẻ
+rumour_0_Noun(Danh từ)_tin đồn, lời đồn
+run_0_Verb(Động từ)_chạy
+run_0_Noun(Danh từ)_sự chạy
+running_0_Noun(Danh từ)_sự chạy, cuộc chạy đua
+runner_0_Noun(Danh từ)_người chạy
+rural_0_Adjective(Tính từ)_(thuộc) nông thôn, vùng nông thôn
+rush_0_Verb(Động từ)_xông lên, lao vào, xô đẩy
+rush_0_Noun(Danh từ)_sự xông lên, sự lao vào, sự xô đẩy
+sack_0_Noun(Danh từ)_bào tải
+sack_0_Verb(Động từ)_đóng bao, bỏ vào bao
+sad_0_Adjective(Tính từ)_buồn, buồn bã
+sadly_0_Adverb(Trạng từ)_một cách buồn bã, đáng buồn là, không may mà
+sadness_0_Noun(Danh từ)_sự buồn rầu, sự buồn bã
+safe_0_Adjective(Tính từ)_an toàn, chắc chắn, đáng tin
+safely_0_Adverb(Trạng từ)_an toàn, chắc chắn, đáng tin
+safety_0_Noun(Danh từ)_sự an toàn, sự chắc chăn
+sail_0_Verb(Động từ)_đi tàu, thuyền, nhổ neo
+sail_0_Noun(Danh từ)_buồm, cánh buồm, chuyến đi bằng thuyền buồm
+sailing_0_Noun(Danh từ)_sự đi thuyền
+sailor_0_Noun(Danh từ)_thủy thủ
+salad_0_Noun(Danh từ)_sa lát (xà lách trộng dầu dấm)
+salad_0_Noun(Danh từ)_rau sống
+salary_0_Noun(Danh từ)_tiền lương
+sale_0_Noun(Danh từ)_việc bán hàng
+salt_0_Noun(Danh từ)_muối
+salty_0_Adjective(Tính từ)_chứ vị muối, có muối, mặn
+same_0_Adjective(Tính từ)_đều đều, đơn điệu
+same_0_Pronoun(Đại từ)_cũng như thế, vẫn cái đó
+sample_0_Noun(Danh từ)_mẫu, hàng mẫu
+sand_0_Noun(Danh từ)_cát
+satisfaction_0_Noun(Danh từ)_sự làm cho thỏa mãn, toại nguyện
+satisfaction_0_Noun(Danh từ)_sự trả nợ, bồi thường
+satisfy_0_Verb(Động từ)_làm thỏa mãn, hài lòng
+satisfy_0_Verb(Động từ)_trả (nợ), chuộc tội
+satisfied_0_Adjective(Tính từ)_cảm thấy hài lòng, vừa ý, thoả mãn
+satisfying_0_Adjective(Tính từ)_đem lại sự thỏa mãn, làm thỏa mãn, làm vừa ý
+Saturday_0_Noun(Danh từ)_thứ 7
+sauce_0_Noun(Danh từ)_nước xốt, nước chấm
+save_0_Verb(Động từ)_cứu, lưu
+saving_0_Noun(Danh từ)_sự cứu, sự tiết kiệm
+say_0_Verb(Động từ)_nói
+scale_0_Noun(Danh từ)_vảy (cá..)
+scare_0_Verb(Động từ)_làm kinh hãi, sợ hãi, dọa
+scare_0_Noun(Danh từ)_sự sợ hãi, sự kinh hoàng
+scared_0_Adjective(Tính từ)_bị hoảng sợ, bị sợ hãi
+scene_0_Noun(Danh từ)_cảnh, phong cảnh
+schedule_0_Noun(Danh từ)_kế hoạch làm việc, bản liệt kê
+schedule_0_Verb(Động từ)_lên thời khóa biểu, lên kế hoạch
+scheme_0_Noun(Danh từ)_sự sắp xếp, sự phối hợp
+scheme_0_Noun(Danh từ)_kế hoạch thực hiện; lược đồ, sơ đồ
+school_0_Noun(Danh từ)_đàn cá, bầy cá
+science_0_Noun(Danh từ)_khoa học, khoa học tự nhiên
+scientific_0_Adjective(Tính từ)_(thuộc) khoa học, có tính khoa học
+scientist_0_Noun(Danh từ)_nhà khoa học
+scissors_0_Noun(Danh từ)_cái kéo
+score_0_Noun(Danh từ)_điểm số, bản thắng, tỷ số
+score_0_Verb(Động từ)_đạt được, thành công, cho điểm
+scratch_0_Verb(Động từ)_cào, làm xước da
+scratch_0_Noun(Danh từ)_sự cào, sự trầy xước da
+scream_0_Verb(Động từ)_gào thét, kêu lên
+scream_0_Noun(Danh từ)_tiếng thét, tiếng kêu to
+screen_0_Noun(Danh từ)_màn che, màn ảnh, màn hình
+screen_0_Noun(Danh từ)_phim ảnh nói chung
+screw_0_Noun(Danh từ)_đinh vít, đinh ốc
+screw_0_Verb(Động từ)_bắt vít, bắt ốc
+sea_0_Noun(Danh từ)_biển
+seal_0_Noun(Danh từ)_hải cẩu
+seal_0_Verb(Động từ)_săn hải cẩu
+search_0_Noun(Danh từ)_sự tìm kiếm, sự thăm dò, sự điều tra
+search_0_Verb(Động từ)_tìm kiếm, thăm dò, điều tra
+season_0_Noun(Danh từ)_mùa
+seat_0_Noun(Danh từ)_ghế, chỗ ngồi
+second_0_Determiner(Từ hạn định)_thứ hai, ở vị trí thứ 2, thứ nhì
+second_0_Adverb(Trạng từ)_vị trí thứ 2
+second_0_Noun(Danh từ)_người về nhì
+secondary_0_Adjective(Tính từ)_trung học, thứ yếu
+secret_0_Adjective(Tính từ)_bí mật
+secret_0_Noun(Danh từ)_điều bí mật
+secretly_0_Adverb(Trạng từ)_bí mật, riêng tư
+secretary_0_Noun(Danh từ)_thư ký
+section_0_Noun(Danh từ)_mục, phần
+sector_0_Noun(Danh từ)_khu vực, lĩnh vực
+secure_0_Adjective(Tính từ)_chắc chắn, đảm bảo
+secure_0_Verb(Động từ)_bảo đảm, giữ an ninh
+security_0_Noun(Danh từ)_sự an toàn, sự an ninh
+see_0_Verb(Động từ)_nhìn, nhìn thấy, quan sát
+seed_0_Noun(Danh từ)_hạt, hạt giống
+seek_0_Verb(Động từ)_tìm, tìm kiếm, theo đuổi
+select_0_Verb(Động từ)_chọn lựa, chọn lọc
+selection_0_Noun(Danh từ)_sự lựa chọn, sự chọc lọc
+self_0_Noun(Danh từ)_bản thân mình
+self- combining form
+sell_0_Verb(Động từ)_bán
+senate_0_Noun(Danh từ)_thượng nghi viện, ban giám hiệu
+senator_0_Noun(Danh từ)_thượng nghị sĩ
+send_0_Verb(Động từ)_gửi, phái đi
+senior_0_Adjective(Tính từ)_nhiều tuổi hơn, dành cho trẻ em trên 11t
+senior_0_Noun(Danh từ)_người lớn tuổi hơn, sinh viên năm cuối trường trung học, cao đẳng
+sense_0_Noun(Danh từ)_giác quan, tri giác, cảm giác
+sensible_0_Adjective(Tính từ)_có óc xét đoán
+sensible_0_Adjective(Tính từ)_hiểu, nhận biết được
+sensitive_0_Adjective(Tính từ)_dễ bị thương, dễ bị hỏng
+sensitive_0_Adjective(Tính từ)_dễ bị xúc phạm
+sentence_0_Noun(Danh từ)_câu
+separate_0_Adjective(Tính từ)_ khác nhau, riêng biệt
+separate_0_Verb(Động từ)_làm rời, tách ra, chia tay
+separated_0_Adjective(Tính từ)_ly thân
+separately_0_Adverb(Trạng từ)_không cùng nhau, thành người riêng, vật riêng
+separation_0_Noun(Danh từ)_sự chia cắt, phân ly, sự chia tay, ly thân
+September_0_Noun(Danh từ)_tháng 9
+series_0_Noun(Danh từ)_loạt, dãy, chuỗi
+serious_0_Adjective(Tính từ)_đứng đắn, nghiêm trang
+seriously_0_Adverb(Trạng từ)_đứng đắn, nghiêm trang
+servant_0_Noun(Danh từ)_người hầu, đầy tớ
+serve_0_Verb(Động từ)_phục vụ, phụng sự
+service_0_Noun(Danh từ)_sự phục vụ, sự hầu hạ
+session_0_Noun(Danh từ)_buổi họp, phiên họp, buổi, phiên
+set_0_Noun(Danh từ)_bộ, bọn, đám, lũ
+set_0_Verb(Động từ)_đặt để, bố trí
+settle_0_Verb(Động từ)_giải quyết, dàn xếp, hòa giải, đặt, bố trí
+several_0_Determiner(Từ hạn định)_vài
+several_0_Pronoun(Đại từ)_vài
+severe_0_Adjective(Tính từ)_khắt khe, gay gắt (thái độ, cư xử)
+severe_0_Adjective(Tính từ)_giản dị, mộc mạc (kiểu cách, trang phục, dung nhan)
+severely_0_Adverb(Trạng từ)_khắt khe, gay gắt (thái độ, cư xử)
+severely_0_Adverb(Trạng từ)_giản dị, mộc mạc (kiểu cách, trang phục, dung nhan)
+sew_0_Verb(Động từ)_may, khâu
+sewing_0_Noun(Danh từ)_sự khâu, sự may vá
+sex_0_Noun(Danh từ)_giới, giống
+sexual_0_Adjective(Tính từ)_giới tính, các vấn đề sinh lý
+sexually_0_Adverb(Trạng từ)_giới tính, các vấn đề sinh lý
+shade_0_Noun(Danh từ)_bóng, bóng tối
+shadow_0_Noun(Danh từ)_bóng, bóng tối, bóng râm, bóng mát
+shake_0_Verb(Động từ)_rung, lắc, giũ
+shake_0_Noun(Danh từ)_sự rung, sự lắc, sự giũ
+shall_0_Verb(Động từ)_dự đoán tương lai: sẽ
+shallow_0_Adjective(Tính từ)_nông, cạn
+shame_0_Noun(Danh từ)_sự xấu hổ, thẹn thùng, sự ngượng
+shape_0_Noun(Danh từ)_hình, hình dạng, hình thù
+shape_0_Verb(Động từ)_làm cho ra hình dạng
+shaped_0_Adjective(Tính từ)_có hình dáng được chỉ rõ
+share_0_Verb(Động từ)_đóng góp, tham gia, chia sẻ
+share_0_Noun(Danh từ)_phần đóng góp, phần tham gia, phần chia sẻ
+sharp_0_Adjective(Tính từ)_sắc, nhọn, bén
+sharply_0_Adverb(Trạng từ)_sắc, nhọn, bén
+shave_0_Verb(Động từ)_cạo (râu), bào, đẽo (gỗ)
+she_0_Pronoun(Đại từ)_nó, bà ấy, chị ấy, cô ấy...
+sheep_0_Noun(Danh từ)_con cừu
+sheet_0_Noun(Danh từ)_chăn, khăn trải giường
+sheet_0_Noun(Danh từ)_lá, tấm, phiến, tờ
+shelf_0_Noun(Danh từ)_kệ, ngăn, giá
+shell_0_Noun(Danh từ)_vỏ, mai
+shell_0_Noun(Danh từ)_vẻ bề ngoài
+shelter_0_Noun(Danh từ)_sự nương tựa, sự che chở, sự ẩn náu
+shelter_0_Verb(Động từ)_che chở, bảo vệ
+shift_0_Verb(Động từ)
+shift_0_Noun(Danh từ)_sự thay đổi, sự luân phiên
+shine_0_Verb(Động từ)_chiếu sáng, tỏa sáng
+shiny_0_Adjective(Tính từ)_sáng chói, bóng
+ship_0_Noun(Danh từ)_tàu, tàu thủy
+shirt_0_Noun(Danh từ)_áo sơ mi
+shock_0_Noun(Danh từ)_sự đụng chạm, va chạm, sự kích động, sự choáng
+shock_0_Verb(Động từ)_chạm mạnh, va mạnh, gây sốc
+shocking_0_Adjective(Tính từ)_gây ra căm phẫn, tồi tệ, gây kích động
+shocked_0_Adjective(Tính từ)_bị kích động, bị va chạm, bị sốc
+shoe_0_Noun(Danh từ)_giày
+shoot_0_Verb(Động từ)_vụt qua, chạy qua, ném, phóng, bắn
+shoot_0_Verb(Động từ)_đâm ra, trồi ra
+shooting_0_Noun(Danh từ)_sự bắn, sự phóng đi
+shop_0_Noun(Danh từ)_cửa hàng
+shop_0_Verb(Động từ)_đi mua hầng, đi chợ
+shopping_0_Noun(Danh từ)_sự mua sắm
+short_0_Adjective(Tính từ)_ngắn, cụt
+shortly_0_Adverb(Trạng từ)_trong thời gian ngắn, sớm
+shot_0_Noun(Danh từ)_đạn, viên đạn
+should modal_0_Verb(Động từ)_nên
+shoulder_0_Noun(Danh từ)_vai
+shout_0_Verb(Động từ)_hò hét, reo hò
+shout_0_Noun(Danh từ)_sự la hét, sự hò reo
+show_0_Verb(Động từ)_biểu diễn, trưng bày
+show_0_Noun(Danh từ)_sự biểu diễn, sự bày tỏ
+shower_0_Noun(Danh từ)_vòi hoa sen, sự tắm vòi hoa sen
+shut_0_Verb(Động từ)_đóng, khép, đậy
+shut_0_Adjective(Tính từ)_tính khép kín
+shy_0_Adjective(Tính từ)_nhút nhát, e thẹn
+sick_0_Adjective(Tính từ)_ốm, đau, bệnh
+side_0_Noun(Danh từ)_mặt, mặt phẳng
+sideways_0_Adjective(Tính từ)_ngang, từ một bên
+sideways_0_Adverb(Trạng từ)_sang bên
+sight_0_Noun(Danh từ)_cảnh đẹp; sự nhìn
+sign_0_Noun(Danh từ)_dấu, dấu hiệu, kí hiệu
+sign_0_Verb(Động từ)_đánh dấu, viết ký hiệu
+signal_0_Noun(Danh từ)_dấu hiệu, tín hiệu
+signal_0_Verb(Động từ)_ra hiệu, báo hiệu
+signature_0_Noun(Danh từ)_chữ ký
+significant_0_Adjective(Tính từ)_nhiều ý nghĩa, quan trọng
+significantly_0_Adverb(Trạng từ)_đáng kể
+silence_0_Noun(Danh từ)_sự im lặng, sự yên tĩnh
+silent_0_Adjective(Tính từ)_im lặng, yên tĩnh
+silk_0_Noun(Danh từ)_tơ (t.n+n.tạo), chỉ, lụa
+silly_0_Adjective(Tính từ)_ngớ ngẩn, ngu ngốc, khờ dại
+silver_0_Noun(Danh từ)_bạc, đồng bạc
+silver_0_Adjective(Tính từ)_làm bằng bạc, trắng như bạc
+similar_0_Adjective(Tính từ)_giống như, tương tự như
+similarly_0_Adverb(Trạng từ)_tương tự, giống nhau
+simple_0_Adjective(Tính từ)_đơn, đơn giản, dễ dàng
+simply_0_Adverb(Trạng từ)_một cách dễ dàng, giản dị
+since_0_Preposition(Giới từ)_từ, từ khi
+since_0_Conjunction(Liên từ)_từ khi, từ lúc đó
+since_0_Adverb(Trạng từ)_từ đó, từ lúc ấy
+sincere_0_Adjective(Tính từ)_thật thà, thẳng thắng, chân thành
+sincerely_0_Adverb(Trạng từ)_một cách chân thành
+sing_0_Verb(Động từ)_hát, ca hát
+singing_0_Noun(Danh từ)_sự hát, tiếng hát
+singer_0_Noun(Danh từ)_ca sĩ
+single_0_Adjective(Tính từ)_đơn, đơn độc, đơn lẻ
+sink_0_Verb(Động từ)_chìm, lún, đắm
+sir_0_Noun(Danh từ)_xưng hô lịch sự Ngài, Ông
+sister_0_Noun(Danh từ)_chị, em gái
+sit_0_Verb(Động từ)_ngồi
+sit down ngồi xuống
+site_0_Noun(Danh từ)_chỗ, vị trí
+situation_0_Noun(Danh từ)_hoàn cảnh, địa thế, vị trí
+size_0_Noun(Danh từ)_cỡ
+skilful_0_Adjective(Tính từ)_tài giỏi, khéo tay
+skilfully_0_Adverb(Trạng từ)_tài giỏi, khéo tay
+skill_0_Noun(Danh từ)_kỹ năng, kỹ sảo
+skilled_0_Adjective(Tính từ)_có kỹ năng, có kỹ sảo, khẻo tay
+skilled_0_Adjective(Tính từ)_có kinh nghiệm,, lành nghề
+skin_0_Noun(Danh từ)_da, vỏ
+skirt_0_Noun(Danh từ)_váy, đầm
+sky_0_Noun(Danh từ)_trời, bầu trời
+sleep_0_Verb(Động từ)_ngủ
+sleep_0_Noun(Danh từ)_giấc ngủ
+sleeve_0_Noun(Danh từ)_tay áo, ống tay
+slice_0_Noun(Danh từ)_miếng, lát mỏng
+slice_0_Verb(Động từ)_cắt ra thành miếng mỏng, lát mỏng
+slide_0_Verb(Động từ)_trượt, chuyển động nhẹ, lướt qua
+slight_0_Adjective(Tính từ)_mỏng manh, thon, gầy
+slightly_0_Adverb(Trạng từ)_mảnh khảnh, mỏng manh, yếu ớt
+slip_0_Verb(Động từ)_trượt, tuột, trôi qua, chạy qua
+slope_0_Noun(Danh từ)_dốc, đường dốc, độ dốc
+slope_0_Verb(Động từ)_nghiêng, dốc
+slow_0_Adjective(Tính từ)_chậm, chậm chạp
+slowly_0_Adverb(Trạng từ)_một cách chậm chạp, chậm dần
+small_0_Adjective(Tính từ)_nhỏ, bé
+smart_0_Adjective(Tính từ)_mạnh, ác liệt
+smash_0_Verb(Động từ)_đập, vỡ tan thành mảnh
+smash_0_Noun(Danh từ)_sự đập, vỡ tàn thành mảnh
+smell_0_Verb(Động từ)_ngửi
+smell_0_Noun(Danh từ)_sự ngửi, khứu giác
+smile_0_Verb(Động từ)_cười, mỉm cười
+smile_0_Noun(Danh từ)_nụ cười, vẻ tươi cười
+smoke_0_Noun(Danh từ)_khói, hơi thuốc
+smoke_0_Verb(Động từ)_hút thuốc, bốc khói, hơi
+smoking_0_Noun(Danh từ)_sự hút thuốc
+smooth_0_Adjective(Tính từ)_nhẵn, trơn, mượt mà
+smoothly_0_Adverb(Trạng từ)_một cách êm ả, trôi chảy
+snake_0_Noun(Danh từ)_con rắn
+snake_0_Noun(Danh từ)_người nham hiểm, xảo trá
+snow_0_Noun(Danh từ)_tuyết
+snow_0_Verb(Động từ)_tuyết rơi
+so_0_Adverb(Trạng từ)_như vậy, như thế
+so_0_Conjunction(Liên từ)_vì thế, vì vậy, vì thế cho nên
+soap_0_Noun(Danh từ)_xà phòng
+social_0_Adjective(Tính từ)_có tính xã hội
+socially_0_Adverb(Trạng từ)_có tính xã hội
+society_0_Noun(Danh từ)_xã hội
+sock_0_Noun(Danh từ)_tất ngắn, miếng lót giày
+soft_0_Adjective(Tính từ)_mềm, dẻo
+softly_0_Adverb(Trạng từ)_một cách mềm dẻo
+software_0_Noun(Danh từ)_phần mềm (m.tính)
+soil_0_Noun(Danh từ)_đất trồng
+soil_0_Noun(Danh từ)_vết bẩn
+soldier_0_Noun(Danh từ)_lính, quân nhân
+solid_0_Adjective(Tính từ)_rắn
+solid_0_Noun(Danh từ)_thể rắn, chất rắnh
+solution_0_Noun(Danh từ)_sự giải quyết, giải pháp
+solve_0_Verb(Động từ)_giải, giải thích, giải quyết
+some_0_Determiner(Từ hạn định)_một ít
+some_0_Pronoun(Đại từ)_một vài
+somebody_0_Pronoun(Đại từ)_người nào đó
+somehow_0_Adverb(Trạng từ)_không biết làm sao, bằng cách này hay cách khác
+something_0_Pronoun(Đại từ)_một điều gì đó, một việc gì đó, một cái gì đó
+sometimes_0_Adverb(Trạng từ)_thỉnh thoảng, đôi khi
+somewhat_0_Adverb(Trạng từ)_đến mức độ nào đó, hơi, một chút
+somewhere_0_Adverb(Trạng từ)_nơi nào đó. đâu đó
+son_0_Noun(Danh từ)_con trai
+song_0_Noun(Danh từ)_bài hát
+soon_0_Adverb(Trạng từ)_sớm, chẳng bao lâu nữa
+sore_0_Adjective(Tính từ)_đau, nhức
+sorry_0_Adjective(Tính từ)_xin lỗi, lấy làm tiếc, lấy làm buồn
+sort_0_Noun(Danh từ)_thứ, hạng loại
+sort_0_Verb(Động từ)_lựa chọn, sắp xếp, phân loại
+soul_0_Noun(Danh từ)_tâm hồn, tâm trí, linh hồn
+sound_0_Noun(Danh từ)_âm thanh
+sound_0_Verb(Động từ)_nghe
+soup_0_Noun(Danh từ)_xúp, canh, cháo
+sour_0_Adjective(Tính từ)_chua, có vị giấm
+source_0_Noun(Danh từ)_nguồn
+south_0_Noun(Danh từ)_phương Nam, hướng Nam
+south_0_Adjective(Tính từ)_ở phía Nam
+south_0_Adverb(Trạng từ)_hướng về phíaNam
+southern_0_Adjective(Tính từ)_thuộc phương Nam
+space_0_Noun(Danh từ)_khoảng trống, khoảng cách
+spare_0_Adjective(Tính từ)_thừa thãi, dự trữ, rộng rãi
+spare_0_Noun(Danh từ)_đồ dự trữ, đồ dự phòng
+speak_0_Verb(Động từ)_nói
+spoken_0_Adjective(Tính từ)_nói theo 1 cách nào đó
+speaker_0_Noun(Danh từ)_người nói, người diễn thuyết
+special_0_Adjective(Tính từ)_đặc biệt, riêng biệt
+specially_0_Adverb(Trạng từ)_đặc biệt, riêng biệt
+specialist_0_Noun(Danh từ)_chuyên gia, chuyên viên
+specific_0_Adjective(Tính từ)_đặc trưng, riêng biệt
+specifically_0_Adverb(Trạng từ)_đặc trưng, riêng biệt
+speech_0_Noun(Danh từ)_sự nói, khả năng nói, lời nói, cách nói, bài nói
+speed_0_Noun(Danh từ)_tốc độ, vận tốc
+spell_0_Verb(Động từ)_đánh vần
+spell_0_Noun(Danh từ)_sự thu hút, sự quyến rũ, say mê
+spelling_0_Noun(Danh từ)_sự viết chính tả
+spend_0_Verb(Động từ)_tiêu, xài
+spice_0_Noun(Danh từ)_gia vị
+spicy_0_Adjective(Tính từ)_có gia vị
+spider_0_Noun(Danh từ)_con nhện
+spin_0_Verb(Động từ)_quay, quay tròn
+spirit_0_Noun(Danh từ)_tinh thần, tâm hồn, linh hồn
+spiritual_0_Adjective(Tính từ)_(thuộc) tinh thần, linh hồn
+spite_0_Noun(Danh từ)_sự giận, sự hận thù
+split_0_Verb(Động từ)_chẻ, tách, chia ra
+split_0_Noun(Danh từ)_sự chẻ, sự tách, sự chia ra
+spoil_0_Verb(Động từ)_cướp, cướp đọat
+spoon_0_Noun(Danh từ)_cái thìa
+sport_0_Noun(Danh từ)_thể thao
+spot_0_Noun(Danh từ)_dấu, đốm, vết
+spray_0_Noun(Danh từ)_máy, ống, bình phụt, bơm, phun
+spray_0_Verb(Động từ)_bơm, phun, xịt
+spread_0_Verb(Động từ)_trải, căng ra, bày ra
+spread_0_Verb(Động từ)_truyền bá
+spring_0_Noun(Danh từ)_mùa xuân
+square_0_Adjective(Tính từ)_vuông, vuông vắn
+square_0_Noun(Danh từ)_dạng hình vuông, hình vuông
+squeeze_0_Verb(Động từ)_ép, vắt, xiết
+squeeze_0_Noun(Danh từ)_sự ép, sự vắt, sự xiết
+stable_0_Adjective(Tính từ)_ổn định, bình tĩnh, vững vàng
+stable_0_Noun(Danh từ)_chuồng ngưa
+staff_0_Noun(Danh từ)_gậy
+stage_0_Noun(Danh từ)_tầng, bệ
+stair_0_Noun(Danh từ)_bậc thang
+stamp_0_Noun(Danh từ)_tem
+stamp_0_Verb(Động từ)_dán tem
+stand_Verb(Động từ)_đứng
+satnd_0_Noun(Danh từ)_sự đứng
+standard_0_Noun(Danh từ)_tiêu chuẩn, chuẩn, mãu
+standard_0_Adjective(Tính từ)_làm tiêu chuẩn, phù hợp với tiêu chuẩn
+star_0_Noun(Danh từ)_ngôi sao
+star_0_Verb(Động từ)_dán sao, trang trí hình sao, đánh dấu sao
+stare_0_Verb(Động từ)_nhìm chằm chằm
+stare_0_Noun(Danh từ)_sự nhìn chằm chằm
+start_0_Verb(Động từ)_bắt đầu, khởi động
+start_0_Noun(Danh từ)_sự bắt đầu, sự khởi đầu, khởi hành
+state_0_Noun(Danh từ)_nhà nước, quốc gia, chính quyền
+state_0_Adjective(Tính từ)_(thuộc) nhà nước, có liên quan đến nhà nước
+state_0_Verb(Động từ)_phát biểu, tuyên bố
+statement_0_Noun(Danh từ)_sự bày tỏ, sự phát biểu
+statement_0_Noun(Danh từ)_sự tuyên bố, sự trình bày
+station_0_Noun(Danh từ)_trạm, điểm, đồn
+statue_0_Noun(Danh từ)_tượng
+status_0_Noun(Danh từ)_tình trạng
+stay_0_Verb(Động từ)_ở lại, lưu lại
+stay_0_Noun(Danh từ)_sự ở lại, sự lưu lại
+steady_0_Adjective(Tính từ)_vững chắc, vững vàng, kiến định
+steadily_0_Adverb(Trạng từ)_vững chắc, vững vàng, kiên định
+unsteady_0_Adjective(Tính từ)_không chắc, không ổn định
+steal_0_Verb(Động từ)_ăn cắp, ăn trộm
+steam_0_Noun(Danh từ)_hơi nước
+steel_0_Noun(Danh từ)_thép, ngành thép
+steep_0_Adjective(Tính từ)_dốc, dốc đứng
+steeply_0_Adverb(Trạng từ)_dốc, cheo leo
+steer_0_Verb(Động từ)_lái (tàu, ô tô...)
+step_0_Noun(Danh từ)_bước
+step_0_Verb(Động từ)_bước, bước đi
+stick_0_Verb(Động từ)_đâm, thọc, chọc, cắm, dính
+stick_0_Noun(Danh từ)_cái gậy, qua củi, cán
+sticky_0_Adjective(Tính từ)_dính, nhớt
+stiff_0_Adjective(Tính từ)_cứng, cứng rắn, kiên quyết
+stiffly_0_Adverb(Trạng từ)_cứng, cứng rắn, kiên quyết
+still_0_Adverb(Trạng từ)_đứng yên
+still_0_Adjective(Tính từ)_vẫn, vẫn còn
+sting_0_Verb(Động từ)_ châm, chích, đốt
+sting_0_Noun(Danh từ)_ngòi, vòi (ong, muỗi), nọc (rắn); sự châm, chích..
+stir_0_Verb(Động từ)_khuấy, đảo
+stock_0_Noun(Danh từ)_kho sự trữ, hàng dự trữ, vốn
+stomach_0_Noun(Danh từ)_dạ dày
+stone_0_Noun(Danh từ)_đá
+stop_0_Verb(Động từ)_dừng, ngừng, nghỉ, thôi
+stop_0_Noun(Danh từ)_sự dừng, sự ngừng, sự đỗ lại
+store_0_Noun(Danh từ)_cửa hàng, kho hàng
+store_0_Verb(Động từ)_tích trữ, cho vào kho
+storm_0_Noun(Danh từ)_cơn giông, bão
+story_0_Noun(Danh từ)_chuyện, câu chuyện
+stove_0_Noun(Danh từ)_bếp lò, lò sưởi
+straight_0_Adverb(Trạng từ)_thẳng, không cong
+straight_0_Adjective(Tính từ)_thẳng, không cong
+strain_0_Noun(Danh từ)_sự căng thẳng, sự căng
+strange_0_Adjective(Tính từ)_xa lạ, chưa quen
+strangely_0_Adverb(Trạng từ)_lạ, xa lạ, chưa quen
+stranger_0_Noun(Danh từ)_người lạ
+strategy_0_Noun(Danh từ)_chiến lược
+stream_0_Noun(Danh từ)_dòng suối
+street_0_Noun(Danh từ)_phố, đườmg phố
+strength_0_Noun(Danh từ)_sức mạnh, sức khỏe
+stress_0_Noun(Danh từ)_sự căng thẳng
+stress_0_Verb(Động từ)_căng thẳng, ép, làm căng
+stressed_0_Adjective(Tính từ)_bị căng thẳng, bị ép, bị căng
+stretch_0_Verb(Động từ)_căng ra, duỗi ra, kéo dài ra
+strict_0_Adjective(Tính từ)_nghiêm khắc, chặt chẽ, khắt khe
+strictly_0_Adverb(Trạng từ)_một cách nghiêm khắc
+strike_0_Verb(Động từ)_đánh, đập, bãi công, đình công
+strike_0_Noun(Danh từ)_cuộc bãi công, cuộc đình công
+striking_0_Adjective(Tính từ)_nổi bật, gây ấn tượng
+string_0_Noun(Danh từ)_dây, sợi dây
+strip_0_Verb(Động từ)_cởi, lột (quần áo)
+strip_0_Noun(Danh từ)_sự cởi quần áo
+stripe_0_Noun(Danh từ)_sọc, vằn, viền
+striped_0_Adjective(Tính từ)_có sọc, có vằn
+stroke_0_Noun(Danh từ)_cú đánh, cú đòn
+stroke_0_Noun(Danh từ)_cái vuốt ve, sự vuốt ve;
+stroke_0_Verb(Động từ)_vuốt ve
+strong_0_Adjective(Tính từ)_khỏe, mạnh, bền, vững, chắc chắn
+strongly_0_Adverb(Trạng từ)_khỏe, chắc chắn
+structure_0_Noun(Danh từ)_kết cấu, cấu trúc
+struggle_0_Verb(Động từ)_đấu tranh
+struggle_0_Noun(Danh từ)_cuộc đấu tranh, cuộc chiến đấu
+student_0_Noun(Danh từ)_sinh viên
+studio_0_Noun(Danh từ)_xưởng phim, trường quay
+studio_0_Noun(Danh từ)_phòng thu
+study_0_Noun(Danh từ)_sự học tập, sự nghiên cứu
+study_0_Verb(Động từ)_học tập, nghiên cứu
+stuff_0_Noun(Danh từ)_chất liệu, chất
+stupid_0_Adjective(Tính từ)_ngu ngốc, ngu đần, ngớ ngẩn
+style_0_Noun(Danh từ)_phong cách, kiểu, mẫu, loại
+subject_0_Noun(Danh từ)_chủ đề, đề tài
+subject_0_Noun(Danh từ)_chủ ngữ
+substance_0_Noun(Danh từ)_chất liệu
+substance_0_Noun(Danh từ)_bản chất
+substance_0_Noun(Danh từ)_nội dung
+substantial_0_Adjective(Tính từ)_thực tế, đáng kể, quan trọng
+substantially_0_Adverb(Trạng từ)_về thực chất, về căn bản
+substitute_0_Noun(Danh từ)_người, vật thay thế
+substitute_0_Verb(Động từ)_thay thế
+succeed_0_Verb(Động từ)_nối tiếp, kế tiếp
+succeed_0_Verb(Động từ)_kế nghiệp, kế vị
+success_0_Noun(Danh từ)_sự thành công, sự thành đạt
+successful_0_Adjective(Tính từ)_thành công, thắng lợi, thành đạt
+successfully_0_Adverb(Trạng từ)_thành công, thắng lợi, thành đạt
+unsuccessful_0_Adjective(Tính từ)_không thành công, thất bại
+such_0_Determiner(Từ hạn định)_như là
+such_0_Pronoun(Đại từ)_như thế, như vậy, như là
+suck_0_Verb(Động từ)_bú, hút
+suck_0_Verb(Động từ)_hấp thụ, tiếp thu
+sudden_0_Adjective(Tính từ)_thình lình, đột ngột
+suddenly_0_Adverb(Trạng từ)_thình lình, đột ngột
+suffer_0_Verb(Động từ)_chịu đựng, chịu thiệt hại, đau khổ
+suffering_0_Noun(Danh từ)_sự đau đớn, sự đau khổ
+sufficient_0_Adjective(Tính từ)_đủ, thích đáng
+sufficiently_0_Adverb(Trạng từ)_đủ, thích đáng
+sugar_0_Noun(Danh từ)_đường
+suggest_0_Verb(Động từ)_đề nghị, đề xuất
+suggest_0_Verb(Động từ)_gợi
+suggestion_0_Noun(Danh từ)_sự đề nghị, sự đề xuất, sự khêu gợi
+suit_0_Noun(Danh từ)_bộ com lê, trang phục
+suit_0_Verb(Động từ)_thích hợp, quen, hợp với
+suited_0_Adjective(Tính từ)_hợp, phù hợp, thích hợp với
+suitable_0_Adjective(Tính từ)_hợp, phù hợp, thích hợp với
+suitcase_0_Noun(Danh từ)_va li
+sum_0_Noun(Danh từ)_tổng, toàn bộ
+summary_0_Noun(Danh từ)_bản tóm tắt
+summer_0_Noun(Danh từ)_mùa hè
+sun_0_Noun(Danh từ)_mặt trời
+Sunday_0_Noun(Danh từ)_Chủ nhật
+superior_0_Adjective(Tính từ)_cao, chất lượng cao
+supermarket_0_Noun(Danh từ)_siêu thị
+supply_0_Noun(Danh từ)_sự cung cấp, nguồn cung cấp
+supply_0_Verb(Động từ)_cung cấp, đáp ứng, tiếp tế
+support_0_Noun(Danh từ)_sự chống đỡ, sự ủng hộ
+support_0_Verb(Động từ)_chống đỡ, ủng hộ
+supporter_0_Noun(Danh từ)_vật chống đỡ
+supporter_0_Noun(Danh từ)_người cổ vũ, người ủng hộ
+suppose_0_Verb(Động từ)_cho rằng, tin rằng, nghĩ rằng
+sure_0_Adjective(Tính từ)_chắc chắn, xác thực
+sure_0_Adverb(Trạng từ)_chắc chắn, xác thực
+surely_0_Adverb(Trạng từ)_chắc chắn
+surface_0_Noun(Danh từ)_mặt, bề mặt
+surname_0_Noun(Danh từ)_họ
+surprise_0_Noun(Danh từ)_sự ngạc nhiên, sự bất ngờ
+surpirise_0_Verb(Động từ)_làm ngạc nhiên, gây bất ngờ
+surprising_0_Adjective(Tính từ)_làm ngạc nhiên, làm bất ngờ
+surprisingly_0_Adverb(Trạng từ)_làm ngạc nhiên, làm bất ngờ
+surprised_0_Adjective(Tính từ)_ngạc nhiên
+surround_0_Verb(Động từ)_vây quanh, bao quanh
+surrounding_0_Adjective(Tính từ)_sự vây quanh, sự bao quanh
+surroundings_0_Noun(Danh từ)_vùng xung quanh, môi trường xung quanh
+survey_0_Noun(Danh từ)_sự nhìn chung, sự khảo sát
+survey_0_Verb(Động từ)_quan sát, nhìn chung, khảo sát, nghiên cứu
+survive_0_Verb(Động từ)_sống lâu hơn, tiếp tục sống, sống sót
+suspect_0_Verb(Động từ)_nghi ngờ, hoài nghi
+suspect_0_Noun(Danh từ)_người khả nghi, người bị tình nghi
+suspicion_0_Noun(Danh từ)_sự nghi ngờ, sự ngờ vực
+suspicious_0_Adjective(Tính từ)_có sự nghi ngờ, tỏ ra nghi ngờ, khả nghi
+swallow_0_Verb(Động từ)_nuốt, nuốt chửng
+swear_0_Verb(Động từ)_chửi rủa, nguyền rủa
+swear_0_Verb(Động từ)_thề, hứa
+swearing_0_Noun(Danh từ)_lời thề, lời nguyền rủa, lời thề hứa
+sweat_0_Noun(Danh từ)_mồ hôi
+sweat_0_Verb(Động từ)_đổ mồ hôi
+sweater_0_Noun(Danh từ)_người ra mồ hôi, kẻ bóc lột lao động
+sweep_0_Verb(Động từ)_quét
+sweet_0_Adjective(Tính từ)_ngọt, có vị ngọt
+sweet_0_Noun(Danh từ)_sự ngọt bùi, đồ ngọt
+swell_0_Verb(Động từ)_phồng, sưng lên
+swelling_0_Noun(Danh từ)_sự sưng lên, sự phồng ra
+swollen_0_Adjective(Tính từ)_sưng phồng, phình căng
+swim_0_Verb(Động từ)_bơi lội
+swimming_0_Noun(Danh từ)_sự bơi lội
+swimming pool_0_Noun(Danh từ) bể nước
+swing_0_Noun(Danh từ)_sự đu đưa, lúc lắc
+swing_0_Verb(Động từ)_đánh đu, đu đưa, lúc lắc
+switch_0_Noun(Danh từ)_công tắc, roi
+switch_0_Verb(Động từ)_tắt, bật, đánh bằng gậy, roi
+symbol_0_Noun(Danh từ)_biểu tượng, ký hiệu
+sympathetic_0_Adjective(Tính từ)_đồng cảm, đáng mến, dễ thương
+sympathy_0_Noun(Danh từ)_sự đồng cảm, sự đồng ý
+system_0_Noun(Danh từ)_hệ thống, chế độ
+table_0_Noun(Danh từ)_cái bàn
+tablet_0_Noun(Danh từ)_tấm, bản, thẻ phiến
+tackle_0_Verb(Động từ)_giải quyết, khắc phục, bàn thảo
+tackle_0_Noun(Danh từ)_đồ dùng, dụng cụ
+tail_0_Noun(Danh từ)_đuôi, đoạn cuối
+take_0_Verb(Động từ)_sự cầm nắm, sự lấy
+talk_0_Verb(Động từ)_nói chuyện, trò chuyện
+talk_0_Noun(Danh từ)_cuộc trò chuyện, cuộc thảo luận
+tall_0_Adjective(Tính từ)_cao
+tank_0_Noun(Danh từ)_thùng, két, bể
+tap_0_Verb(Động từ)_mở vòi, đóng vòi
+tap_0_Noun(Danh từ)_vòi, khóa
+tape_0_Noun(Danh từ)_băng, băng ghi âm
+tape_0_Noun(Danh từ)_dải, dây
+target_0_Noun(Danh từ)_bia, mục tiêu, đích
+task_0_Noun(Danh từ)_nhiệm vụ, nghĩa vụ, bài tập, công tác, công việc
+taste_0_Noun(Danh từ)_vị, vị giác
+taste_0_Verb(Động từ)_nếm
+tax_0_Noun(Danh từ)_thuế
+tax_0_Verb(Động từ)_đánh thuế
+taxi_0_Noun(Danh từ)_xe tắc xi
+tea_0_Noun(Danh từ)_cây chè, trà, chè
+teach_0_Verb(Động từ)_dạy
+teaching_0_Noun(Danh từ)_sự dạy, công việc dạy học
+teacher_0_Noun(Danh từ)_giáo viên
+team_0_Noun(Danh từ)_đội, nhóm
+tear_0_Verb(Động từ)_xé, làm rách
+tear_0_Noun(Danh từ)_ chỗ rách, miếng xe
+tear_0_Noun(Danh từ)_ nước mắt
+technical_0_Adjective(Tính từ)_(thuộc) kỹ thuật, chuyên môn
+technique_0_Noun(Danh từ)_kỹ sảo, kỹ thuật, phương pháp kỹ thuật
+technology_0_Noun(Danh từ)_kỹ thuật học, công nghệ học
+telephone_0_Noun(Danh từ)_máy điện thoại
+telephone_0_Verb(Động từ)_gọi điện thoại
+television_0_Noun(Danh từ)_vô tuyến truyền hình
+tell_0_Verb(Động từ)_nói, nói với
+temperature_0_Noun(Danh từ)_nhiệt độ
+temporary_0_Adjective(Tính từ)_tạm thời, nhất thời
+temporarily_0_Adverb(Trạng từ)_tạm
+tend_0_Verb(Động từ)_trông nom, chăm sóc, giữ gìn, hầu hạ
+tendency_0_Noun(Danh từ)_xu hướng, chiều hướng, khuynh hướng
+tension_0_Noun(Danh từ)_sự căng, độ căng, tình trạng căng
+tent_0_Noun(Danh từ)_lều, rạp
+term_0_Noun(Danh từ)_giới hạn, kỳ hạn, khóa, kỳ học
+terrible_0_Adjective(Tính từ)_khủng khiếp, ghê sợ
+terribly_0_Adverb(Trạng từ)_tồi tệ, không chịu nổi
+test_0_Noun(Danh từ)_bài kiểm tra, sự thử nghiệm, xét nghiệm
+test_0_Verb(Động từ)_kiểm tra, xét nghiệm, thử nghiệm
+text_0_Noun(Danh từ)_nguyên văn, bản văn, chủ đề, đề tì
+than_0_Preposition(Giới từ)_hơn
+than_0_Conjunction(Liên từ)_hơn
+thank_0_Verb(Động từ)_cám ơn
+thanks_0_Noun(Danh từ)_sự cảm ơn, lời cảm ơn
+that_0_Determiner(Từ hạn định)
+that_0_Pronoun(Đại từ)_người ấy, đó, vật ấy, đó
+that_0_Conjunction(Liên từ)_rằng, là
+theatre_0_Noun(Danh từ)_rạp hát, nhà hát
+their_0_Determiner(Từ hạn định)_của chúng, của chúng nó, của họ
+theirs_0_Pronoun(Đại từ)_của chúng, của chúng nó, của họ
+them_0_Pronoun(Đại từ)_chúng, chúng nó, họ
+theme_0_Noun(Danh từ)_đề tài, chủ đề
+themselves_0_Pronoun(Đại từ)_tự chúng, tự họ, tự
+then_0_Adverb(Trạng từ)_khi đó, lúc đó, tiếp đó
+theory_0_Noun(Danh từ)_lý thuyết, học thuyết
+there_0_Adverb(Trạng từ)_ở nơi đó, tại nơi đó
+therefore_0_Adverb(Trạng từ)_bởi vậy, cho nên, vì thế
+they_0_Pronoun(Đại từ)_chúng, chúng nó, họ
+they_0_Pronoun(Đại từ)_những cái ấy
+thick_0_Adjective(Tính từ)_dày
+thick_0_Adjective(Tính từ)_đậm
+thickly_0_Adverb(Trạng từ)_dày
+thickly_0_Adverb(Trạng từ)_dày đặc
+thickly_0_Adverb(Trạng từ)_thành lớp dày
+thickness_0_Noun(Danh từ)_tính chất dày, độ dày, bề dày
+thief_0_Noun(Danh từ)_kẻ trộm, kẻ cắp
+thin_0_Adjective(Tính từ)_mỏng, mảnh
+thing_0_Noun(Danh từ)_cái, đồ, vật
+think_0_Verb(Động từ)_nghĩ, suy nghĩ
+thinking_0_Noun(Danh từ)_sự suy nghĩ, ý nghĩ
+thirsty_0_Adjective(Tính từ)_khát, cảm thấy khát
+this_0_Determiner(Từ hạn định)_cái này, điều này, việc này
+this_0_Pronoun(Đại từ)_cái này, điều này, việc này
+thorough_0_Adjective(Tính từ)_cẩn thận, kỹ lưỡng
+thoroughly_0_Adverb(Trạng từ)_kỹ lưỡng, thấu đáo, triệt để
+though_0_Conjunction(Liên từ)_dù, dù cho, mặc dù
+though_0_Adverb(Trạng từ)_mặc dù, tuy nhiên, tuy vậy
+thought_0_Noun(Danh từ)_sự suy nghĩ, khả năng suy nghĩ
+thought_0_Noun(Danh từ)_ý nghĩ, tư tưởng, tư duy
+thread_0_Noun(Danh từ)_chỉ, sợi chỉ, sợi dây
+threat_0_Noun(Danh từ)_sự đe dọa, lời đe dọa
+threaten_0_Verb(Động từ)_dọa, đe dọa
+threatening_0_Adjective(Tính từ)_sự đe dọa, sự hăm dọa
+throat_0_Noun(Danh từ)_cổ, cổ họng
+through_0_Preposition(Giới từ)_qua, xuyên qua
+through_0_Adverb(Trạng từ)_qua, xuyên qua
+throughout_0_Preposition(Giới từ)_khắp
+throughout_0_Adverb(Trạng từ)_suốt
+throw_0_Verb(Động từ)_ném, vứt, quăng
+thumb_0_Noun(Danh từ)_ngón tay cái
+Thursday_0_Noun(Danh từ)_thứ 5
+thus_0_Adverb(Trạng từ)_như vậy, như thế, do đó
+ticket_0_Noun(Danh từ)_vé
+tidy_0_Adjective(Tính từ)_sạch sẽ, ngăn nắp, gọn gàng
+tidy_0_Verb(Động từ)_làm cho sạch sẽ, gọn gàng, ngăn nắp
+untidy_0_Adjective(Tính từ)_không gọn gàng, không ngăn nắp, lộn xộn
+tie_0_Verb(Động từ)_buộc, cột, trói dây buộc
+tie_0_Noun(Danh từ)_dây trói, dây giày
+tight_0_Adjective(Tính từ)_kín, chặt, chật
+tight_0_Adverb(Trạng từ)_kín, chặt, chật
+tightly_0_Adverb(Trạng từ)_chặc chẽ, sít sao
+time_0_Noun(Danh từ)_thời gian, thì giờ
+timetable_0_Noun(Danh từ)_kế hoạch làm việc, thời gian biểu
+tin_0_Noun(Danh từ)_thiếc
+tiny_0_Adjective(Tính từ)_rất nhỏ, nhỏ xíu
+tip_0_Noun(Danh từ)_ đầu, mút, đỉnh, chóp
+tip_0_Verb(Động từ)_bịt đầu, lắp đầu vào
+tire_0_Verb(Động từ)_làm mệt mỏi, trở nên mệt nhọc
+tire_0_Noun(Danh từ)_lốp, vỏ xe
+tiring_0_Adjective(Tính từ)_sự mệt mỏi, sự mệt nhọc
+tired_0_Adjective(Tính từ)_mệt, muốn ngủ, nhàm chán
+title_0_Noun(Danh từ)_đầu đề, tiêu đề
+title_0_Noun(Danh từ)_tước vị, tư cách
+to_0_Preposition(Giới từ)_theo hướng, tới
+today_0_Adverb(Trạng từ)_vào ngày này
+today_0_Noun(Danh từ)_hôm nay, ngày nay
+toe_0_Noun(Danh từ)_ngón chân (người)
+together_0_Adverb(Trạng từ)_cùng nhau, cùng với
+toilet_0_Noun(Danh từ)_nhà vệ sinh
+toilet_0_Noun(Danh từ)_sự trang điểm (rửa mặt, ăn mặc, chải tóc...)
+tomato_0_Noun(Danh từ)_cà chua
+tomorrow_0_Adverb(Trạng từ)_vào ngày mai
+tomorrow_0_Noun(Danh từ)_ngày mai
+ton_0_Noun(Danh từ)_tấn
+tone_0_Noun(Danh từ)_tiếng, giọng
+tongue_0_Noun(Danh từ)_lưỡi
+tonight_0_Adverb(Trạng từ)_vào đêm nay, vào tối nay
+tonight_0_Noun(Danh từ)_đêm nay, tối nay
+tonne_0_Noun(Danh từ)_tấn
+too_0_Adverb(Trạng từ)_cũng
+tool_0_Noun(Danh từ)_dụng cụ, đồ dùng
+tooth_0_Noun(Danh từ)_răng
+top_0_Noun(Danh từ)_chóp, đỉnh
+top_0_Adjective(Tính từ)_đứng đầu, trên hết
+topic_0_Noun(Danh từ)_đề tài, chủ đề
+total_0_Adjective(Tính từ)_tổng cộng, toàn bộ
+total_0_Noun(Danh từ)_tổng số, toàn bộ số lượng
+totally_0_Adverb(Trạng từ)_hoàn toàn
+touch_0_Verb(Động từ)_sờ, mó, tiếp xúc
+touch_0_Noun(Danh từ)_sự sờ, sự mó, sự tiếp xúc
+tough_0_Adjective(Tính từ)_cuộc đo du lịch, cuộc đi dạo, chuyến du lịch
+tough_0_Adjective(Tính từ)_đi du lịch
+tourist_0_Noun(Danh từ)_khách du lịch
+towards_0_Preposition(Giới từ)_theo hướng, về hướng
+towel_0_Noun(Danh từ)_khăn tắm, khăn lau
+tower_0_Noun(Danh từ)_tháp
+town_0_Noun(Danh từ)_thị trấn, thị xã, thành phố nhỏ
+toy_0_Noun(Danh từ)_đồ chơi, đồ trang trí
+toy_0_Adjective(Tính từ)_thể loại đồ chơi
+trace_0_Verb(Động từ)_phát hiện, tìm thấy, vạch, chỉ ra, phác họa
+trace_0_Noun(Danh từ)_dấu, vết, một chút
+track_0_Noun(Danh từ)_phần của đĩa
+track_0_Noun(Danh từ)_đường mòn, đường đua
+trade_0_Noun(Danh từ)_thương mại, buôn bán
+trade_0_Verb(Động từ)_buôn bán, trao đổi
+trading_0_Noun(Danh từ)_sự kinh doanh, việc mua bán
+tradition_0_Noun(Danh từ)_truyền thống
+traditional_0_Adjective(Tính từ)_theo truyền thống, theo lối cổ
+traditionally_0_Adverb(Trạng từ)_(thuộc) truyền thống, là truyền thống
+traffic_0_Noun(Danh từ)_sự đi lại, sự giao thông, sự chuyển động
+train_0_Noun(Danh từ)_ xe lửa, tàu hỏa
+train_0_Verb(Động từ)_dạy, rèn luyện, đào tạo
+training_0_Noun(Danh từ)_sự dạy dỗ, sự huấn luyện, sự đào tạo
+transfer_0_Verb(Động từ)_dời, di chuyển
+transfer_0_Noun(Danh từ)_sự di chuyển, sự dời chỗ
+transform_0_Verb(Động từ)_thay đổi, biến đổi
+translate_0_Verb(Động từ)_dịch, biên dịch, phiên dịch
+translation_0_Noun(Danh từ)_sự dịch
+transparent_0_Adjective(Tính từ)_trong suốt
+transparent_0_Adjective(Tính từ)_dễ hiểu, sáng sủa
+transport_0_Noun(Danh từ)_sự vận chuyển, sự vận tải
+transport_0_Noun(Danh từ)_phương tiện đi lại
+transport_Verb(Động từ)_chuyên chở, vận tải
+trap_0_Noun(Danh từ)_đồ đạc, hành lý
+trap_0_Noun(Danh từ)_bẫy, cạm bãy
+trap_0_Verb(Động từ)_bẫy, giữ, chặn lại
+travel_0_Verb(Động từ)_đi lại, đi du lịch, di chuyển
+travel_0_Noun(Danh từ)_sự đi, những chuyến đi
+traveller_0_Noun(Danh từ)_người đi, lữ khách
+treat_0_Verb(Động từ)_đối xử, đối đãi, cư xử
+treatment_0_Noun(Danh từ)_sự đối xử, sự cư xử
+tree_0_Noun(Danh từ)_cây
+trend_0_Noun(Danh từ)_phương hướng, xu hướng, chiều hướng
+trial_0_Noun(Danh từ)_sự thử nghiệm, cuộc thử nghiệm
+triangle_0_Noun(Danh từ)_hình tam giác
+trick_0_Noun(Danh từ)_mưu mẹo, thủ đoạn, trò lừa gạt
+trick_0_Verb(Động từ)_lừa, lừa gạt
+trip_0_Noun(Danh từ)_cuộc dạo chơi, cuộc du ngoạn
+trip_0_Verb(Động từ)_đi dạo, du ngoạn
+tropical_0_Adjective(Tính từ)_nhiệt đới
+trouble_0_Noun(Danh từ)_điều lo lắng, điều muộn phiền
+trousers_0_Noun(Danh từ)_quần
+truck_0_Noun(Danh từ)_rau quả tươi
+true_0_Adjective(Tính từ)_đúng, thật
+truly_0_Adverb(Trạng từ)_đúng sự thật, đích thực, thực sự
+trust_0_Noun(Danh từ)_niềm tin, sự phó thác
+trust_0_Verb(Động từ)_tin, tin cậy, phó thác
+truth_0_Noun(Danh từ)_sự thật
+try_0_Verb(Động từ)_thử, cố gắng
+tube_0_Noun(Danh từ)_ống, tuýp
+Tuesday_0_Noun(Danh từ)_thứ 3
+tune_0_Noun(Danh từ)_điệu, giai điệu
+tune_0_Verb(Động từ)_lên dây, so dây (đàn)
+tunnel_0_Noun(Danh từ)_đường hầm, hang
+turn_0_Verb(Động từ)_quay, xoay, vặn
+turn_0_Noun(Danh từ)_sự quay, vòng quay
+twice_0_Adverb(Trạng từ)_hai lần
+twin_0_Noun(Danh từ)_sinh đôi, tạo thành cặp
+twin_0_Adjective(Tính từ)_cặp song sinh
+twist_0_Verb(Động từ)_xoắn, cuộn, quắn
+twist_0_Noun(Danh từ)_sự xoắn, vòng xoắn
+twisted_0_Adjective(Tính từ)_được xoắn, được cuộn
+type_0_Noun(Danh từ)_loại, kiểu, mẫu
+type_0_Verb(Động từ)_phân loại, xếp loại
+typical_0_Adjective(Tính từ)_tiêu biểu, điển hình, đặc trưng
+typically_0_Adverb(Trạng từ)_điển hình, tiêu biểu
+tyre_0_Noun(Danh từ)_lốp, vỏ xe
+ugly_0_Adjective(Tính từ)_xấu xí, xấu xa
+ultimate_0_Adjective(Tính từ)_cuối cùng, sau cùng
+ultimately_0_Adverb(Trạng từ)_cuối cùng, sau cùng
+umbrella_0_Noun(Danh từ)_ô, dù
+uncle_0_Noun(Danh từ)_chú, bác
+under_0_Preposition(Giới từ)_dưới, ở dưới
+under_0_Adverb(Trạng từ)_ở phía dưới, về phía dưới
+underground_0_Adjective(Tính từ)_dưới mặt đất, ngầm dưới đất
+underground_0_Adverb(Trạng từ)_ngầm
+underneath_0_Preposition(Giới từ)_dưới
+underneath_0_Adverb(Trạng từ)_bên dưới
+understand_0_Verb(Động từ)_hiểu, nhận thức
+understanding_0_Noun(Danh từ)_trí tuệ, sự hiểu biết
+underwater_0_Adjective(Tính từ)_ở dưới mặt nước
+underwater_0_Adverb(Trạng từ)_dưới mặt nước
+underwear_0_Noun(Danh từ)_quần lót
+unfortunate_0_Adjective(Tính từ)_không may, rủi ro, bất hạnh
+unfortunately_0_Adverb(Trạng từ)_một cách đáng tiếc, một cách không may
+uniform_0_Noun(Danh từ)_đồng phục
+uniform_0_Adjective(Tính từ)_đều, giống nhau, đồng dạng
+union_0_Noun(Danh từ)_liên hiệp, sự đoàn kết, sự hiệp nhất
+unique_0_Adjective(Tính từ)_độc nhất vô nhị
+unit_0_Noun(Danh từ)_đơn vị
+unite_0_Verb(Động từ)_liên kết, hợp nhất, hợp lại, kết thân
+united_0_Adjective(Tính từ)_liên minh, đoàn kết, chung, thống nhất
+universe_0_Noun(Danh từ)_vũ trụ
+university_0_Noun(Danh từ)_trường đại học
+unless_0_Conjunction(Liên từ)_trừ phi, trừ khi, nếu không
+until_0_Conjunction(Liên từ)_trước khi
+until_0_Preposition(Giới từ)_cho đến khi
+up_0_Adverb(Trạng từ)_ở trên
+up_0_Preposition(Giới từ)_lên trên
+upon_0_Preposition(Giới từ)_trên, ở trên
+upper_0_Adjective(Tính từ)_cao hơn
+upset_0_Verb(Động từ)_làm đổ
+upset_0_Adjective(Tính từ)_đánh đổ
+upsetting_0_Adjective(Tính từ)_tính đánh đổ, làm đổ
+upstairs_0_Adverb(Trạng từ)_ở tên gác
+upstairs_0_Adjective(Tính từ)_cư ngụ ở tầng gác
+upstairs_0_Noun(Danh từ)_tầng trên, gác
+upward_0_Adjective(Tính từ)_lên, hướng lên, đi lên
+urban_0_Adjective(Tính từ)_(thuộc) thành phố, khu vực
+urge_0_Verb(Động từ)_thúc, giục, giục giã
+urge_0_Noun(Danh từ)_sự thúc đẩy, sự thôi thúc
+urgent_0_Adjective(Tính từ)_gấp, khẩn cấp
+us_0_Pronoun(Đại từ)_chúng tôi, chúng ta
+us_0_Pronoun(Đại từ)_tôi và anh
+use_0_Verb(Động từ)_sử dụng, dùng
+use_0_Noun(Danh từ)_sự dùng, sự sử dụng
+used_0_Adjective(Tính từ)_đã dùng, đã sử dụng
+used_0_Verb(Động từ) đã quen dùng
+useful_0_Adjective(Tính từ)_hữu ích, giúp ích
+useless_0_Adjective(Tính từ)_vô ích, vô dụng
+user_0_Noun(Danh từ)_người dùng, người sử dụng
+usual_0_Adjective(Tính từ)_thông thường, thường dùng
+usually_0_Adverb(Trạng từ)_thường thường
+unusual_0_Adjective(Tính từ)_hiếm, khác thường, đáng chú ý
+unusually_0_Adverb(Trạng từ)_cực kỳ, khác thường
+vacation_0_Noun(Danh từ)_kỳ nghỉ hè, kỳ nghỉ lễ
+vacation_0_Noun(Danh từ)_ngày nghỉ, ngày lễ
+valid_0_Adjective(Tính từ)_chắc chắn, hiệu quả, hợp lý
+valley_0_Noun(Danh từ)_thung lũng
+valuable_0_Adjective(Tính từ)_có giá trị lớn, đáng giá
+value_0_Noun(Danh từ)_giá trị
+value_0_Verb(Động từ)_ước tính, định giá
+van_0_Noun(Danh từ)_tiền đội, quân tiên phong
+van_0_Noun(Danh từ)_xe tải
+variation_0_Noun(Danh từ)_sự biến đổi, sự thay đổi mức độ, sự khác nhau
+variety_0_Noun(Danh từ)_sự đa dạng, trạng thái khác nhau
+various_0_Adjective(Tính từ)_khác nhau, thuộc về nhiều loại
+vary_0_Verb(Động từ)_thay đổi, làm cho khác nhau, biến đổi
+varied_0_Adjective(Tính từ)_thuộc nhiều loại khác nhau, những vẻ đa dạng
+vast_0_Adjective(Tính từ)_rộng lớn, mênh mông
+vegetable_0_Noun(Danh từ)_rau, thực vật
+vehicle_0_Noun(Danh từ)_xe cộ
+venture_0_Noun(Danh từ)_sự án kinh doanh, công việc kinh doanh
+ven_0_Verb(Động từ)_liều, mạo hiểm, cả gan
+version_0_Noun(Danh từ)_bản dịch sang một ngôn ngữ khác
+vertical_0_Adjective(Tính từ)_thẳng đứng, đứng
+very_0_Adverb(Trạng từ)_rất, lắm
+via_0_Preposition(Giới từ)_qua, theo đường
+victim_0_Noun(Danh từ)_nạn nhân
+victory_0_Noun(Danh từ)_chiến thắng
+video_0_Noun(Danh từ)_video
+view_0_Noun(Danh từ)_sự nhìn, tầm nhìn
+view_0_Verb(Động từ)_nhìn thấy, xem, quan sát
+village_0_Noun(Danh từ)_làng, xã
+violence_0_Noun(Danh từ)_sự ác liệt, sự dữ dội
+violence_0_Noun(Danh từ)_bạo lực
+violent_0_Adjective(Tính từ)_mãnh liệt, mạnh mẽ, hung dữ
+violently_0_Adverb(Trạng từ)_mãnh liệt, dữ dội
+virtually_0_Adverb(Trạng từ)_thực sự, hầu như, gần như
+virus_0_Noun(Danh từ)_vi rút
+visible_0_Adjective(Tính từ)_hữu hình, thấy được
+vision_0_Noun(Danh từ)_sự nhìn, thị lực
+visit_0_Verb(Động từ)_đi thăm hỏi, đến chơi, tham quan
+visit_0_Noun(Danh từ)_sự đi thăm, sự thăm viếng
+visitor_0_Noun(Danh từ)_khách, du khách
+vital_0_Adjective(Tính từ)_(thuộc) sự sống, cần cho sự sống
+vocabulary_0_Noun(Danh từ)_từ vựng
+voice_0_Noun(Danh từ)_tiếng, giọng nói
+volume_0_Noun(Danh từ)_thế tích, quyển, tập
+vote_0_Noun(Danh từ)_sự bỏ phiếu, sự bầu cử
+vote_0_Verb(Động từ)_bỏ phiếu, bầu cử
+wage_0_Noun(Danh từ)_tiền lương, tiền công
+waist_0_Noun(Danh từ)_eo, chỗ thắt lưng
+wait_0_Verb(Động từ)_chờ đợi
+waiter_0_Noun(Danh từ)_người hầu bàn, người đợi, người trông chờ
+wake_0_Verb(Động từ)_thức dậy, tỉnh thức
+walk_0_Verb(Động từ)_đi, đi bộ
+walk_0_Noun(Danh từ)_sự đi bộ, sự đi dạo
+walking_0_Noun(Danh từ)_sự đi, sự đi bộ
+wall_0_Noun(Danh từ)_tường, vách
+wallet_0_Noun(Danh từ)_cái ví
+wander_0_Verb(Động từ)_đi lang thang
+wander_0_Noun(Danh từ)_sự đi lang thang
+want_0_Verb(Động từ)_muốn
+war_0_Noun(Danh từ)_chiến tranh
+warm_0_Adjective(Tính từ)_ấm, ấm áp
+warm_0_Verb(Động từ)_làm cho nóng, hâm nóng
+warmth_0_Noun(Danh từ)_trạng thái ấm, sự ấm áp
+warmth_0_Noun(Danh từ)_hơi ấm
+warn_0_Verb(Động từ)_báo cho biết, cảnh báo
+warning_0_Noun(Danh từ)_sự báo trước, lời cảnh báo
+wash_0_Verb(Động từ)_rửa, giặt
+washing_0_Noun(Danh từ)_sự tắm rửa, sự giặt
+waste_0_Verb(Động từ)_vùng hoang vu, sa mạc
+waste_0_Noun(Danh từ)_bỏ hoang
+waste_0_Adjective(Tính từ)_lãng phí, uổng phí
+watch_0_Verb(Động từ)_nhìn, theo dõi, quan sát
+watch_0_Noun(Danh từ)_sự canh gác, sự canh phòng
+water_0_Noun(Danh từ)_nước
+wave_0_Noun(Danh từ)_sóng, gợn nước
+wave_0_Verb(Động từ)_gợn sóng, uốn thành sóng
+way_0_Noun(Danh từ)_đường, đường đi
+we_0_Pronoun(Đại từ)_chúng tôi, chúng ta
+weak_0_Adjective(Tính từ)_yếu, yếu ớt
+weakness_0_Noun(Danh từ)_tình trạng yếu đuối, yếu ớt
+wealth_0_Noun(Danh từ)_sự giàu có, sự giàu sang
+weapon_0_Noun(Danh từ)_vũ khí
+wear_0_Verb(Động từ)_mặc, mang, đeo
+weather_0_Noun(Danh từ)_thời tiết
+web_0_Noun(Danh từ)_mạng, lưới
+the Web_0_Noun(Danh từ)
+website_0_Noun(Danh từ) không gian liên tới với Internet
+wedding_0_Noun(Danh từ)_lễ cưới, hôn lễ
+Wednesday_0_Noun(Danh từ)_thứ 4
+week_0_Noun(Danh từ)_tuần, tuần lễ
+weekend_0_Noun(Danh từ)_cuối tuần
+weekly_0_Adjective(Tính từ)_mỗi tuần một lần, hàng tuần
+weigh_0_Verb(Động từ)_cân, cân nặng
+weight_0_Noun(Danh từ)_trọng lượng
+welcome_0_Verb(Động từ)_chào mừng, hoan nghênh
+welcome_0_Adjective(Tính từ)_chào mừng, hoan nghênh
+welcome_0_Noun(Danh từ)_chào mừng, hoan nghênh
+well_0_Adverb(Trạng từ)_tốt, giỏi
+well_0_Adjective(Tính từ)_ôi, may quá!
+west_0_Noun(Danh từ)_phía Tây
+west_0_Adjective(Tính từ)_theo phía tây
+west_0_Adverb(Trạng từ)_về hướng tây
+western_0_Adjective(Tính từ)_về phía tây, của phía tây
+wet_0_Adjective(Tính từ)_ướt, ẩm ướt
+what_0_Pronoun(Đại từ)_gì
+what_0_Determiner(Từ hạn định)_thế nào
+whatever_0_Determiner(Từ hạn định)_bất cứ thứ gì, bất kể thứ gì
+whatever_0_Pronoun(Đại từ)_bất cứ thứ gì, bất kể thứ gì
+wheel_0_Noun(Danh từ)_bánh xe
+when_0_Adverb(Trạng từ)_khi, lúc, vào lúc nào
+when_0_Pronoun(Đại từ)_khi, lúc, vào lúc nào
+when_0_Conjunction(Liên từ)_khi, lúc, vào lúc nào
+whenever_0_Conjunction(Liên từ)_bất cứ lúc nào, lúc nào
+where_0_Adverb(Trạng từ)_đâu, ở đâu
+where_0_Conjunction(Liên từ)_nơi mà
+whereas_0_Conjunction(Liên từ)_nhưng ngược lại, trong khi
+wherever_0_Conjunction(Liên từ)_ở bất cứ nơi nào, ở bất cứ nơi đâu
+whether_0_Conjunction(Liên từ)_có..không
+whether_0_Conjunction(Liên từ)_có... chăng
+whether_0_Conjunction(Liên từ)_không biết có.. không
+which_0_Pronoun(Đại từ)_nào, bất cứ.. nào
+which_0_Determiner(Từ hạn định)_ấy, đó
+while_0_Conjunction(Liên từ)_trong lúc, trong khi
+while_0_Noun(Danh từ)_lúc, chốc, lát
+whilst_0_Conjunction(Liên từ)_trong lúc, trong khi
+whisper_Verb(Động từ)_nói thì thầm, xì xào
+whisper_0_Noun(Danh từ)_tiếng nói thì thầm, tiếng xì xào
+whistle_0_Noun(Danh từ)_sự huýt sáo, sự thổi còi
+whistle_0_Verb(Động từ)_huýt sáo, thổi còi
+white_0_Adjective(Tính từ)_trắng
+white_0_Noun(Danh từ)_màu trắng
+who_0_Pronoun(Đại từ)_ai, người nào, kẻ nào, người như thế nào
+whoever_0_Pronoun(Đại từ)_ai, người nào, bất cứ ai, bất cứ người nào, dù ai
+whole_0_Adjective(Tính từ)_bình an vô sự, không suy suyển, không hư hỏng
+whole_0_Noun(Danh từ)_toàn bộ, tất cả, toàn thể
+whom_0_Pronoun(Đại từ)_ai, người nào
+whom_0_Pronoun(Đại từ)_người mà
+whose_0_Determiner(Từ hạn định)_của ai
+whose_0_Pronoun(Đại từ)_của ai
+why_0_Adverb(Trạng từ)_tại sao, vì sao
+wide_0_Adjective(Tính từ)_rộng, rộng lớn
+widely_0_Adverb(Trạng từ)_nhiều, xa
+widely_0_Adverb(Trạng từ)_rộng rãi
+width_0_Noun(Danh từ)_tính chất rộng, bề rộng
+wife_0_Noun(Danh từ)_vợ
+wild_0_Adjective(Tính từ)_dại, hoang
+wildly_0_Adverb(Trạng từ)_dại, hoang
+will_0_Verb(Động từ)_sẽ
+will_0_Noun(Danh từ)_ý chí, ý định
+willing_0_Adjective(Tính từ)_bằng lòng, vui lòng, muốn
+willingly_0_Adverb(Trạng từ)_sẵn lòng, tự nguyện
+unwilling_0_Adjective(Tính từ)_không sẵn lòng, miễn cưỡng
+unwillingly_0_Adverb(Trạng từ)_không sẵn lòng, miễn cưỡng
+willingness_0_Noun(Danh từ)_sự bằng lòng, sự vui lòng
+win_0_Verb(Động từ)_chiếm, đọat, thu được
+winning_0_Adjective(Tính từ)_đang dành thắng lợi, thắng cuộc
+wind_0_Verb(Động từ)_quấn lại, cuộn lại
+wind_0_Noun(Danh từ)_gió
+window_0_Noun(Danh từ)_cửa sổ
+wine_0_Noun(Danh từ)_rượu, đồ uống
+wing_0_Noun(Danh từ)_cánh, sự bay, sự cất cánh
+winner_0_Noun(Danh từ)_người thắng cuộc
+winter_0_Noun(Danh từ)_mùa đông
+wire_0_Noun(Danh từ)_dây (kim loại)
+wise_0_Adjective(Tính từ)_khôn ngoan, sáng suốt, thông thái
+wish_0_Verb(Động từ)_ước, mong muốn
+wish_0_Noun(Danh từ)_sự mong ước, lòng mong muốn
+with_0_Preposition(Giới từ)_với, cùng
+withdraw_0_Verb(Động từ)_rút, rút khỏi, rút lui
+within_0_Preposition(Giới từ)_trong vong thời gian, trong khoảng thời gian
+without_0_Preposition(Giới từ)_không, không có
+witness_0_Noun(Danh từ)_sự làm chứng, bằng chứng
+witness_0_Verb(Động từ)_chứng kiến, làm chứng
+woman_0_Noun(Danh từ)_đàn bà, phụ nữ
+wonder_0_Verb(Động từ)_ngạc nhiên, lấy làm lạ, kinh ngạc
+wonderful_0_Adjective(Tính từ)_phi thường, khác thường, kỳ diệu, tuyệt vời
+wood_0_Noun(Danh từ)_gỗ
+wooden_0_Adjective(Tính từ)_làm bằng gỗ
+wool_0_Noun(Danh từ)_len
+word_0_Noun(Danh từ)_từ
+work_0_Verb(Động từ)_làm việc
+work_0_Noun(Danh từ)_sự làm việc
+working_0_Adjective(Tính từ)_sự làm, sự làm việc
+worker_0_Noun(Danh từ)_người lao động
+world_0_Noun(Danh từ)_thế giới
+worry_0_Verb(Động từ)_lo lắng, suy nghĩ
+worry_0_Noun(Danh từ)_sự lo lắng, suy nghĩ
+worrying_0_Adjective(Tính từ)_gấy lo lắng, gây lo nghĩ
+worried_0_Adjective(Tính từ)_bồn chồn, lo nghĩ, tỏ ra lo lắng
+worship_0_Noun(Danh từ)_sự tôn thờ, sự tôn sùng
+worship_0_Verb(Động từ)_thờ, thờ phụng, tôn thờ
+worth_0_Adjective(Tính từ)_đáng giá, có giá trị
+wounded_0_Adjective(Tính từ)_bị thương
+wrap_0_Verb(Động từ)_gói, bọc, quấn
+wrapping_0_Noun(Danh từ)_vật bao bọc, vật quấn quanh
+wrist_0_Noun(Danh từ)_cổ tay
+write_0_Verb(Động từ)_viết
+writing_0_Noun(Danh từ)_sự viết
+written_0_Adjective(Tính từ)_viết ra, được thảo ra
+writer_0_Noun(Danh từ)_người viết
+wrong_0_Adjective(Tính từ)_sai
+wrong_0_Adverb(Trạng từ)_sai
+wrongly_0_Adverb(Trạng từ)_một cách bất công, không đúng
+yard_0_Noun(Danh từ)_lat, thước Anh (bằng 0, 914 mét)
+yawn_0_Verb(Động từ)_há miệng
+yawn_0_Noun(Danh từ)_cử chỉ ngáp
+year_0_Noun(Danh từ)_năm
+yellow_0_Adjective(Tính từ)_vàng
+yellow_0_Noun(Danh từ)_màu vàng
+yes_0_Noun(Danh từ)_vâng, phải, có chứ
+yesterday_0_Adverb(Trạng từ)_hôm qua
+yesterday_0_Noun(Danh từ)_hôm qua
+yet_0_Adverb(Trạng từ)_còn, hãy cỏn, còn nữa
+yet_0_Conjunction(Liên từ)_như mà, xong, tuy thế, tuy nhiên
+you_0_Pronoun(Đại từ)_anh, chị, ông, bà, ngài, ngươi, mày
+you_0_Pronoun(Đại từ)_các anh, các chị, các ông, các bà, các ngài, các người, chúng mày
+young_0_Adjective(Tính từ)_trẻ, trẻ tuổi, thanh niên
+your_0_Determiner(Từ hạn định)_của anh, của chị, của ngài, của mày
+your_0_Determiner(Từ hạn định)_của các anh, của các chị, của các ngài, của chúng mày
+yours_0_Pronoun(Đại từ)_cái của anh, cái của chị, cái của ngài, cái của mày
+yours_0_Pronoun(Đại từ)_cái của các anh, cái của các chị, cái của các ngài, cái của chúng mày
+yourself_0_Pronoun(Đại từ)_tự anh, tự chị, chính anh, chính mày, tự mày, tự mình
+youth_0_Noun(Danh từ)_tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu
+zone_0_Noun(Danh từ)_khu vực, miền, vùng
